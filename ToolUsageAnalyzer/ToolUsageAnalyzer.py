@@ -17,7 +17,7 @@ from collections import defaultdict
 # ====================================================================
 
 # How many of the most recently-modified design files to open and scan
-MAX_FILES_TO_SCAN = 10
+MAX_FILES_TO_SCAN = 300
 
 # Tool number range to track
 MIN_TOOL_NUMBER = 1
@@ -28,7 +28,7 @@ OUTPUT_FILE = os.path.join(os.path.expanduser('~'), 'Desktop', 'tool_usage_repor
 
 # Tools used this many times or fewer are flagged as "low usage"
 # and show up as candidates for moving to higher tool numbers.
-LOW_USAGE_THRESHOLD = 2
+LOW_USAGE_THRESHOLD = 10
 
 # ====================================================================
 # END CONFIGURATION

@@ -13,7 +13,7 @@ from collections import defaultdict
 
 
 # ====================================================================
-# CONFIGURATION  –  edit these before running
+# CONFIGURATION  –  default values (overridable via the UI dialog each run)
 # ====================================================================
 
 # How many of the most recently-modified design files to open and scan
@@ -29,6 +29,15 @@ OUTPUT_FILE = os.path.join(os.path.expanduser('~'), 'Desktop', 'tool_usage_repor
 # Tools used this many times or fewer are flagged as "low usage"
 # and show up as candidates for moving to higher tool numbers.
 LOW_USAGE_THRESHOLD = 2
+
+# Set to True to show the second file-picker dialog (Step 2 of 2 — Select Folders).
+# Set to False to skip it and scan all sub-folders in the selected projects.
+ENABLE_FOLDER_PICKER = True
+
+# Maximum sub-folder depth to recurse into during indexing.
+# Most Fusion projects are 3-4 levels deep; increasing this adds one network
+# request per extra folder level found.
+MAX_FOLDER_DEPTH = 8
 
 # ====================================================================
 # END CONFIGURATION
@@ -61,23 +70,38 @@ def _is_design_file(data_file):
         return True
 
 
-def collect_items_from_folder(folder, items_list, depth=0, max_depth=12):
+def collect_items_from_folder(folder, items_list, depth=0, max_depth=None, progress=None, _path=''):
     """Recursively walk a DataFolder and collect Fusion design DataFiles."""
+    if max_depth is None:
+        max_depth = MAX_FOLDER_DEPTH
     if depth > max_depth:
         return
+    if progress is not None and progress.wasCancelled:
+        return
     try:
+        folder_name = folder.name if hasattr(folder, 'name') else ''
+        current_path = f'{_path}/{folder_name}' if _path else folder_name
+
+        if progress is not None:
+            progress.message = f'Indexing ({len(items_list)} found)\n{current_path}'
+            adsk.doEvents()
+
         data_files = folder.dataFiles
         for i in range(data_files.count):
             try:
                 f = data_files.item(i)
                 if _is_design_file(f):
                     items_list.append(f)
+                    if progress is not None:
+                        progress.message = f'Indexing ({len(items_list)} found)\n{current_path}/{f.name}'
+                        adsk.doEvents()
             except Exception:
                 pass
+
         data_folders = folder.dataFolders
         for i in range(data_folders.count):
             try:
-                collect_items_from_folder(data_folders.item(i), items_list, depth + 1, max_depth)
+                collect_items_from_folder(data_folders.item(i), items_list, depth + 1, max_depth, progress, current_path)
             except Exception:
                 pass
     except Exception:
@@ -162,6 +186,9 @@ def select_scan_scope(ui, hub):
             except Exception:
                 pass
         return roots
+
+    if not ENABLE_FOLDER_PICKER:
+        return [entry[2] for entry in all_folders]
 
     lines2 = ['Select folders to scan (recursive).',
               'Enter numbers (e.g. 1,4-7), or leave blank for ALL folders in selected projects.\n']
@@ -332,6 +359,48 @@ def write_report(path, global_counts, file_counts, file_results, files_scanned):
 
 
 # ------------------------------------------------------------------
+# Settings dialog
+# ------------------------------------------------------------------
+
+def _prompt_settings(ui):
+    """Show a single dialog to let the user adjust scan settings before running.
+    Updates the module-level config globals in place.
+    Returns True if confirmed, False if cancelled.
+    """
+    global MAX_FILES_TO_SCAN, MIN_TOOL_NUMBER, MAX_TOOL_NUMBER, LOW_USAGE_THRESHOLD, MAX_FOLDER_DEPTH
+
+    prompt = (
+        'Adjust scan settings, then click OK.\n'
+        'Enter five integers separated by commas:\n\n'
+        '  1. Max files to scan       (most recently modified)\n'
+        '  2. Min tool number         (tool range start)\n'
+        '  3. Max tool number         (tool range end)\n'
+        '  4. Low-usage threshold     (\u2264 this many uses = flagged)\n'
+        '  5. Max folder depth        (sub-folder recursion limit)\n'
+    )
+    default = f'{MAX_FILES_TO_SCAN}, {MIN_TOOL_NUMBER}, {MAX_TOOL_NUMBER}, {LOW_USAGE_THRESHOLD}, {MAX_FOLDER_DEPTH}'
+
+    while True:
+        result, cancelled = ui.inputBox(prompt, 'Tool Usage Analyzer \u2014 Settings', default)
+        if cancelled:
+            return False
+        parts = [p.strip() for p in result.split(',')]
+        if len(parts) == 5:
+            try:
+                vals = [int(p) for p in parts]
+                MAX_FILES_TO_SCAN   = vals[0]
+                MIN_TOOL_NUMBER     = vals[1]
+                MAX_TOOL_NUMBER     = vals[2]
+                LOW_USAGE_THRESHOLD = vals[3]
+                MAX_FOLDER_DEPTH    = vals[4]
+                return True
+            except ValueError:
+                pass
+        ui.messageBox('Please enter exactly 5 comma-separated integers.\nExample:  1000, 1, 320, 2, 8')
+        default = result   # keep what they typed so they can correct it
+
+
+# ------------------------------------------------------------------
 # Main entry point
 # ------------------------------------------------------------------
 
@@ -352,6 +421,9 @@ def run(context):
         # ----------------------------------------------------------
         progress.hide()   # hide while dialogs are open
 
+        if not _prompt_settings(ui):
+            return
+
         hub = app.data.activeHub
         selected_folders = select_scan_scope(ui, hub)
         if selected_folders is None:   # user hit Cancel
@@ -370,12 +442,7 @@ def run(context):
         for folder in selected_folders:
             if progress.wasCancelled:
                 break
-            try:
-                progress.message = f'Indexing: {folder.name}'
-                adsk.doEvents()
-            except Exception:
-                pass
-            collect_items_from_folder(folder, all_items)
+            collect_items_from_folder(folder, all_items, progress=progress)
 
         if progress.wasCancelled:
             progress.hide()

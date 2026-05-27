@@ -17,7 +17,7 @@ from collections import defaultdict
 # ====================================================================
 
 # How many of the most recently-modified design files to open and scan
-MAX_FILES_TO_SCAN = 300
+MAX_FILES_TO_SCAN = 1000
 
 # Tool number range to track
 MIN_TOOL_NUMBER = 1
@@ -28,7 +28,7 @@ OUTPUT_FILE = os.path.join(os.path.expanduser('~'), 'Desktop', 'tool_usage_repor
 
 # Tools used this many times or fewer are flagged as "low usage"
 # and show up as candidates for moving to higher tool numbers.
-LOW_USAGE_THRESHOLD = 10
+LOW_USAGE_THRESHOLD = 2
 
 # ====================================================================
 # END CONFIGURATION
@@ -184,45 +184,55 @@ def select_scan_scope(ui, hub):
 
 def scan_cam_product(cam):
     """
-    Iterate all operations in an adsk.cam.CAM product using index-based access.
+    Iterate milling operations only in an adsk.cam.CAM product.
+    Setups whose operationType is not MillingOperation are skipped.
     Returns ({tool_number: use_count}, diagnostic_string).
     """
     counts = defaultdict(int)
     diag   = []
     try:
-        all_ops  = cam.allOperations
-        n_ops    = all_ops.count
         n_setups = cam.setups.count
-        diag.append(f'{n_setups} setup(s), {n_ops} operation(s)')
-        for i in range(n_ops):
+        n_ops    = cam.allOperations.count
+        diag.append(f'{n_setups} setup(s), {n_ops} operation(s) total')
+        for si in range(n_setups):
             try:
-                op   = all_ops.item(i)
-                tool = op.tool
-                if tool is not None:
-                    # Read tool number via CAMParameters.itemByName
-                    num = None
-                    for pname in ('tool_number', 'number', 'toolNumber', 'tool-number'):
-                        try:
-                            p = tool.parameters.itemByName(pname)
-                            if p is not None:
-                                raw = p.value
-                                # CAMParameter.value returns an IntegerParameterValue
-                                # object; call .value again to get the plain int.
-                                num = raw.value if hasattr(raw, 'value') else raw
-                                diag.append(f'  op[{i}] "{op.name}": T{num} (via "{pname}")')
-                                break
-                        except Exception:
-                            pass
-                    if num is None:
-                        diag.append(f'  op[{i}] "{op.name}": tool number param not found')
-                    elif MIN_TOOL_NUMBER <= int(num) <= MAX_TOOL_NUMBER:
-                        counts[int(num)] += 1
-                    else:
-                        diag.append(f'    ^ out of range ({num})')
-                else:
-                    diag.append(f'  op[{i}] "{op.name}": no tool assigned')
-            except Exception as oe:
-                diag.append(f'  op[{i}] error: {oe}')
+                setup = cam.setups.item(si)
+                if setup.operationType != adsk.cam.OperationTypes.MillingOperation:
+                    diag.append(f'  setup "{setup.name}": skipped (not milling)')
+                    continue
+                diag.append(f'  setup "{setup.name}": milling — scanning')
+                setup_ops = setup.allOperations
+                for i in range(setup_ops.count):
+                    try:
+                        op   = setup_ops.item(i)
+                        tool = op.tool
+                        if tool is not None:
+                            # Read tool number via CAMParameters.itemByName
+                            num = None
+                            for pname in ('tool_number', 'number', 'toolNumber', 'tool-number'):
+                                try:
+                                    p = tool.parameters.itemByName(pname)
+                                    if p is not None:
+                                        raw = p.value
+                                        # CAMParameter.value returns an IntegerParameterValue
+                                        # object; call .value again to get the plain int.
+                                        num = raw.value if hasattr(raw, 'value') else raw
+                                        diag.append(f'    op[{i}] "{op.name}": T{num} (via "{pname}")')
+                                        break
+                                except Exception:
+                                    pass
+                            if num is None:
+                                diag.append(f'    op[{i}] "{op.name}": tool number param not found')
+                            elif MIN_TOOL_NUMBER <= int(num) <= MAX_TOOL_NUMBER:
+                                counts[int(num)] += 1
+                            else:
+                                diag.append(f'      ^ out of range ({num})')
+                        else:
+                            diag.append(f'    op[{i}] "{op.name}": no tool assigned')
+                    except Exception as oe:
+                        diag.append(f'    op[{i}] error: {oe}')
+            except Exception as se:
+                diag.append(f'  setup[{si}] error: {se}')
     except Exception as e:
         diag.append(f'cam scan error: {e}')
     return counts, '\n'.join(diag)
@@ -314,11 +324,11 @@ def write_report(path, global_counts, file_counts, file_results, files_scanned):
         w.writerow([])
 
         # --- Per-file breakdown ---
-        w.writerow(['--- PER-FILE BREAKDOWN ---'])
-        w.writerow(['File Name', 'Date Modified', 'CAM Tools Used (count)', 'Error'])
-        for r in file_results:
-            tools_str = '  '.join(f'T{k}({v}x)' for k, v in sorted(r.get('tools', {}).items()))
-            w.writerow([r['name'], r.get('date', ''), tools_str, r.get('error', '')])
+        # w.writerow(['--- PER-FILE BREAKDOWN ---'])
+        # w.writerow(['File Name', 'Date Modified', 'CAM Tools Used (count)', 'Error'])
+        # for r in file_results:
+        #     tools_str = '  '.join(f'T{k}({v}x)' for k, v in sorted(r.get('tools', {}).items()))
+        #     w.writerow([r['name'], r.get('date', ''), tools_str, r.get('error', '')])
 
 
 # ------------------------------------------------------------------

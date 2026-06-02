@@ -1,238 +1,258 @@
-Fusion 360 Tool Usage Analysis Report
-Generated,2026-05-27 12:16:11
-Files scanned,1000
-Files with CAM data,623
-Unique tools found,193
-
-"--- ALL TOOLS (sorted by total uses, descending) ---"
-Tool Number,Total Uses,Files Used In,Recommendation
-T1,2480,514,
-T33,2243,531,
-T32,1033,227,
-T31,651,151,
-T24,637,169,
-T73,604,153,
-T95,497,205,
-T22,441,178,
-T84,400,107,
-T36,334,105,
-T69,333,109,
-T20,301,86,
-T171,259,185,
-T82,251,94,
-T4,251,62,
-T184,245,155,
-T17,221,69,
-T157,193,126,
-T166,189,67,
-T44,178,32,
-T172,161,73,
-T173,161,60,
-T160,154,123,
-T199,152,122,
-T174,150,57,
-T35,144,73,
-T142,140,109,
-T9,105,61,
-T57,102,88,
-T30,101,51,
-T177,99,76,
-T23,94,44,
-T59,93,40,
-T58,92,20,
-T178,89,72,
-T2,89,38,
-T99,89,27,
-T155,82,21,
-T110,76,25,
-T41,75,63,
-T87,75,36,
-T46,72,25,
-T161,65,54,
-T19,64,30,
-T167,62,47,
-T118,57,51,
-T128,56,20,
-T64,55,37,
-T48,53,17,
-T175,51,36,
-T98,49,36,
-T185,48,22,
-T80,46,14,
-T18,44,21,
-T3,43,29,
-T7,41,36,
-T79,40,18,
-T109,39,37,
-T179,38,31,
-T40,38,19,
-T156,37,18,
-T180,37,23,
-T52,35,19,
-T143,34,21,
-T91,33,19,
-T78,33,11,
-T45,33,20,
-T60,33,8,
-T85,31,17,
-T26,30,11,
-T75,30,4,
-T190,28,24,
-T72,28,8,
-T34,28,7,
-T170,27,22,
-T94,27,21,
-T50,26,8,
-T158,25,8,
-T49,25,8,
-T62,24,12,
-T130,24,16,
-T188,24,15,
-T100,24,19,
-T122,22,17,
-T61,22,10,
-T29,22,5,
-T93,22,21,
-T10,21,13,
-T6,21,9,
-T8,20,18,
-T27,20,16,
-T56,20,5,
-T101,19,13,
-T14,19,10,
-T5,17,11,
-T119,17,17,
-T159,16,12,
-T104,16,13,
-T147,16,10,
-T71,16,4,
-T70,15,9,
-T150,15,14,
-T205,15,10,
-T42,15,8,
-T11,14,7,
-T21,14,9,
-T108,14,11,
-T47,13,13,
-T54,13,6,
-T76,12,8,
-T123,12,10,
-T68,12,6,
-T176,12,10,
-T25,11,6,
-T13,11,10,
-T191,10,5,
-T107,10,3,
-T163,8,8,
-T132,8,4,
-T53,8,3,
-T97,8,3,
-T28,8,5,
-T12,8,2,
-T90,7,3,
-T192,7,3,
-T92,7,3,
-T114,7,7,
-T134,7,7,
-T140,7,7,
-T183,6,6,
-T96,6,6,
-T242,6,3,
-T67,6,1,
-T209,6,3,
-T112,6,2,
-T102,6,3,
-T83,6,2,
-T86,5,4,
-T16,5,3,
-T181,5,5,
-T103,5,4,
-T195,5,5,
-T15,5,4,
-T111,5,4,
-T51,5,3,
-T148,4,2,
-T217,4,4,
-T182,4,4,
-T121,4,4,
-T120,4,2,
-T89,4,1,
-T65,4,3,
-T245,3,2,
-T153,3,3,
-T226,3,2,
-T106,3,3,
-T151,3,3,
-T129,3,3,
-T113,3,2,
-T105,3,1,
-T74,3,2,
-T227,3,3,
-T131,3,1,
-T198,2,2,Consider renumbering to a higher slot
-T38,2,2,Consider renumbering to a higher slot
-T63,2,1,Consider renumbering to a higher slot
-T37,2,2,Consider renumbering to a higher slot
-T115,2,1,Consider renumbering to a higher slot
-T43,2,2,Consider renumbering to a higher slot
-T189,2,1,Consider renumbering to a higher slot
-T39,2,2,Consider renumbering to a higher slot
-T186,2,2,Consider renumbering to a higher slot
-T116,2,2,Consider renumbering to a higher slot
-T117,2,2,Consider renumbering to a higher slot
-T127,2,1,Consider renumbering to a higher slot
-T274,2,2,Consider renumbering to a higher slot
-T279,2,2,Consider renumbering to a higher slot
-T145,1,1,Consider renumbering to a higher slot
-T233,1,1,Consider renumbering to a higher slot
-T146,1,1,Consider renumbering to a higher slot
-T77,1,1,Consider renumbering to a higher slot
-T197,1,1,Consider renumbering to a higher slot
-T55,1,1,Consider renumbering to a higher slot
-T208,1,1,Consider renumbering to a higher slot
-T165,1,1,Consider renumbering to a higher slot
-T241,1,1,Consider renumbering to a higher slot
-T229,1,1,Consider renumbering to a higher slot
-T193,1,1,Consider renumbering to a higher slot
-T149,1,1,Consider renumbering to a higher slot
-T66,1,1,Consider renumbering to a higher slot
-T300,1,1,Consider renumbering to a higher slot
-T278,1,1,Consider renumbering to a higher slot
-T88,1,1,Consider renumbering to a higher slot
-
---- LOW-USAGE TOOLS (<= 2 uses) — RENUMBERING CANDIDATES ---
-Tool Number,Total Uses,Files Used In
-T198,2,2
-T38,2,2
-T63,2,1
-T37,2,2
-T115,2,1
-T43,2,2
-T189,2,1
-T39,2,2
-T186,2,2
-T116,2,2
-T117,2,2
-T127,2,1
-T274,2,2
-T279,2,2
-T145,1,1
-T233,1,1
-T146,1,1
-T77,1,1
-T197,1,1
-T55,1,1
-T208,1,1
-T165,1,1
-T241,1,1
-T229,1,1
-T193,1,1
-T149,1,1
-T66,1,1
-T300,1,1
-T278,1,1
-T88,1,1
-
---- UNUSED TOOL NUMBER SLOTS (1–320) ---
-Free slots:,"81, 124-126, 133, 135-139, 141, 144, 152, 154, 162, 164, 168-169, 187, 194, 196, 200-204, 206-207, 210-216, 218-225, 228, 230-232, 234-240, 243-244, 246-273, 275-277, 280-299, 301-320"
-
+Fusion 360 Tool Usage Analysis Report,,,,
+Generated,2026-05-27 12:16:11,,,
+Files scanned,1000,,,
+Files with CAM data,623,,,
+Unique tools found,193,,,
+,,,,
+"--- ALL TOOLS (sorted by total uses, descending) ---",,,,
+Tool Number,Total Uses,Files Used In,Recommendation,Keep/Remove
+T1,2480,514,,
+T33,2243,531,,
+T32,1033,227,,
+T31,651,151,,
+T24,637,169,,
+T73,604,153,,
+T95,497,205,,
+T22,441,178,,
+T84,400,107,,
+T36,334,105,,
+T69,333,109,,
+T20,301,86,,
+T171,259,185,,
+T82,251,94,,
+T4,251,62,,Remove
+T184,245,155,,
+T17,221,69,,
+T157,193,126,,
+T166,189,67,,
+T44,178,32,,
+T172,161,73,,
+T173,161,60,,
+T160,154,123,,
+T199,152,122,,
+T174,150,57,,
+T35,144,73,,
+T142,140,109,,
+T9,105,61,Changed to T15,Remove
+T57,102,88,,
+T30,101,51,,
+T177,99,76,,
+T23,94,44,,
+T59,93,40,,
+T58,92,20,,
+T178,89,72,,
+T2,89,38,,Remove
+T99,89,27,"Old Probe Number, Maybe remove?",
+T155,82,21,,
+T110,76,25,,
+T41,75,63,,
+T87,75,36,,
+T46,72,25,,
+T161,65,54,,
+T19,64,30,,
+T167,62,47,,
+T118,57,51,,
+T128,56,20,,
+T64,55,37,,
+T48,53,17,,
+T175,51,36,,
+T98,49,36,,
+T185,48,22,,
+T80,46,14,,
+T18,44,21,,
+T3,43,29,,Remove
+T7,41,36,"Changed Tool Numbers, don't remember number",
+T79,40,18,,
+T109,39,37,,
+T179,38,31,,
+T40,38,19,,
+T156,37,18,,
+T180,37,23,Possibly remove? Need to check fusion,
+T52,35,19,,
+T143,34,21,,
+T91,33,19,,
+T78,33,11,,
+T45,33,20,,
+T60,33,8,,
+T85,31,17,,
+T26,30,11,,
+T75,30,4,,
+T190,28,24,,
+T72,28,8,,
+T34,28,7,,
+T170,27,22,,
+T94,27,21,,
+T50,26,8,,
+T158,25,8,,
+T49,25,8,Use more or remove,
+T62,24,12,,
+T130,24,16,,
+T188,24,15,,
+T100,24,19,,
+T122,22,17,,
+T61,22,10,,
+T29,22,5,,
+T93,22,21,,
+T10,21,13,Changed Tool Number,Remove
+T6,21,9,Changed Tool Number,Remove
+T8,20,18,Changed Tool Number,Remove
+T27,20,16,,
+T56,20,5,,
+T101,19,13,,
+T14,19,10,,
+T5,17,11,Changed Tool Number,Remove
+T119,17,17,,
+T159,16,12,,
+T104,16,13,,
+T147,16,10,,
+T71,16,4,,
+T70,15,9,,
+T150,15,14,,
+T205,15,10,,
+T42,15,8,Move to over T200+,
+T11,14,7,Change Tool Number,Remove
+T21,14,9,Move to over T200+,
+T108,14,11,,
+T47,13,13,,
+T54,13,6,Possibly move to T200+,
+T76,12,8,,
+T123,12,10,,
+T68,12,6,,Keep
+T176,12,10,,
+T25,11,6,Possibly move to T200+,
+T13,11,10,,Keep
+T191,10,5,Move to over T200+,
+T107,10,3,Move to over T200+,
+T163,8,8,,Keep
+T132,8,4,,Keep
+T53,8,3,,Keep
+T97,8,3,Possibly move to T200+,
+T28,8,5,,Keep
+T12,8,2,Move to over T200+,
+T90,7,3,,Keep
+T192,7,3,Move to over T200+,
+T92,7,3,Move to over T200+,
+T114,7,7,Move to over T200+,
+T134,7,7,Move to over T200+,
+T140,7,7,Move to over T200+,
+T183,6,6,Move to over T200+,
+T96,6,6,Possibly move to T200+,
+T242,6,3,,
+T67,6,1,,Keep
+T209,6,3,,
+T112,6,2,Possibly move to T200+,
+T102,6,3,Move to over T200+,
+T83,6,2,Possibly move to T200+,
+T86,5,4,Possibly move to T200+,
+T16,5,3,,Keep
+T181,5,5,,Keep
+T103,5,4,,Keep
+T195,5,5,,Keep
+T15,5,4,,Keep
+T111,5,4,Move to over T200+,
+T51,5,3,Move to over T200+,
+T148,4,2,Possibly move to T200+,
+T217,4,4,,
+T182,4,4,Possibly move to T200+,
+T121,4,4,Move to over T200+,
+T120,4,2,Move to over T200+,
+T89,4,1,Move to over T200+,
+T65,4,3,Move to over T200+,
+T245,3,2,,
+T153,3,3,Move to over T200+,
+T226,3,2,,
+T106,3,3,Move to over T200+,
+T151,3,3,Possibly move to T200+,
+T129,3,3,Possibly move to T200+,
+T113,3,2,Move to over T200+,
+T105,3,1,Move to over T200+,
+T74,3,2,Move to over T200+,
+T227,3,3,,
+T131,3,1,Move to over T200+,
+T198,2,2,Move to over T200+,
+T38,2,2,Move to over T200+,
+T63,2,1,,Keep
+T37,2,2,,Keep
+T115,2,1,Move to over T200+,
+T43,2,2,Possibly move to T200+,
+T189,2,1,,Keep
+T39,2,2,Possibly move to T200+,
+T186,2,2,Move to over T200+,
+T116,2,2,Move to over T200+,
+T117,2,2,Move to over T200+,
+T127,2,1,,Keep
+T274,2,2,Consider renumbering to a higher slot,
+T279,2,2,Consider renumbering to a higher slot,
+T145,1,1,Consider renumbering to a higher slot,
+T233,1,1,Consider renumbering to a higher slot,
+T146,1,1,Move to over T200+,
+T77,1,1,Move to over T200+,
+T197,1,1,Possibly move to T200+,
+T55,1,1,Possibly move to T200+,
+T208,1,1,Consider renumbering to a higher slot,
+T165,1,1,Possibly move to T200+,
+T241,1,1,Consider renumbering to a higher slot,
+T229,1,1,Consider renumbering to a higher slot,
+T193,1,1,Possibly move to T200+,
+T149,1,1,Move to over T200+,
+T66,1,1,,Keep
+T300,1,1,Consider renumbering to a higher slot,
+T278,1,1,Consider renumbering to a higher slot,
+T88,1,1,,Keep
+,,,,
+--- LOW-USAGE TOOLS (<= 2 uses) — RENUMBERING CANDIDATES ---,,,,
+Tool Number,Total Uses,Files Used In,,
+T198,2,2,,
+T38,2,2,,
+T63,2,1,,
+T37,2,2,,
+T115,2,1,,
+T43,2,2,,
+T189,2,1,,
+T39,2,2,,
+T186,2,2,,
+T116,2,2,,
+T117,2,2,,
+T127,2,1,,
+T274,2,2,,
+T279,2,2,,
+T145,1,1,,
+T233,1,1,,
+T146,1,1,,
+T77,1,1,,
+T197,1,1,,
+T55,1,1,,
+T208,1,1,,
+T165,1,1,,
+T241,1,1,,
+T229,1,1,,
+T193,1,1,,
+T149,1,1,,
+T66,1,1,,
+T300,1,1,,
+T278,1,1,,
+T88,1,1,,
+,,,,
+--- UNUSED TOOL NUMBER SLOTS (1–320) ---,,,,
+Free slots:,"81, 124-126, 133, 135-139, 141, 144, 152, 154, 162, 164, 168-169, 187, 194, 196, 200-204, 206-207, 210-216, 218-225, 228, 230-232, 234-240, 243-244, 246-273, 275-277, 280-299, 301-320",,,
+81,Move to over T200+,,,
+124,Keep,,,
+125,Move to over T200+,,,
+126,Move to over T200+,,,
+133,Keep,,,
+135,Move to over T200+,,,
+136,Move to over T200+,,,
+137,Keep,,,
+138,Keep,,,
+139,Move to over T200+,,,
+141,Move to over T200+,,,
+144,Move to over T200+,,,
+152,Keep,,,
+154,Keep,,,
+162,Move to over T200+,,,
+164,Move to over T200+,,,
+168,Move to over T200+,,,
+169,Move to over T200+,,,
+187,Move to over T200+,,,
+194,Move to over T200+,,,
+196,Move to over T200+,,,

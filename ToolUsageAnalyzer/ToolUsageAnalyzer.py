@@ -92,11 +92,12 @@ def collect_items_from_folder(folder, items_list, depth=0, max_depth=None, progr
                 f = data_files.item(i)
                 if _is_design_file(f):
                     items_list.append(f)
-                    if progress is not None:
-                        progress.message = f'Indexing ({len(items_list)} found)\n{current_path}/{f.name}'
-                        adsk.doEvents()
             except Exception:
                 pass
+        # Update UI once per folder rather than once per file.
+        if progress is not None:
+            progress.message = f'Indexing ({len(items_list)} found)\n{current_path}'
+            adsk.doEvents()
 
         data_folders = folder.dataFolders
         for i in range(data_folders.count):
@@ -209,6 +210,30 @@ def select_scan_scope(ui, hub):
 # CAM scanning
 # ------------------------------------------------------------------
 
+# Cached parameter name: once we discover which name Fusion uses, try it first
+# for every subsequent tool lookup rather than trying all four every time.
+_working_param_name = None
+
+
+def _get_tool_number(tool):
+    """Return the integer tool number from a CAM tool, caching the working param name."""
+    global _working_param_name
+    candidates = ('tool_number', 'number', 'toolNumber', 'tool-number')
+    order = ((_working_param_name,) + tuple(n for n in candidates if n != _working_param_name)
+             if _working_param_name else candidates)
+    for pname in order:
+        try:
+            p = tool.parameters.itemByName(pname)
+            if p is not None:
+                raw = p.value
+                num = int(raw.value if hasattr(raw, 'value') else raw)
+                _working_param_name = pname
+                return num
+        except Exception:
+            pass
+    return None
+
+
 def scan_cam_product(cam):
     """
     Iterate milling operations only in an adsk.cam.CAM product.
@@ -225,39 +250,18 @@ def scan_cam_product(cam):
             try:
                 setup = cam.setups.item(si)
                 if setup.operationType != adsk.cam.OperationTypes.MillingOperation:
-                    diag.append(f'  setup "{setup.name}": skipped (not milling)')
                     continue
-                diag.append(f'  setup "{setup.name}": milling — scanning')
                 setup_ops = setup.allOperations
                 for i in range(setup_ops.count):
                     try:
                         op   = setup_ops.item(i)
                         tool = op.tool
                         if tool is not None:
-                            # Read tool number via CAMParameters.itemByName
-                            num = None
-                            for pname in ('tool_number', 'number', 'toolNumber', 'tool-number'):
-                                try:
-                                    p = tool.parameters.itemByName(pname)
-                                    if p is not None:
-                                        raw = p.value
-                                        # CAMParameter.value returns an IntegerParameterValue
-                                        # object; call .value again to get the plain int.
-                                        num = raw.value if hasattr(raw, 'value') else raw
-                                        diag.append(f'    op[{i}] "{op.name}": T{num} (via "{pname}")')
-                                        break
-                                except Exception:
-                                    pass
-                            if num is None:
-                                diag.append(f'    op[{i}] "{op.name}": tool number param not found')
-                            elif MIN_TOOL_NUMBER <= int(num) <= MAX_TOOL_NUMBER:
-                                counts[int(num)] += 1
-                            else:
-                                diag.append(f'      ^ out of range ({num})')
-                        else:
-                            diag.append(f'    op[{i}] "{op.name}": no tool assigned')
-                    except Exception as oe:
-                        diag.append(f'    op[{i}] error: {oe}')
+                            num = _get_tool_number(tool)
+                            if num is not None and MIN_TOOL_NUMBER <= num <= MAX_TOOL_NUMBER:
+                                counts[num] += 1
+                    except Exception:
+                        pass
             except Exception as se:
                 diag.append(f'  setup[{si}] error: {se}')
     except Exception as e:
@@ -474,15 +478,16 @@ def run(context):
         for i, item in enumerate(files_to_scan):
             if progress.wasCancelled:
                 break
+            file_date = _fmt_date(item)
             progress.progressValue = 20 + int((i / total) * 75)
-            progress.message = f'Scanning {i + 1}/{total}: {item.name}  ({_fmt_date(item)})'
+            progress.message = f'Scanning {i + 1}/{total}: {item.name}  ({file_date})'
             adsk.doEvents()
 
             doc          = None
             opened_by_us = False
             result = {
                 'name':  item.name,
-                'date':  _fmt_date(item),
+                'date':  file_date,
                 'tools': {},
                 'error': ''
             }
@@ -503,14 +508,6 @@ def run(context):
                     opened_by_us = True
                     adsk.doEvents()
 
-                # Show all available product types for diagnostics
-                prod_types = []
-                for pi in range(doc.products.count):
-                    try:
-                        prod_types.append(doc.products.item(pi).objectType)
-                    except Exception:
-                        pass
-
                 cam_product = doc.products.itemByProductType('CAMProductType')
                 if cam_product:
                     cam              = adsk.cam.CAM.cast(cam_product)
@@ -521,6 +518,12 @@ def run(context):
                         global_tool_counts[tool_num] += count
                         tool_file_counts[tool_num]   += 1
                 else:
+                    prod_types = []
+                    for pi in range(doc.products.count):
+                        try:
+                            prod_types.append(doc.products.item(pi).objectType)
+                        except Exception:
+                            pass
                     result['error'] = (f'No CAM product found. '
                                        f'Products: {prod_types}')
 

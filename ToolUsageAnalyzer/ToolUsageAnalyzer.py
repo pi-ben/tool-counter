@@ -270,9 +270,11 @@ def scan_cam_product(cam):
 # ------------------------------------------------------------------
 
 def _parse_date(item):
-    """Return a sortable datetime for a DataItem (handles datetime or ISO string)."""
+    """Return a sortable datetime for a DataItem (handles Unix epoch int, datetime, or ISO string)."""
     try:
         d = item.dateModified
+        if isinstance(d, (int, float)):
+            return datetime.utcfromtimestamp(d)
         if isinstance(d, datetime):
             return d
         if isinstance(d, str):
@@ -285,6 +287,8 @@ def _parse_date(item):
 def _fmt_date(item):
     try:
         d = item.dateModified
+        if isinstance(d, (int, float)):
+            return datetime.utcfromtimestamp(d).strftime('%Y-%m-%d %H:%M')
         if isinstance(d, datetime):
             return d.strftime('%Y-%m-%d %H:%M')
         return str(d)
@@ -471,7 +475,7 @@ def run(context):
             if progress.wasCancelled:
                 break
             progress.progressValue = 20 + int((i / total) * 75)
-            progress.message = f'Scanning {i + 1}/{total}: {item.name}'
+            progress.message = f'Scanning {i + 1}/{total}: {item.name}  ({_fmt_date(item)})'
             adsk.doEvents()
 
             doc          = None

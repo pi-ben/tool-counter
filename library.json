@@ -16,7 +16,7 @@
                 "assemblyGaugeLength": 8.4164016,
                 "shoulder-length": 2.125
             },
-            "guid": "1add1800-d7ee-432a-b6c9-581dacff0c86",
+            "guid": "0082d9e7-e070-4e2b-9342-14e2b96ff99c",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -155,7 +155,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.125
             },
-            "guid": "eafe3c00-ccd7-4c3b-9cf8-cf684cb011e8",
+            "guid": "89f12ba3-5b21-4de4-a333-b0054d81e34e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -429,7 +429,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.186
             },
-            "guid": "16a34800-5ba0-471c-9058-2108b2bf3529",
+            "guid": "07dbae4b-95d4-4c47-84ba-83ba9bb21c7a",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -780,7 +780,7 @@
                 "assemblyGaugeLength": 3.9164016,
                 "shoulder-length": 1.3
             },
-            "guid": "8db48d00-c490-497b-9d36-36d7d349faf6",
+            "guid": "1f42ccf0-e9e0-440e-809b-c86df3633c34",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -984,7 +984,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.125
             },
-            "guid": "2b5b7701-8960-4af0-af3a-7165309c82eb",
+            "guid": "a09c7dec-fda9-467e-97b3-b8d56407e6d0",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -1130,7 +1130,7 @@
             },
             "product-id": "82665",
             "product-link": "https://www.helicaltool.com/products/tool-details-82665",
-            "reference_guid": "2b5b7701-8960-4af0-af3a-7165309c82eb",
+            "reference_guid": "a09c7dec-fda9-467e-97b3-b8d56407e6d0",
             "shaft": {
                 "segments": [
                     {
@@ -1327,7 +1327,7 @@
                 "assemblyGaugeLength": 5.8064016,
                 "shoulder-length": 1.85
             },
-            "guid": "7286f801-c470-44fd-b27f-c4cd76a6bae7",
+            "guid": "aa3c461b-b66d-44cd-9b75-27c63c3edf9c",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -1511,7 +1511,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.125
             },
-            "guid": "c9616302-a1a8-4653-9099-4b415a8ccf59",
+            "guid": "a5c873ca-1afc-47ca-b941-1e0018a3c8bf",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -1657,7 +1657,7 @@
             },
             "product-id": "X97634188",
             "product-link": "https://webshop.fraisa.com/US/en/high-feed-end-mills-xfeed-prdX97634188",
-            "reference_guid": "c9616302-a1a8-4653-9099-4b415a8ccf59",
+            "reference_guid": "a5c873ca-1afc-47ca-b941-1e0018a3c8bf",
             "shaft": {
                 "segments": [
                     {
@@ -1780,7 +1780,7 @@
                 "assemblyGaugeLength": 6.0564016,
                 "shoulder-length": 2.5
             },
-            "guid": "2e0cb502-2ad1-4165-a57a-ee01d231e526",
+            "guid": "2894c3b0-1ac5-4b96-88c4-28824dcba4e1",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -1906,7 +1906,7 @@
                 "shoulder-diameter": 0.75,
                 "shoulder-length": 3.75
             },
-            "guid": "6f424a03-b318-4416-aa81-09125d968ab4",
+            "guid": "32c39350-2950-4dab-8560-b631a8a0c749",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -2244,7 +2244,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "6d456b03-e76a-434b-8910-c17bd5dd5492",
+            "guid": "44af6ef9-4509-437c-a79d-02ab282b68d0",
             "last_modified": 1779465734112,
             "post-process": {
                 "break-control": false,
@@ -2258,7 +2258,7 @@
             },
             "product-id": "",
             "product-link": "",
-            "reference_guid": "6d456b03-e76a-434b-8910-c17bd5dd5492",
+            "reference_guid": "44af6ef9-4509-437c-a79d-02ab282b68d0",
             "start-values": {
                 "presets": [
                     {
@@ -2312,7 +2312,7 @@
                 "shoulder-length": 0.9,
                 "tip-diameter": 0.126
             },
-            "guid": "9a706204-22c4-4778-9595-a92e7a615719",
+            "guid": "c6040e2a-128b-4369-b688-7d4146c321dd",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -2419,7 +2419,7 @@
                 "assemblyGaugeLength": 4.9314016,
                 "shoulder-length": 1.25
             },
-            "guid": "9108dd04-36bb-4b5d-ad22-766374368e92",
+            "guid": "e0f0aa24-231a-4755-8f14-8da42d1d611f",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -2541,7 +2541,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 2.125
             },
-            "guid": "ceb5bd05-7579-4e80-8bf5-452f18cd7bf8",
+            "guid": "6834dc69-f222-4b16-a83c-75aeea047454",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -2879,7 +2879,7 @@
                 "shoulder-diameter": 0.031,
                 "shoulder-length": 0.047
             },
-            "guid": "d0cd3406-83bb-4fe7-be4f-075a090af596",
+            "guid": "aa0e406b-345b-4bbb-8bff-36ed94c00f16",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "gaugeLength": 100.53,
@@ -3089,7 +3089,7 @@
                 "shoulder-diameter": 0.12,
                 "shoulder-length": 0.125
             },
-            "guid": "f3eeb807-e15e-4efe-8dbf-974112ad9687",
+            "guid": "85c15c98-a4ca-4c1d-b08b-fe556ae975c6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -3227,7 +3227,7 @@
                 "assemblyGaugeLength": 5.9578740157480325,
                 "shoulder-length": 1
             },
-            "guid": "89327608-e3b3-4071-adb2-9e22abf7afb3",
+            "guid": "2243c8d4-0fda-4fb9-a9cc-a9809ef31d95",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -3433,7 +3433,7 @@
                 "assemblyGaugeLength": 5.2177165354330715,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "e85f9908-641a-4964-9723-0c3e5871108e",
+            "guid": "19cadd84-9d7a-47cd-9732-a58a85766c9e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -3705,7 +3705,7 @@
                 "assemblyGaugeLength": 7.9214016,
                 "shoulder-length": 5.3
             },
-            "guid": "4306ab08-616b-4a3c-b250-fc5bdbca2841",
+            "guid": "2c4d0026-3cfd-407e-9f09-33d235101b96",
             "holder": {
                 "description": "BT30 - ER32 Collet, 60mm",
                 "gaugeLength": 2.4214016,
@@ -3852,7 +3852,7 @@
                 "shoulder-diameter": 0.75,
                 "shoulder-length": 1.378
             },
-            "guid": "7bf6ae08-1a81-4a87-82af-49d9c56da7e2",
+            "guid": "ceea05a4-9934-4f1b-8854-9f8512a19aef",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "gaugeLength": 43.41,
@@ -4068,7 +4068,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 1
             },
-            "guid": "7656eb08-e269-46fb-b820-8ef7e9769148",
+            "guid": "8bcb9f6e-62e7-4239-92d6-ba6e492d3cbe",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -4212,7 +4212,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.875
             },
-            "guid": "dd775709-22b8-4846-9e51-85217a433685",
+            "guid": "04e1d9c3-dd3a-4351-89e5-a2d1c99061bd",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -4413,7 +4413,7 @@
                 "shoulder-diameter": 0.04250700899052054,
                 "shoulder-length": 0.078
             },
-            "guid": "8c6a3c0b-bd96-48ce-8001-e84b93c2a489",
+            "guid": "24770e7b-1ffe-48d8-8c6c-bf55b389b6d4",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -4733,7 +4733,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.625
             },
-            "guid": "f179b40b-c6bb-4acb-ae88-fb6e1b5c78e0",
+            "guid": "6dacedc2-c3a0-41ad-8922-ecc39f1846d6",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -5114,7 +5114,7 @@
                 "assemblyGaugeLength": 6.95511811023622,
                 "shoulder-length": 2.795
             },
-            "guid": "ceb60e0d-ee52-40ab-9949-75a9f5c55d84",
+            "guid": "5d30a6ff-62f9-4bc7-9514-1ec99fdfab6b",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -5371,7 +5371,7 @@
                 "assemblyGaugeLength": 6.3064016,
                 "shoulder-length": 2.5
             },
-            "guid": "87a47b0d-27ee-456b-a658-d92e6c761b01",
+            "guid": "ce9f1401-a2d2-4c0a-8211-13e5465a55b4",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -5530,7 +5530,7 @@
                 "assemblyGaugeLength": 6.8064016,
                 "shoulder-length": 3
             },
-            "guid": "c329000e-3583-4cb5-a616-77f85dfdde75",
+            "guid": "47526c72-7d72-46eb-91f7-1d3a6e860101",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -5732,7 +5732,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.7874015748031497
             },
-            "guid": "9750240e-d8df-44c7-a3ca-238612ccbbc4",
+            "guid": "a13092a7-31d2-4367-b50b-460956e32505",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "gaugeLength": 100.53,
@@ -5959,7 +5959,7 @@
                 "shoulder-diameter": 0.031,
                 "shoulder-length": 0.046
             },
-            "guid": "21ecd40e-4d54-4805-8048-c1aa1f7b7d80",
+            "guid": "300b56ef-4dbb-434c-bdb0-20877ab78872",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -6030,7 +6030,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 0.685
             },
-            "guid": "9d7af10e-2c99-4f49-ad8f-3a7bdf4a75f5",
+            "guid": "e744e41b-ac37-42fa-ac35-e7bc02877fbb",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -6174,7 +6174,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "1acb390f-0ef5-4c9c-922c-dfcfb1ec441f",
+            "guid": "51892e09-2bd2-40c8-ad32-1c226542afb6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -6295,7 +6295,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height + segment_10_height + segment_11_height + segment_12_height + segment_13_height + segment_14_height + segment_15_height + segment_16_height + segment_17_height + segment_18_height + segment_19_height + segment_20_height + segment_21_height + segment_22_height + segment_23_height + segment_24_height + segment_25_height + segment_26_height + segment_27_height + segment_28_height + segment_29_height + segment_30_height + segment_31_height"
             },
             "gaugeLength": 151.12,
-            "guid": "96826c0f-e911-41ae-ad8f-22123fc5f309",
+            "guid": "f2968403-935e-4be8-8add-8eedde7cc286",
             "product-id": "04-0010",
             "product-link": "https://www.haascnc.com/haas-tooling/mill_toolholding/er_collet_chucks/04-0010.html",
             "segments": [
@@ -6478,7 +6478,7 @@
                 "shoulder-diameter": 0.281,
                 "shoulder-length": 0.6
             },
-            "guid": "4ff4c50f-5f1c-4193-9097-f78df0dd66ba",
+            "guid": "3b52bd61-f5c6-487e-be0f-76ee938f855d",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -6613,7 +6613,7 @@
                 "shoulder-length": 0.045,
                 "upper-radius": 0
             },
-            "guid": "db5e9111-14bc-4ac9-9f5f-dc467b284fad",
+            "guid": "02afd48b-5029-442e-b969-c604545bbd15",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -6739,7 +6739,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "71e69b11-cd20-4622-929b-58bf29fa39c3",
+            "guid": "d3ad6307-e124-4298-94cb-5c9c1e2a6f72",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -6980,7 +6980,7 @@
                 "assemblyGaugeLength": 4.960629921259843,
                 "shoulder-length": 2.14
             },
-            "guid": "fb63c411-bdf2-41c3-8767-c4a5698b8802",
+            "guid": "52006712-01f4-43ce-916a-83914bc58193",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -7096,7 +7096,7 @@
                 "shoulder-length": 4,
                 "upper-radius": 0
             },
-            "guid": "3348c511-8d18-4b08-9ce2-9f4af869f9dc",
+            "guid": "3ac2a863-807b-48cc-9d2e-447cb0b5cc34",
             "holder": {
                 "description": "BT30 - ER32 Collet, 60mm",
                 "gaugeLength": 2.4214016,
@@ -7253,7 +7253,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.375
             },
-            "guid": "ea4f2112-13cd-4d50-93b9-2965f9e5de16",
+            "guid": "91a735e7-cac9-42e5-b200-efa21479a213",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -7622,7 +7622,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.75
             },
-            "guid": "a0ce6c13-f5ee-4907-bd6b-171776d64486",
+            "guid": "50f45be3-01cf-4174-9be5-3966eb0714cd",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -8109,7 +8109,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.35
             },
-            "guid": "38488114-f0aa-4d02-b05c-e5970dcb75cb",
+            "guid": "81dc32ec-9e84-4b38-a168-aa4775a3fb28",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -8474,7 +8474,7 @@
                 "assemblyGaugeLength": 4.757874015748032,
                 "shoulder-length": 0.4724409448818898
             },
-            "guid": "dec4a214-4b66-4cf9-bf2b-f5ed522d3d67",
+            "guid": "9b953a94-4fd3-4cc4-b115-3bcbd89e7323",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -8715,7 +8715,7 @@
                 "assemblyGaugeLength": 4.1104016,
                 "shoulder-length": 0.4724
             },
-            "guid": "902e1415-14eb-497c-ad7c-0c337bddbdd3",
+            "guid": "331dd0fa-e37e-4f5c-9343-2b609e0a27ed",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -8848,7 +8848,7 @@
                 "assemblyGaugeLength": 6.3064016,
                 "shoulder-length": 2.5
             },
-            "guid": "9ec38f15-e27b-4bcc-b688-9fc1ab7a51da",
+            "guid": "1628e8db-68c9-4653-a5d2-37147ea12edf",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -9020,7 +9020,7 @@
                 "assemblyGaugeLength": 4.960629921259843,
                 "shoulder-length": 1.7322834645669292
             },
-            "guid": "7d8fdd15-bd52-4e3b-bfbc-ddb03ce584b9",
+            "guid": "75ae610e-5724-4484-9a58-6cc58da26343",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -9145,7 +9145,7 @@
                 "assemblyGaugeLength": 5.857874015748032,
                 "shoulder-length": 1.7322834645669292
             },
-            "guid": "d9e08716-77c2-47b4-8b78-b8c6cae256de",
+            "guid": "bd58486b-1ce6-4610-9b53-40690110704b",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -9445,7 +9445,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.186
             },
-            "guid": "32d9c316-91e1-489b-9da0-9c4ec4fe7983",
+            "guid": "8b01ea13-1124-457d-a865-808659a23bbf",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -9751,7 +9751,7 @@
                 "assemblyGaugeLength": 5.212955118110236,
                 "shoulder-length": 3.2205
             },
-            "guid": "80fd3317-39e8-4078-b561-75cc14983bee",
+            "guid": "5a087fc0-b13a-4b40-8268-d1fd14809031",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -10047,7 +10047,7 @@
                 "assemblyGaugeLength": 5.4164016,
                 "shoulder-length": 2.401
             },
-            "guid": "ed9db917-a93e-4f34-bb88-07f92e41dda6",
+            "guid": "5525497e-6094-4db8-82e1-2dfbeda56513",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -10173,7 +10173,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.7
             },
-            "guid": "18220318-98e2-4ce0-9e3a-cf2d5a0862a2",
+            "guid": "5eab4692-7a75-48ea-b5a6-662b788c805c",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -10523,7 +10523,7 @@
                 "shoulder-diameter": 0.13452994616207484,
                 "shoulder-length": 0.14
             },
-            "guid": "1a31a518-7cd9-489e-8fa2-18fc34cd9d98",
+            "guid": "fee86d2c-985b-465e-b1e8-059db43d67e1",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -10624,7 +10624,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.6
             },
-            "guid": "1d2b3919-d6ca-4e22-9413-202ed86e5a27",
+            "guid": "e962b94d-3e4b-4f89-beb2-cb4e9f44d4bf",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "gaugeLength": 62.22,
@@ -11016,7 +11016,7 @@
                 "assemblyGaugeLength": 5.274905537007874,
                 "shoulder-length": 0.78740157480315
             },
-            "guid": "a7109619-efc9-4e84-8b29-46b36ffd7c5b",
+            "guid": "92bf5f55-cf62-4749-9395-b0866e09c094",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -11134,7 +11134,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.75
             },
-            "guid": "b96ba519-9454-4a1f-b1f0-70949fcade09",
+            "guid": "2ea7e323-a521-421e-b6b4-3a36fd8e0c18",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -11457,7 +11457,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.285
             },
-            "guid": "30336e1a-c986-4933-85bd-d624bfef24e2",
+            "guid": "cd36c5b1-d7df-4075-8d94-3da509ac9d3e",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "gaugeLength": 100.46,
@@ -11853,7 +11853,7 @@
                 "tip-length": 0,
                 "tip-offset": 0
             },
-            "guid": "6144b81a-113d-4227-9988-3c874e97df4f",
+            "guid": "38dfffe7-9765-4d17-9f80-f4a5886ebc87",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164,
@@ -12033,7 +12033,7 @@
                 "shoulder-diameter": 0.15478427124746194,
                 "shoulder-length": 0.2
             },
-            "guid": "3803131c-7562-42eb-9f72-41eb5de29e19",
+            "guid": "1d035a0e-94dd-4fcb-910a-13fddb6aa705",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -12343,7 +12343,7 @@
                 "assemblyGaugeLength": 6.4578740157480325,
                 "shoulder-length": 1.535
             },
-            "guid": "7713721c-69b8-49d8-bf03-20f88c5ff5c5",
+            "guid": "4789b996-af6e-4622-a19f-d44aede0207e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -12567,7 +12567,7 @@
                 "assemblyGaugeLength": 4.4794016,
                 "shoulder-length": 0.583
             },
-            "guid": "6213121d-b512-49f6-b2c6-e0b1d793b453",
+            "guid": "d1665239-629c-4893-b567-b8d75e7193fb",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -12701,7 +12701,7 @@
                 "assemblyGaugeLength": 5.92511811023622,
                 "shoulder-length": 1.7
             },
-            "guid": "cdad501d-44a4-4938-b37c-001d0e7434df",
+            "guid": "3db88219-1029-4c7a-b41c-7409d64503b2",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -12945,7 +12945,7 @@
                 "assemblyGaugeLength": 5.5564016,
                 "shoulder-length": 1.375
             },
-            "guid": "460d9b1d-41ca-40e2-a22c-ac6c1be42a7f",
+            "guid": "6b5ad7bc-11c7-4dcd-915f-38e227dc62f8",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -13174,7 +13174,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "8fb20f1e-0551-4479-97a0-22819f48f725",
+            "guid": "0ef2d0d0-405b-4663-bf2c-98c0ac4a5b25",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -13364,7 +13364,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height"
             },
             "gaugeLength": 2.4164016,
-            "guid": "8fcc481e-5440-4093-958e-965a816b15da",
+            "guid": "cf431fda-0acc-4352-a5d7-d169762f532c",
             "product-id": "39655",
             "product-link": "https://tormach.com/bt30-tool-holder-er20-60mm.html",
             "segments": [
@@ -13438,7 +13438,7 @@
                 "assemblyGaugeLength": 5.557874015748032,
                 "shoulder-length": 1.417
             },
-            "guid": "93b7961e-2db7-4997-b293-f0aa2d2bbb4c",
+            "guid": "edf25af1-c548-49eb-a65a-e196acaf7fe1",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -13694,7 +13694,7 @@
                 "assemblyGaugeLength": 7.20511811023622,
                 "shoulder-length": 3.031
             },
-            "guid": "1908ab1e-1ae7-40b6-9389-15d90663aa05",
+            "guid": "18b729bc-2ae0-4f21-a638-d4484dd30953",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -13937,7 +13937,7 @@
                 "assemblyGaugeLength": 4.5564016,
                 "shoulder-length": 1.165
             },
-            "guid": "51c7cf1e-d200-45a4-8a1d-b19e457ecab7",
+            "guid": "b1a18272-93da-47df-b174-050aa9098c8a",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -14085,7 +14085,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.125
             },
-            "guid": "5b5ef41e-3594-4b79-abef-499563aa6b11",
+            "guid": "a3f8d4c4-e628-4f9b-bfed-4fd9c9e67c42",
             "holder": {
                 "description": "BT40 .500\" END MILL HOLDER X 63MM GAGE LENGTH",
                 "expressions": {
@@ -14549,7 +14549,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.393700787401575
             },
-            "guid": "cd08151f-38ff-459b-bd2a-136cc2fd1e6c",
+            "guid": "6274d02d-81a8-4435-849d-4634f77b1671",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -14689,7 +14689,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 1
             },
-            "guid": "31970f21-8ab1-4d90-a34a-e32b50b3404e",
+            "guid": "85a18485-38a1-4b65-b70d-69e070f28216",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -14806,7 +14806,7 @@
                 "shoulder-diameter": 0.0625,
                 "shoulder-length": 0.385
             },
-            "guid": "a7672a21-5ea1-41d8-80a8-e0e93564eb02",
+            "guid": "aeebcd61-0d6c-4f1b-838a-f8fd05a7a716",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -15119,7 +15119,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "0d344e21-fdbd-4220-afb8-beb7d2a0556c",
+            "guid": "b238e527-609c-4a98-81b0-03ca1f4217a7",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -15413,7 +15413,7 @@
                 "shoulder-length": 0.09,
                 "upper-radius": 0
             },
-            "guid": "e857b421-41db-463e-a0b5-8da260daaa36",
+            "guid": "35595677-cb1f-47e6-9144-7679e60e421a",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -15522,7 +15522,7 @@
                 "assemblyGaugeLength": 6.586425196850394,
                 "shoulder-length": 2.559
             },
-            "guid": "bb55f021-c0a6-4fd7-92e3-a6152c04b27f",
+            "guid": "c9dd78a9-3924-4be0-8afc-0da2491fac95",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -15698,7 +15698,7 @@
             },
             "product-id": "4150342",
             "product-link": "https://www.kennametal.com/us/en/products/p.b041a-3-x-d.4150342.html#tad",
-            "reference_guid": "bb55f021-c0a6-4fd7-92e3-a6152c04b27f",
+            "reference_guid": "c9dd78a9-3924-4be0-8afc-0da2491fac95",
             "start-values": {
                 "presets": [
                     {
@@ -15780,7 +15780,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 1.1
             },
-            "guid": "74176222-767d-4bd7-bfb3-f7d6c3b36c63",
+            "guid": "dddbade9-bf26-41b8-8106-927fed861ded",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -15891,7 +15891,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 1.625
             },
-            "guid": "38d08722-ff14-458c-bc21-e560b8905a24",
+            "guid": "35810e71-b45d-462b-bd48-cd1e5c816249",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -16010,7 +16010,7 @@
                 "assemblyGaugeLength": 5.1064016,
                 "shoulder-length": 0.45
             },
-            "guid": "a95ac722-10fa-403c-88ae-69a9daf37fbb",
+            "guid": "ed74a7d7-7c66-472e-932a-4aeeef42d947",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -16172,7 +16172,7 @@
                 "assemblyGaugeLength": 5.929055118110235,
                 "shoulder-length": 3.5
             },
-            "guid": "810e5323-cefa-4816-aa64-6b432f0b55b5",
+            "guid": "25f20114-c3f0-40a8-8c23-8a03c42dfc83",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -16411,7 +16411,7 @@
                 "assemblyGaugeLength": 5.5264016,
                 "shoulder-length": 3.031
             },
-            "guid": "b7777623-a5e1-4ba0-b31f-67e08e56e26c",
+            "guid": "c01d1cef-4bf4-43b8-a34d-2f13dd70c6df",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -16623,7 +16623,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "5ea4b023-2777-43cf-a93c-70bdb8d356c9",
+            "guid": "3e633344-5ed9-4643-b1b6-bf7fbc3b1612",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -16902,7 +16902,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.3
             },
-            "guid": "02a2fd23-10f5-473d-99a0-163ff4261b6f",
+            "guid": "56cd72b3-2a60-4b7c-8368-da7d2b94bc4c",
             "holder": {
                 "description": "BT40 .500\" END MILL HOLDER X 63MM GAGE LENGTH",
                 "expressions": {
@@ -17649,7 +17649,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.375
             },
-            "guid": "fecb3f25-10ba-47d2-b328-1f4f151494a2",
+            "guid": "19d18364-faba-4396-90a3-c53a6818555f",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -17971,7 +17971,7 @@
                 "assemblyGaugeLength": 5.9578740157480325,
                 "shoulder-length": 1.377
             },
-            "guid": "de0f6e25-459e-43af-bc1a-eb5109289bd9",
+            "guid": "2fd6557d-a5b4-4785-bf2d-558f2e2a09dc",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -18219,7 +18219,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.5
             },
-            "guid": "43530e27-6caa-4bba-92a4-41c1b4409b64",
+            "guid": "dc373240-d244-44ec-aa8a-f03488d5a066",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -18365,7 +18365,7 @@
             },
             "product-id": "03-0081",
             "product-link": "https://www.haascnc.com/haas-tooling/milling/end_mills/03-0081.html?ss360SearchTerm=03-0081",
-            "reference_guid": "43530e27-6caa-4bba-92a4-41c1b4409b64",
+            "reference_guid": "dc373240-d244-44ec-aa8a-f03488d5a066",
             "start-values": {
                 "presets": [
                     {
@@ -18697,7 +18697,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.4
             },
-            "guid": "678d2227-c8de-4325-97d7-d36c252f1f57",
+            "guid": "b63f25b2-8c6a-4c6c-8956-71cfcf68160c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -19118,7 +19118,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.75
             },
-            "guid": "6cb25727-efbc-44bc-af00-ba6bb391d03d",
+            "guid": "6c9409d7-6e51-45a1-86f2-23629c9d1802",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -19631,7 +19631,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.48
             },
-            "guid": "6d580a28-b088-4588-a051-90b97cd18d9e",
+            "guid": "d57198fc-5b76-4bc1-9ecc-50ea8d0fc82d",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -19787,7 +19787,7 @@
                 "assemblyGaugeLength": 6.123274015748032,
                 "shoulder-length": 2.0866
             },
-            "guid": "87992e29-8daa-48ee-8aae-191c0a9a003e",
+            "guid": "71dfeece-c25b-46c1-a047-aee5e6f81e8c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -19933,7 +19933,7 @@
             },
             "product-id": "4149230",
             "product-link": "https://www.kennametalnovo.com/app/en/search/kennametal/productdetail/4149230/full",
-            "reference_guid": "87992e29-8daa-48ee-8aae-191c0a9a003e",
+            "reference_guid": "71dfeece-c25b-46c1-a047-aee5e6f81e8c",
             "shaft": {
                 "segments": [
                     {
@@ -20082,7 +20082,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.25
             },
-            "guid": "f7c37f29-6ea4-4ad4-aa19-ad49b9c962cd",
+            "guid": "f0d9e34a-f21a-48fb-b2bb-0ac4fa390473",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -20329,7 +20329,7 @@
                 "shoulder-length": 0.25,
                 "tip-diameter": 0
             },
-            "guid": "e542452b-9e76-4973-aedf-8b1d4d6bf2d5",
+            "guid": "ccac5ca2-0b19-4795-a41c-b2089930cbf6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -20524,7 +20524,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.75
             },
-            "guid": "05d7f82b-96cb-41ea-a678-276514e9e65a",
+            "guid": "b3538967-ee44-4fd4-b27a-cf1168ca8e0a",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -20840,7 +20840,7 @@
                 "shoulder-diameter": 0.032,
                 "shoulder-length": 0.096
             },
-            "guid": "aa35f92b-ce0b-4fee-b111-605497063c60",
+            "guid": "b8e8325c-eaa4-48ca-9089-b89426a6d4ec",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -21129,7 +21129,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.1
             },
-            "guid": "2e54c92c-2b60-435b-ba4d-f5135cf7093b",
+            "guid": "902e6bd2-1f8b-46c9-9e86-81ccf3cd930a",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -21593,7 +21593,7 @@
                 "shoulder-diameter": 0.17246435941831384,
                 "shoulder-length": 0.16
             },
-            "guid": "1c2a042d-c3e4-4ca8-9cf1-db7a948d1069",
+            "guid": "d760287e-18d4-49ac-b0f1-e6068a829778",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -21787,7 +21787,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2
             },
-            "guid": "5b115d2d-6dc0-4d0d-be86-423c8941e8d2",
+            "guid": "2acac409-7491-4ab9-89d7-e00d5491815c",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "gaugeLength": 62.22,
@@ -22162,7 +22162,7 @@
                 "shoulder-length": 0.5,
                 "tip-diameter": 0.09
             },
-            "guid": "39eaa22d-9076-4d74-85fd-a868971df3d7",
+            "guid": "60dbdf80-cbc8-45ac-96bd-c570d0e91d96",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -22318,7 +22318,7 @@
             },
             "product-id": "88445",
             "product-link": "https://www.helicaltool.com/products/tool-details-88445",
-            "reference_guid": "39eaa22d-9076-4d74-85fd-a868971df3d7",
+            "reference_guid": "60dbdf80-cbc8-45ac-96bd-c570d0e91d96",
             "start-values": {
                 "presets": [
                     {
@@ -22379,7 +22379,7 @@
                 "shoulder-length": 0.25,
                 "tip-diameter": 0
             },
-            "guid": "2473cf2d-1904-4194-9199-660c644a0890",
+            "guid": "dda83647-92e8-4f62-b406-e89180dc2d69",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -22734,7 +22734,7 @@
                 "assemblyGaugeLength": 3.957874015748031,
                 "shoulder-length": 0.976
             },
-            "guid": "f200d62d-a243-4cb6-8ca6-71f1319246f5",
+            "guid": "3b8b0a87-7fa9-4e18-8f56-ef6dd00d340f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -22976,7 +22976,7 @@
                 "shoulder-diameter": 0.75,
                 "shoulder-length": 4
             },
-            "guid": "2a08012e-519b-45b4-a1ce-208eaf0d16e1",
+            "guid": "5d22a5b8-87c2-4c8d-abc6-d41deb7a022b",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -23317,7 +23317,7 @@
                 "assemblyGaugeLength": 4.30748031496063,
                 "shoulder-length": 1.732
             },
-            "guid": "f8c2682e-5df5-44fb-99ca-c4e425db8e34",
+            "guid": "c8c6020a-7a6a-4e19-a261-9ed3a9458c23",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -23599,7 +23599,7 @@
                 "assemblyGaugeLength": 7.3064016,
                 "shoulder-length": 1.25
             },
-            "guid": "77e8872e-cb8c-4064-95e0-db370145ea8d",
+            "guid": "11bd65d3-f365-4e8a-bc47-6c0dad6e54a9",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -23737,7 +23737,7 @@
                 "assemblyGaugeLength": 5.207874015748032,
                 "shoulder-length": 0.822834645669291
             },
-            "guid": "fdfe9c2e-98e7-4632-b4cd-7bb8587065a3",
+            "guid": "046d0670-5bd4-414e-bed8-df7dc6d43708",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -23957,7 +23957,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "07d93330-1d1f-4fc2-9658-8761fe4c64b3",
+            "guid": "08f67d8c-8601-4a79-84b8-557a6aa522e4",
             "last_modified": 1752084121979,
             "post-process": {
                 "break-control": false,
@@ -24035,7 +24035,7 @@
                 "assemblyGaugeLength": 5.35787401574803,
                 "shoulder-length": 0.9448818897637796
             },
-            "guid": "4a017a30-dd2c-4ce9-8d3c-c5aaa1172e23",
+            "guid": "1e396a0d-99dc-4dc1-aee3-1cf61cbdeecb",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -24288,7 +24288,7 @@
                 "assemblyGaugeLength": 9.94842519685039,
                 "shoulder-length": 2.3125
             },
-            "guid": "f65ac230-387f-4a03-9a6e-61442f646b33",
+            "guid": "29c94701-cc6b-4b01-8fb8-bcc71dbe4228",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -24562,7 +24562,7 @@
                 "assemblyGaugeLength": 6.75511811023622,
                 "shoulder-length": 2.6
             },
-            "guid": "1731fc30-4e52-4e26-8f34-cf25e624616d",
+            "guid": "17ff8e4a-b682-4f58-a1da-0b060ad1505f",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -24818,7 +24818,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.125
             },
-            "guid": "f9f1b733-bb70-48ba-b91b-b975f9950a88",
+            "guid": "01131891-86ae-453a-91dc-18dcb4a83ad0",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -25551,7 +25551,7 @@
                 "assemblyGaugeLength": 6.0564016,
                 "shoulder-length": 2.5
             },
-            "guid": "608ff533-bfc7-4739-a980-9995c1ad9210",
+            "guid": "443df3ba-dab6-4465-ad63-9794c4d50613",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -25694,7 +25694,7 @@
                 "assemblyGaugeLength": 3.907874015748031,
                 "shoulder-length": 0.95
             },
-            "guid": "d24b4934-16da-48e2-8509-d218d0923408",
+            "guid": "d2997a4a-766f-4e86-a1bf-c2e0cd502121",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -25903,7 +25903,7 @@
                 "assemblyGaugeLength": 4.7064016,
                 "shoulder-length": 1.3
             },
-            "guid": "5db96234-4967-4eb9-aca5-357e4888b0d0",
+            "guid": "99e96022-f3bc-4585-947a-d97d8cf43fde",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -26021,7 +26021,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.625
             },
-            "guid": "512d4a35-cc66-4d4d-b67a-6746fbeed45b",
+            "guid": "6726f6e3-d59b-411c-9898-d5770fb91704",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -26515,7 +26515,7 @@
                 "shoulder-length": 0.63,
                 "tip-diameter": 0.21
             },
-            "guid": "072a4736-ea5c-4ad4-81b0-28e7ec796b84",
+            "guid": "3d573252-43d6-4c26-8b0b-a4710789e949",
             "holder": {
                 "description": "BT30 - 3/8\" End Mill",
                 "gaugeLength": 1.9664016,
@@ -26660,7 +26660,7 @@
                 "assemblyGaugeLength": 7.5064016,
                 "shoulder-length": 4.131
             },
-            "guid": "1c614b36-ff47-4efc-bf10-126b02e1c784",
+            "guid": "1c04b3d6-8fe2-4344-a7cd-c55d64bd822a",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -26790,7 +26790,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 1.126
             },
-            "guid": "fb888836-67cc-42d7-a816-315a9bcbfb90",
+            "guid": "e4bfd6f7-334d-481f-8d65-4e7b43942538",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -26946,7 +26946,7 @@
                 "assemblyGaugeLength": 7.357874015748032,
                 "shoulder-length": 3.15
             },
-            "guid": "4b90ab36-170f-4d6e-a3bd-c3de510afd90",
+            "guid": "343b83b1-b016-40b3-891f-b353cc8e6ac8",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -27150,7 +27150,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 1.375
             },
-            "guid": "d324c736-db41-409f-b535-4d7851081f73",
+            "guid": "903460e4-fe53-41b1-b14c-4512e4ae14e3",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -27303,7 +27303,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "840ce438-e5ff-48c9-9f19-84a8cf774000",
+            "guid": "9e70a83d-8488-4681-b307-dad9fc84d928",
             "last_modified": 1779465768325,
             "post-process": {
                 "break-control": false,
@@ -27317,7 +27317,7 @@
             },
             "product-id": "",
             "product-link": "",
-            "reference_guid": "840ce438-e5ff-48c9-9f19-84a8cf774000",
+            "reference_guid": "9e70a83d-8488-4681-b307-dad9fc84d928",
             "start-values": {
                 "presets": [
                     {
@@ -27370,7 +27370,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.5
             },
-            "guid": "ccbf2b39-7092-40c7-8fad-1fb7bbe9f41d",
+            "guid": "0d52596c-ade0-490b-83cc-b3b1f85965c3",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -27652,7 +27652,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "7b2e4439-486a-459a-aa9d-99dd2f9098c6",
+            "guid": "d741fa8a-4581-4e72-ad72-3d6f1d569a25",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -27941,7 +27941,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.875
             },
-            "guid": "6ef6bc39-b45e-42e9-9718-c7b2433bec3a",
+            "guid": "4d74c18e-f7e7-4b04-8785-7e5d0acd574c",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -28184,7 +28184,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.25
             },
-            "guid": "3300f439-38b0-4e3d-b5f6-43257dd1a4f1",
+            "guid": "7af55329-d8f9-4a68-b159-168111f3f592",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -28408,7 +28408,7 @@
                 "assemblyGaugeLength": 6.70511811023622,
                 "shoulder-length": 1.9330708661417328
             },
-            "guid": "5a9a9b3a-a556-42ba-b309-2a54839410af",
+            "guid": "77908c13-9bed-4001-ac3e-34c01d02a6ad",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -28604,7 +28604,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height"
             },
             "gaugeLength": 2.4214016,
-            "guid": "50dc403b-459b-42e5-b667-f299610d3320",
+            "guid": "908ab485-b0fd-422a-80b0-01caa42c7cc8",
             "product-id": "39661",
             "product-link": "https://tormach.com/bt30-tool-holder-er32-60mm.html",
             "segments": [
@@ -28679,7 +28679,7 @@
                 "assemblyGaugeLength": 5.496055118110236,
                 "shoulder-length": 3.787
             },
-            "guid": "2f88853b-1767-46f1-a6f7-6103358debcc",
+            "guid": "c343c313-07af-4285-8bad-b77b75ccbe7d",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "gaugeLength": 43.41,
@@ -28882,7 +28882,7 @@
                 "assemblyGaugeLength": 7.4164016,
                 "shoulder-length": 5
             },
-            "guid": "fa9da23c-5959-4b1d-94a4-0d19a41af824",
+            "guid": "43093cd0-42d1-4ccc-9e74-b37adc1f3589",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -29000,7 +29000,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.375
             },
-            "guid": "afaede3d-9b3c-4a45-a656-c62d4e47ced4",
+            "guid": "a0c6fab0-4de9-45c9-95d9-85d4eda43eb0",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -29498,7 +29498,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.25
             },
-            "guid": "959c1d3e-b038-453b-82cb-fd151ab3c666",
+            "guid": "778da5f0-2a98-4b01-ba78-4e89009d055e",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -29654,7 +29654,7 @@
             },
             "product-id": "6754951",
             "product-link": "https://www.kennametal.com/us/en/products/p.kor5-supdasup-square-end-5-flutes-3-x-d-plain-shank-inch.6754951.html",
-            "reference_guid": "959c1d3e-b038-453b-82cb-fd151ab3c666",
+            "reference_guid": "778da5f0-2a98-4b01-ba78-4e89009d055e",
             "start-values": {
                 "presets": [
                     {
@@ -29882,7 +29882,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.51
             },
-            "guid": "6f45313e-8a2e-4436-8eb5-6d8be84fcd73",
+            "guid": "28a8facd-95a5-4105-86ec-6fe911c27647",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -30236,7 +30236,7 @@
                 "assemblyGaugeLength": 5.857874015748032,
                 "shoulder-length": 1.7323
             },
-            "guid": "562c6d3e-f5f8-4515-b7ba-f5c27b932fd9",
+            "guid": "c9925339-fa0c-4b6c-b116-715c762df737",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -30584,7 +30584,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "70fed73e-e786-456a-aca8-15e6624f5879",
+            "guid": "bacfb323-61b2-48d0-87be-1f0459629774",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -30834,7 +30834,7 @@
                 "shoulder-length": 0.188,
                 "tip-diameter": 0
             },
-            "guid": "3ff43f3f-e5f4-4152-9f13-83696314360e",
+            "guid": "4bc86892-4447-4979-b502-2d055a4a6424",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -30990,7 +30990,7 @@
             },
             "product-id": "03-0613",
             "product-link": "https://www.haascnc.com/haas-tooling/milling/chamfer_end_mills/03-0613.html?ss360SearchTerm=03-0613",
-            "reference_guid": "3ff43f3f-e5f4-4152-9f13-83696314360e",
+            "reference_guid": "4bc86892-4447-4979-b502-2d055a4a6424",
             "start-values": {
                 "presets": [
                     {
@@ -31127,7 +31127,7 @@
                 "assemblyGaugeLength": 5.2578740157480315,
                 "shoulder-length": 1
             },
-            "guid": "9cfc803f-100f-4e60-baa9-087090888cf6",
+            "guid": "f3c8619d-3498-42f4-a52f-3cc5c2fdd733",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -31336,7 +31336,7 @@
                 "shoulder-diameter": 0.0625,
                 "shoulder-length": 0.26
             },
-            "guid": "61482a41-dc5f-4d68-acf5-4428ce5f1ddd",
+            "guid": "6a8f7dc8-c115-4afc-ab74-7111edd620e8",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -31598,7 +31598,7 @@
                 "assemblyGaugeLength": 6.85511811023622,
                 "shoulder-length": 2.4015748031496065
             },
-            "guid": "5937a242-3a0e-4d71-8bdc-4acd397d45a9",
+            "guid": "b74e20f9-8710-4962-8495-a2ffd27e69fa",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -31900,7 +31900,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "aa71fa42-558c-406e-b07f-d2614a5d77ab",
+            "guid": "4b5827cb-6f8a-4d2c-b7b3-6612106a1470",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -32152,7 +32152,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "0b1afc42-e055-4535-ac5f-3dc49280e4c9",
+            "guid": "236c1d97-421c-4a4c-aa1e-d934434ce88c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -32425,7 +32425,7 @@
                 "assemblyGaugeLength": 3.6664016,
                 "shoulder-length": 1.25
             },
-            "guid": "c3d46f43-8109-4165-ace7-df97a5e9902e",
+            "guid": "3a02aa5b-d9d1-479b-976c-ce8e5c76b56c",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -32564,7 +32564,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 1.9375
             },
-            "guid": "ffe9d843-ca63-405e-aea8-ea1777faad77",
+            "guid": "cb0f40b6-d5fa-44ac-8121-54ec5593e23f",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -32701,7 +32701,7 @@
                 "shoulder-diameter": 0.09375,
                 "shoulder-length": 0.75
             },
-            "guid": "6e244d44-fa07-4472-9c10-b195e0e1889d",
+            "guid": "ef5f6006-2160-409b-bba8-1b36fca14f6f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -33184,7 +33184,7 @@
                 "assemblyGaugeLength": 6.20511811023622,
                 "shoulder-length": 2
             },
-            "guid": "20d60a45-8d8c-4567-8d22-67029a7bc0ec",
+            "guid": "17692031-134c-4202-b2fb-690b23294fab",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -33459,7 +33459,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "d6c10946-5c3d-458b-9aa0-0fd4015402cf",
+            "guid": "8b79b804-b8a9-4207-b127-c002f18f1615",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -33659,7 +33659,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1
             },
-            "guid": "87083046-0516-48c8-8eb7-822f33f367ec",
+            "guid": "0f3686e8-a89d-4d01-bd3d-8dfd19d9c5c0",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -33791,7 +33791,7 @@
                 "assemblyGaugeLength": 5.2578740157480315,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "c8673146-2936-4de6-8c8e-1698d81d1ed3",
+            "guid": "1ec73f6b-b6c2-4d07-93cf-2928095a5a1c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -34037,7 +34037,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.093
             },
-            "guid": "ab163e47-0715-4642-88ec-67beb49eb09d",
+            "guid": "83998a03-2de6-43ed-94ff-82d33f1a9afa",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "gaugeLength": 3.95787,
@@ -34328,7 +34328,7 @@
                 "shoulder-diameter": 1,
                 "shoulder-length": 5
             },
-            "guid": "7d9d6747-0767-4624-b374-8feab20405c2",
+            "guid": "c2865f80-8ccf-4db8-b29a-e5e1cecd3aca",
             "holder": {
                 "description": "CAT40 1\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -34602,7 +34602,7 @@
                 "shoulder-diameter": 0.1157743992097066,
                 "shoulder-length": 0.109
             },
-            "guid": "462b9848-607b-453f-a4bf-bc00247cf204",
+            "guid": "3b359c02-6186-450a-8a91-c8a2f0d1288c",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -34819,7 +34819,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.5
             },
-            "guid": "d0c4b048-5a40-48de-89b0-b9869c50c5c4",
+            "guid": "5e165956-c83a-4e3b-938b-3a50d4531c48",
             "last_modified": 1775083294266,
             "post-process": {
                 "break-control": false,
@@ -34898,7 +34898,7 @@
                 "shoulder-diameter": 1,
                 "shoulder-length": 1.6
             },
-            "guid": "1d9e3949-f27d-4012-9305-9a73d0b58ac1",
+            "guid": "feaa9c60-3f72-4239-8df8-c1b62a71c4a3",
             "holder": {
                 "description": "CAT40 1\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -35223,7 +35223,7 @@
                 "assemblyGaugeLength": 6.257874015748032,
                 "shoulder-length": 2.086
             },
-            "guid": "8debe249-06a8-4c25-bcb6-65c64a6f8ba4",
+            "guid": "db6c5d2f-f9bf-4866-8b5b-8432a1005dbb",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -35477,7 +35477,7 @@
                 "shoulder-length": 0.5,
                 "tip-diameter": 0
             },
-            "guid": "27b02c4a-0358-412c-9e0f-81e1190d489b",
+            "guid": "90ff34c7-30a6-42f7-9ebc-786285d414b5",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -35739,7 +35739,7 @@
                 "assemblyGaugeLength": 5.3689016,
                 "shoulder-length": 2.0625
             },
-            "guid": "1f472d4a-32d0-44e8-828f-c23ca483d4b0",
+            "guid": "fc19e298-e00f-4ea0-b5a7-f481da4f3b9d",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -35892,7 +35892,7 @@
                 "assemblyGaugeLength": 7.4164016,
                 "shoulder-length": 5
             },
-            "guid": "4019fc4a-1df3-4746-b4df-011ac3a1a8fa",
+            "guid": "dfe79ef5-7c7e-40bb-a8c9-de18b0393e83",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -36017,7 +36017,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height + segment_10_height + segment_11_height"
             },
             "gaugeLength": 1.7564016,
-            "guid": "2b311b4b-a1f0-4d7a-b0ce-0d6221136c33",
+            "guid": "52171011-a14b-4912-a193-3a22cbbb58fe",
             "product-id": "3648653",
             "product-link": "https://www.kennametal.com/content/kennametal/us/en/products/p.smc-lock-in-bt-form-bad.3648653.html?pdpQuery=3648653:catalog-id:obsoleteFacet:false&query=3648653:catalog-id:obsoleteFacet:false&format=json&pageSize=16&sort=relevance&fields=FULL&currentPage=0",
             "segments": [
@@ -36101,7 +36101,7 @@
                 "assemblyGaugeLength": 7.4939016,
                 "shoulder-length": 4.1875
             },
-            "guid": "5c9a2c4b-6d0a-4156-9343-e1761dd8a6a7",
+            "guid": "58fca094-cb9d-4de3-bb09-3c7560b29778",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -36275,7 +36275,7 @@
                 "tip-length": 0,
                 "tip-offset": 0
             },
-            "guid": "85d53e4b-c896-4361-b6e3-5e2cd31e24ab",
+            "guid": "88bedd53-455b-49ac-911c-fee8ab94b428",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.416399999999999,
@@ -36448,7 +36448,7 @@
                 "assemblyGaugeLength": 7.3064016,
                 "shoulder-length": 3.7
             },
-            "guid": "0e4cbe4d-d9de-4916-84a9-20380d720417",
+            "guid": "5745ac44-ea85-4ff9-926b-2235d8fb7017",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -36564,7 +36564,7 @@
                 "shoulder-length": 0.125,
                 "tip-diameter": 0
             },
-            "guid": "ccb1e74d-2e60-4539-a8e0-118c1d506b02",
+            "guid": "77f4db80-badd-474a-96fa-f40f49a81a82",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -36738,7 +36738,7 @@
                 "assemblyGaugeLength": 5.5564016,
                 "shoulder-length": 1.375
             },
-            "guid": "dfe9064e-1872-485c-a81c-d511803f2e02",
+            "guid": "dca98f80-764d-4974-8e61-2a9d14964437",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -36896,7 +36896,7 @@
                 "assemblyGaugeLength": 8.008055118110237,
                 "shoulder-length": 5.5
             },
-            "guid": "0eae274e-8997-4e8f-95da-50e14be737c5",
+            "guid": "d8a5bb63-da63-4041-b14d-c4a5f0589012",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -37121,7 +37121,7 @@
                 "assemblyGaugeLength": 5.0564016,
                 "shoulder-length": 1.75
             },
-            "guid": "da39b34e-c538-4efb-8a49-56482fa62c1b",
+            "guid": "38bded0b-e7b0-4886-8095-009247468ef6",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -37269,7 +37269,7 @@
                 "assemblyGaugeLength": 4.9314016,
                 "shoulder-length": 0.94
             },
-            "guid": "ba74d44e-7ebb-425b-b173-7034142338e8",
+            "guid": "e935bb27-078e-4610-a868-f68924559196",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -37405,7 +37405,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.4
             },
-            "guid": "9c90cd50-c77b-41c4-9861-cb5e717c0601",
+            "guid": "448f9971-de96-4de3-b271-333aea3859a0",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -37630,7 +37630,7 @@
                 "shoulder-length": 0.095,
                 "tip-diameter": 0.06
             },
-            "guid": "6b675151-d6e3-428c-8208-85a6de051a36",
+            "guid": "279fa123-b35c-4a6d-a88d-48fcbbf65b58",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -38211,7 +38211,7 @@
                 "assemblyGaugeLength": 7.45511811023622,
                 "shoulder-length": 2.165
             },
-            "guid": "574d9351-80db-4266-94e1-f929775b0cc2",
+            "guid": "4bf8b4b1-dc68-425c-bc80-f31bfb04d45b",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -38446,7 +38446,7 @@
                 "assemblyGaugeLength": 5.8938740157480325,
                 "shoulder-length": 1.7323
             },
-            "guid": "670fb051-8b12-49c7-98b7-f22c8d9373ac",
+            "guid": "f93862a9-d3b1-4727-b47c-8262217e69b2",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -38592,7 +38592,7 @@
             },
             "product-id": "4149223",
             "product-link": "https://www.kennametal.com/us/en/products/p.godrill-5xd-internal-coolant-straight-shank-metric.4149223.html",
-            "reference_guid": "670fb051-8b12-49c7-98b7-f22c8d9373ac",
+            "reference_guid": "f93862a9-d3b1-4727-b47c-8262217e69b2",
             "start-values": {
                 "presets": [
                     {
@@ -38689,7 +38689,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.5
             },
-            "guid": "ec0c1d52-4ec7-43fe-9c8a-16f0dde25c9e",
+            "guid": "4951cb7b-2cd4-4b8f-a875-f9e8aefe914d",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -38899,7 +38899,7 @@
                 "assemblyGaugeLength": 4.05787401574803,
                 "shoulder-length": 1.4173228346456694
             },
-            "guid": "8e312252-3cd4-48a6-80a8-4cccb6769f53",
+            "guid": "69d77530-ec91-4551-b86b-0310fda1a87c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -39159,7 +39159,7 @@
                 "assemblyGaugeLength": 6.28511811023622,
                 "shoulder-length": 2.2
             },
-            "guid": "069ebd52-7959-42e9-be67-5c59cbffadb0",
+            "guid": "434f67cb-d98b-4201-9321-65f2943feab9",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -39315,7 +39315,7 @@
             },
             "product-id": "4150319",
             "product-link": "https://www.kennametal.com/en/products/20478624/556249/3924453/50001994/100003658.html?orderNumber=4150319",
-            "reference_guid": "069ebd52-7959-42e9-be67-5c59cbffadb0",
+            "reference_guid": "434f67cb-d98b-4201-9321-65f2943feab9",
             "shaft": {
                 "segments": [
                     {
@@ -39432,7 +39432,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 0.9
             },
-            "guid": "987f0553-a763-4155-825b-56a3a1ae8bdf",
+            "guid": "1faf9687-7ed2-4b57-89e2-2ef7d4b11396",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -39548,7 +39548,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.75
             },
-            "guid": "d148c153-b86c-422b-b024-03af018f2722",
+            "guid": "2ee648ad-bd04-47e0-8b56-ecc276bd485d",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -39768,7 +39768,7 @@
                 "assemblyGaugeLength": 2.275,
                 "shoulder-length": 2.15
             },
-            "guid": "11f71155-7a6f-4cf6-b6c6-0bb90e7d24f7",
+            "guid": "7c3421ec-c5ad-4e91-8471-02e1eee0f7ea",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -39832,7 +39832,7 @@
                 "assemblyGaugeLength": 6.271055118110237,
                 "shoulder-length": 4.562
             },
-            "guid": "63edfc55-0e03-4b46-aa43-016f94665eb4",
+            "guid": "74b0b58e-0f43-4a89-9320-b0a6044a1cd8",
             "holder": {
                 "description": "CAT40 1\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -40046,7 +40046,7 @@
                 "tool_vendor": "'Kennametal Holder'"
             },
             "gaugeLength": 83.521,
-            "guid": "d9898a58-117a-4446-bd30-3a52e31306ee",
+            "guid": "07c4d1bf-dc02-4c56-98e2-39d4c557c4f0",
             "product-id": "",
             "product-link": "",
             "segments": [
@@ -40159,7 +40159,7 @@
                 "assemblyGaugeLength": 3.4164016,
                 "shoulder-length": 0.35
             },
-            "guid": "a18a3859-6345-4df5-81af-3b982096dba0",
+            "guid": "a1f35918-a472-43f3-b478-221d443eb730",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -40269,7 +40269,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 0.75
             },
-            "guid": "912d8459-62bd-457d-983b-07fda20046d2",
+            "guid": "d56e5d9c-c284-4b40-a8ee-f8b1b63602b4",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -40544,7 +40544,7 @@
                 "assemblyGaugeLength": 5.05787401574803,
                 "shoulder-length": 0.9
             },
-            "guid": "31829359-fba0-41a9-995b-a5e527d66e9a",
+            "guid": "51acc698-bf23-47f2-b479-b1c64ce16881",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -40755,7 +40755,7 @@
                 "assemblyGaugeLength": 6.7578740157480315,
                 "shoulder-length": 2.6377952755905514
             },
-            "guid": "65ce385a-b10b-4db7-b2b3-c7801348f14b",
+            "guid": "18c15cbf-7dbe-4574-a95e-a1e0699c5200",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -41008,7 +41008,7 @@
                 "assemblyGaugeLength": 6.514370078740158,
                 "shoulder-length": 2.4015748031496065
             },
-            "guid": "7021865a-93e9-4915-bde6-9eff4888cf6e",
+            "guid": "2d5645a1-0c25-44b4-8699-96b52629db94",
             "holder": {
                 "description": "BT40 ER25 COLLET CHUCK X 100MM GAGE LENGTH",
                 "expressions": {
@@ -41184,7 +41184,7 @@
             },
             "product-id": "4149272",
             "product-link": "https://www.kennametal.com/us/en/products/p.b042a-5-x-d.4149272.html",
-            "reference_guid": "7021865a-93e9-4915-bde6-9eff4888cf6e",
+            "reference_guid": "2d5645a1-0c25-44b4-8699-96b52629db94",
             "start-values": {
                 "presets": [
                     {
@@ -41251,7 +41251,7 @@
                 "assemblyGaugeLength": 5.4164016,
                 "shoulder-length": 2.401
             },
-            "guid": "8601915b-bb4f-40df-b62a-31b10c593a1e",
+            "guid": "0ab92154-6bc1-4d2d-8976-ead62e6aa219",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -41395,7 +41395,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.5
             },
-            "guid": "23ceec5c-dab3-4491-8a0f-06cb74ff4f55",
+            "guid": "5db7ed10-b9a2-4d1b-abee-1aafc237c6ac",
             "holder": {
                 "description": "BT40 .500\" END MILL HOLDER X 63MM GAGE LENGTH",
                 "expressions": {
@@ -42234,7 +42234,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.625
             },
-            "guid": "864ea35d-7501-4b69-8de3-6ed265c58493",
+            "guid": "d272c1cd-b5e4-4c88-b70a-27bf0f9f244a",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -42529,7 +42529,7 @@
                 "assemblyGaugeLength": 4.93778031496063,
                 "shoulder-length": 2.4016
             },
-            "guid": "b87df15d-4dc8-4b37-9170-d2b478132035",
+            "guid": "f06997bd-5fcf-47a7-8506-d75f39cac2d1",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -42781,7 +42781,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.5
             },
-            "guid": "030ed75e-4565-48ec-99af-f215f73325c8",
+            "guid": "8712a5f2-f4ea-4ef1-a4d0-7f360d3cb4c8",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -42914,7 +42914,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.5
             },
-            "guid": "f959d45f-a362-4b07-80ed-fb0660d90970",
+            "guid": "8fc4d5a8-9534-4272-9498-c6536e071536",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -43308,7 +43308,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "de1b9760-4533-4d80-bb25-a1dd9833af3f",
+            "guid": "6da9c4a4-d12b-4599-845c-48ef033f53d4",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -43506,7 +43506,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 0.5
             },
-            "guid": "b6fb9860-291b-40ec-980d-aa005b1e2fcc",
+            "guid": "680db367-42b3-42e4-bd4c-1c4e9a9258f8",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -43672,7 +43672,7 @@
                 "assemblyGaugeLength": 5.2578740157480315,
                 "shoulder-length": 1.102
             },
-            "guid": "41e1ab60-814b-45a3-b87a-424928fb3f06",
+            "guid": "88bfd142-781b-471c-92d7-fa76e4025280",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -43909,7 +43909,7 @@
                 "assemblyGaugeLength": 5.95511811023622,
                 "shoulder-length": 1.53543
             },
-            "guid": "533f2a61-9eb9-4593-8ead-90427856ed59",
+            "guid": "4b155c9f-f4a3-49d7-b673-b0571819fa02",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -44161,7 +44161,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.8
             },
-            "guid": "7dae6e62-1f75-4cce-8d63-f62b5e014993",
+            "guid": "81bc64dc-b35b-4c4c-8877-789fd2577a03",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -44347,7 +44347,7 @@
                 "assemblyGaugeLength": 4.0564016,
                 "shoulder-length": 0.65
             },
-            "guid": "ff381263-4c47-4f57-811c-670dbe5ebff3",
+            "guid": "7cbaf6c2-6227-4c9f-869c-cbfb058b7ec1",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -44497,7 +44497,7 @@
                 "shoulder-length": 0.446,
                 "tip-diameter": 0.138
             },
-            "guid": "32604563-e23f-4d46-b591-36ae984997c6",
+            "guid": "1ef2615a-5931-4338-ba5d-58899ca95a93",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -44668,7 +44668,7 @@
                 "shoulder-length": 0.9,
                 "tip-diameter": 0.126
             },
-            "guid": "0be4d363-093f-49ea-a897-bf70e4e6a1c2",
+            "guid": "9617ee19-fa90-40f3-8694-4c52ccc288e9",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -44829,7 +44829,7 @@
                 "tool_vendor": "'Kennametal'"
             },
             "gaugeLength": 100.53,
-            "guid": "c4b52c65-c4c3-41ec-9644-ad9391c938f8",
+            "guid": "2c97981d-d876-4689-b756-443b08e54832",
             "product-id": "",
             "product-link": "",
             "segments": [
@@ -44982,7 +44982,7 @@
                 "assemblyGaugeLength": 6.4578740157480325,
                 "shoulder-length": 4
             },
-            "guid": "da02f965-a254-4ac5-a1bf-e76b70097a30",
+            "guid": "26081e6e-2480-42a0-a871-e0a6cc807838",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -45211,7 +45211,7 @@
                 "assemblyGaugeLength": 4.6064016,
                 "shoulder-length": 1
             },
-            "guid": "ba22a369-bb5f-4ef8-a1b5-704d307f9f26",
+            "guid": "aa51cc40-ca6b-4ae0-af27-d8d4f7de8a00",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -45391,7 +45391,7 @@
                 "assemblyGaugeLength": 7.10748031496063,
                 "shoulder-length": 2.9133858267716537
             },
-            "guid": "1dd11d6a-d483-4be4-b7a5-0dd9a6a1ed7a",
+            "guid": "9250e109-1bc8-432a-bde7-843f8c18197f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -45651,7 +45651,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.63
             },
-            "guid": "7716a86a-08a9-40dd-ae0e-8fc19a8219dd",
+            "guid": "8c86ce85-2f56-4e71-9dd4-07d87a43e11b",
             "holder": {
                 "description": "BT40 .500\" END MILL HOLDER X 63MM GAGE LENGTH",
                 "expressions": {
@@ -45976,7 +45976,7 @@
                 "assemblyGaugeLength": 5.8064016,
                 "shoulder-length": 2
             },
-            "guid": "e72ebf6a-af1b-4a83-b98f-a99ae7ff6673",
+            "guid": "5de1d452-7ef1-478f-ae68-99cc9b37cd08",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -46132,7 +46132,7 @@
                 "assemblyGaugeLength": 7.45748031496063,
                 "shoulder-length": 2.25
             },
-            "guid": "d35fc96a-f56b-4a5f-8434-5260c1715cf7",
+            "guid": "817e2ddd-b817-4d88-be92-886028f67b05",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -46368,7 +46368,7 @@
                 "assemblyGaugeLength": 4.9214016,
                 "shoulder-length": 2.25
             },
-            "guid": "734ae06a-868d-4a59-8cca-bdb918aa6d1b",
+            "guid": "c89beb30-08fb-4246-8ec7-d848a31da52f",
             "holder": {
                 "description": "BT30 - ER32 Collet, 60mm",
                 "gaugeLength": 2.4214016,
@@ -46477,7 +46477,7 @@
                 "tool_productLink": "'https://www.haastooling.com/p/01-0192'"
             },
             "gaugeLength": 163.32,
-            "guid": "8fad626b-4370-407f-93f7-0cb2575ad87c",
+            "guid": "d37fc7de-2bb4-450c-bd9b-f21e808b23c7",
             "product-id": "01-0192",
             "product-link": "https://www.haastooling.com/p/01-0192",
             "segments": [
@@ -46606,7 +46606,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.875
             },
-            "guid": "87cf976b-a0bc-4d77-a0a4-b044564f58a6",
+            "guid": "5a0965bb-6a67-4fe0-a47d-d4b00848a67b",
             "last_modified": 1714416095502,
             "post-process": {
                 "break-control": false,
@@ -46683,7 +46683,7 @@
                 "shoulder-length": 3,
                 "upper-radius": 0
             },
-            "guid": "66cd566c-5f35-4bf7-9013-f950b881a9b1",
+            "guid": "c0c50c3e-dbae-4d0a-84b7-9f500079ff86",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "gaugeLength": 62.22,
@@ -46938,7 +46938,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.07
             },
-            "guid": "5c3bee6c-9d7c-4e50-b9f5-ee884b41f041",
+            "guid": "e04f44f0-ce6b-47df-b19b-68b1ffdcac6e",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -47242,7 +47242,7 @@
                 "assemblyGaugeLength": 5.857874015748032,
                 "shoulder-length": 1.7322834645669292
             },
-            "guid": "6cf23d6d-63a6-40a4-bed5-9164eb74a7d6",
+            "guid": "ad56bf22-a213-4a4d-babe-2985f6cf7b20",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -47527,7 +47527,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height"
             },
             "gaugeLength": 2.9614016,
-            "guid": "2e17f36d-6f32-4295-86fa-c3612c2d6385",
+            "guid": "9b7eb7c5-b8fb-4e31-8e1e-8dbc6ccdf157",
             "product-id": "BT30 SSA.500-3.0",
             "product-link": "https://tormach.com/bt30-tool-holder-modular-m6-25mm.htmlhttps://www.maritool.com/Mill-Tool-Holders-BT30-Slitting-Saw-Arbors/c23_33_412/p17124/BT30-SSA.500-3.0-Slitting-Saw-Arbor-Holder/product_info.html",
             "segments": [
@@ -47610,7 +47610,7 @@
                 "assemblyGaugeLength": 5.707874015748032,
                 "shoulder-length": 1.4173228346456694
             },
-            "guid": "a922d36e-25dc-4e89-9239-929b60d22004",
+            "guid": "e6be4eda-faaa-4462-a312-b533a1844966",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -47870,7 +47870,7 @@
                 "shoulder-length": 1.666,
                 "upper-radius": 0
             },
-            "guid": "88498f6f-d920-4755-b44c-a869a089ef5e",
+            "guid": "4ad4783d-8df2-469f-bdab-c5089ae9f6aa",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -48382,7 +48382,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.752
             },
-            "guid": "bf938670-e7e5-4f10-81d2-696fd1b00086",
+            "guid": "54509e62-a103-4686-9a12-13a58a0798d4",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -48586,7 +48586,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height + segment_10_height"
             },
             "gaugeLength": 3.3064016,
-            "guid": "fc814771-8fa1-40a3-81b0-863dab59fa54",
+            "guid": "94e8bccc-b1f1-49c1-bc0b-cebb7c75475e",
             "product-id": "39673",
             "product-link": "https://tormach.com/bt30-tool-holder-drill-chuck-8mm-80mm.html",
             "segments": [
@@ -48666,7 +48666,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.75
             },
-            "guid": "3b04b472-48bb-49b5-8e78-b0b3773a01d1",
+            "guid": "bdf99f72-7db2-4afe-a24c-39245bac9a2e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -48812,7 +48812,7 @@
             },
             "product-id": "49105",
             "product-link": "https://www.helicaltool.com/products/tool-details-49105",
-            "reference_guid": "3b04b472-48bb-49b5-8e78-b0b3773a01d1",
+            "reference_guid": "bdf99f72-7db2-4afe-a24c-39245bac9a2e",
             "start-values": {
                 "presets": [
                     {
@@ -49031,7 +49031,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "8576b672-67b0-439a-90cd-2da240cb06c8",
+            "guid": "a1996a83-9f3e-48b1-9dfa-3f4b15c0c01b",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -49097,7 +49097,7 @@
                 "assemblyGaugeLength": 5.6614016,
                 "shoulder-length": 1.9
             },
-            "guid": "c4ff5374-9c7c-47fc-8c9a-d591773a60b8",
+            "guid": "276bf95d-2003-4e6f-949a-65ee97598561",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -49245,7 +49245,7 @@
                 "assemblyGaugeLength": 4.5564016,
                 "shoulder-length": 0.4375
             },
-            "guid": "1b062275-606c-42cc-b5f2-982d5c4bebda",
+            "guid": "3118e71d-4f7e-4146-acef-35f16188d742",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -49384,7 +49384,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.63
             },
-            "guid": "7c7f3975-cc93-49b8-81fb-0c313a32d8b0",
+            "guid": "8704b622-e0c4-4448-9a35-0fdb58219f6c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -49731,7 +49731,7 @@
                 "assemblyGaugeLength": 5.35787401574803,
                 "shoulder-length": 0.248031496062992
             },
-            "guid": "9c68ea75-a41d-4e21-af2e-c1c5ef51c6ab",
+            "guid": "a9967632-9d76-4e1e-8d24-192ee7277293",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -49958,7 +49958,7 @@
                 "shoulder-length": 0.14,
                 "tip-diameter": 0
             },
-            "guid": "4ff01c76-435f-4352-8551-aa05f2d1c1ab",
+            "guid": "72d02292-d800-48ee-8cd7-53c86a7c5b57",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH with extension",
                 "expressions": {
@@ -50235,7 +50235,7 @@
                 "assemblyGaugeLength": 6.552,
                 "shoulder-length": 5.984
             },
-            "guid": "1e735476-4a24-44d6-8d5f-bc598c392546",
+            "guid": "4aa48e60-18fe-495a-a225-4096341ea1ff",
             "last_modified": 1701982692282,
             "post-process": {
                 "break-control": false,
@@ -50324,7 +50324,7 @@
                 "assemblyGaugeLength": 4.857874015748032,
                 "shoulder-length": 0.7086614173228347
             },
-            "guid": "46fd6976-f95a-464d-9f0c-bb3e633b2827",
+            "guid": "022552f1-4d0b-4eb3-9f49-38bd36e99d9d",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -50613,7 +50613,7 @@
                 "assemblyGaugeLength": 6.8064016,
                 "shoulder-length": 2.875
             },
-            "guid": "51370b77-bc68-4e34-af9c-b75ca93d4bcb",
+            "guid": "bdf1294d-2f57-46a7-90ee-d5d19d74c5ff",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -50756,7 +50756,7 @@
                 "assemblyGaugeLength": 5.9578740157480325,
                 "shoulder-length": 1.377
             },
-            "guid": "6c606877-02c7-4104-8b81-274f1a3e2990",
+            "guid": "e579e932-750b-45f5-9ddb-69a03e8a30b9",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -50974,7 +50974,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.9
             },
-            "guid": "07810a78-cede-497b-b2f2-4a5a4f4034f9",
+            "guid": "7ec6663f-189b-4cef-93f5-424dd2e8aea8",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -51120,7 +51120,7 @@
             },
             "product-id": "4150202",
             "product-link": "https://www.kennametal.com/en/products/20478624/556249/3924453/50001994/100003658.html?orderNumber=4150202",
-            "reference_guid": "07810a78-cede-497b-b2f2-4a5a4f4034f9",
+            "reference_guid": "7ec6663f-189b-4cef-93f5-424dd2e8aea8",
             "shaft": {
                 "segments": [
                     {
@@ -51279,7 +51279,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "f3634f78-f4c3-4b2d-bd18-fa2a5e5fbc5d",
+            "guid": "3dffaaca-cb2e-44c3-8b6d-84929e3946d2",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -51492,7 +51492,7 @@
                 "assemblyGaugeLength": 11.448425196850394,
                 "shoulder-length": 3
             },
-            "guid": "429b7979-269a-4d1e-9d90-30d18b82910d",
+            "guid": "7675ff3a-46b2-481f-86e0-30f579e3db73",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -51767,7 +51767,7 @@
                 "assemblyGaugeLength": 7.341141732283464,
                 "shoulder-length": 3.2677165354330713
             },
-            "guid": "3eb5b37a-ea43-473c-9fc0-328b0b7790a6",
+            "guid": "514b9427-9209-43f2-ad25-6391a012c1b8",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -51998,7 +51998,7 @@
                 "shoulder-diameter": 0.1812842712474619,
                 "shoulder-length": 0.2
             },
-            "guid": "c70a1b7b-7bff-4ebf-bb3f-693ae2155689",
+            "guid": "06d47dd7-67eb-4f56-a9a5-c006a96d8780",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -52321,7 +52321,7 @@
                 "assemblyGaugeLength": 5.2578740157480315,
                 "shoulder-length": 1.1
             },
-            "guid": "5216177c-58dd-40ce-9c71-1ad275bf8c79",
+            "guid": "50a34a96-25cd-4144-af17-9544a6e10d6e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -52524,7 +52524,7 @@
                 "shoulder-diameter": 0.0625,
                 "shoulder-length": 0.25
             },
-            "guid": "c02d937c-2a8a-41c6-804f-93f8c7941fd2",
+            "guid": "100f59ca-6c25-4534-8290-3ebbc02bb0b5",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -52906,7 +52906,7 @@
                 "shoulder-diameter": 0.03937007874015748,
                 "shoulder-length": 0.7874015748031497
             },
-            "guid": "357e9a7c-6c36-4f2b-b08c-db365e520cdd",
+            "guid": "3dfa886c-fa80-4db9-9c08-47ee7a299f50",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -53049,7 +53049,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "da4ffa7d-6798-4232-acd7-512186ae1603",
+            "guid": "071f6847-df7f-4705-a125-a2802fb349a2",
             "last_modified": 1779465799073,
             "post-process": {
                 "break-control": false,
@@ -53063,7 +53063,7 @@
             },
             "product-id": "",
             "product-link": "",
-            "reference_guid": "da4ffa7d-6798-4232-acd7-512186ae1603",
+            "reference_guid": "071f6847-df7f-4705-a125-a2802fb349a2",
             "start-values": {
                 "presets": [
                     {
@@ -53117,7 +53117,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.125
             },
-            "guid": "51454b7e-988d-414e-8e13-e9224a9ddaeb",
+            "guid": "fabbdea5-d01a-4418-9c76-49ae74a6a13f",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -54084,7 +54084,7 @@
                 "shoulder-diameter": 0.093,
                 "shoulder-length": 0.14
             },
-            "guid": "dd6a3c7f-6a4b-4a29-97df-48f2b7e9f4c9",
+            "guid": "598bcfc8-a47c-4046-8ca2-865394b56406",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -54386,7 +54386,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 0.031
             },
-            "guid": "87f5417f-d0c2-4254-9df3-f683884b299f",
+            "guid": "d9c582bf-7306-4515-b43b-c3289f696033",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -54619,7 +54619,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.25
             },
-            "guid": "15314e7f-5426-4857-84a4-0e0cc2be6d1d",
+            "guid": "ffe12b87-f1af-42c9-974b-00248dc85d77",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -55829,7 +55829,7 @@
                 "assemblyGaugeLength": 5.6614016,
                 "shoulder-length": 0.551
             },
-            "guid": "fd4ea37f-7189-425f-8cac-ce2a39fc4025",
+            "guid": "f1918c1e-4ace-4eea-80f0-fc64ebef4fa5",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -55994,7 +55994,7 @@
                 "assemblyGaugeLength": 5.157874015748033,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "d8b2a280-6552-41ad-b38c-0796bc6a816d",
+            "guid": "85228fc1-b29e-4750-918d-0d33eb9712b3",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -56301,7 +56301,7 @@
                 "shoulder-length": 0.9,
                 "upper-radius": 0
             },
-            "guid": "840b2b81-5f80-4d60-b0aa-643615c8ec4f",
+            "guid": "8fbd702c-cf1c-4260-8867-beca44994549",
             "holder": {
                 "description": "BT30 - Shell Mill Adapter",
                 "gaugeLength": 1.7564016,
@@ -56689,7 +56689,7 @@
                 "assemblyGaugeLength": 7.95511811023622,
                 "shoulder-length": 3.8
             },
-            "guid": "e6d79082-0f01-46e9-861e-472662af055d",
+            "guid": "23926923-5076-4357-82a7-7dfed06a1d85",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -56945,7 +56945,7 @@
                 "shoulder-length": 0.9,
                 "upper-radius": 0
             },
-            "guid": "c7413a84-c7f1-42bc-ae48-e7aad8105920",
+            "guid": "9b7d6873-ad5b-4182-a828-25f8d375ce13",
             "holder": {
                 "description": "BT30 - Shell Mill Adapter",
                 "gaugeLength": 1.7564016,
@@ -57332,7 +57332,7 @@
                 "shoulder-diameter": 0.031,
                 "shoulder-length": 0.13
             },
-            "guid": "1b494184-26cf-4ce1-b46a-1d1ab444b415",
+            "guid": "47a5c681-63a5-4044-a336-89b64b24d7c6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -57654,7 +57654,7 @@
                 "shoulder-length": 0.5,
                 "tip-diameter": 0.07
             },
-            "guid": "e39c7284-ea16-4275-96fa-059782cb259e",
+            "guid": "6fbdf35e-fe69-44bb-b7ac-6edb0eb982bb",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -57810,7 +57810,7 @@
                 "assemblyGaugeLength": 10.948425196850394,
                 "shoulder-length": 2.5625
             },
-            "guid": "d6b80b86-c0cf-4498-a53a-fdae4a6d3149",
+            "guid": "0ab3caf3-68d9-4336-87db-ffbfc6e0bd9d",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -58084,7 +58084,7 @@
                 "assemblyGaugeLength": 6.827055118110237,
                 "shoulder-length": 4.1
             },
-            "guid": "00b86287-2e91-4482-863b-407c4d5c1ff2",
+            "guid": "643cab61-12f9-4c64-aea8-605c6591a5df",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -58331,7 +58331,7 @@
                 "shoulder-length": 1,
                 "upper-radius": 0
             },
-            "guid": "1a05aa87-ed2f-4c50-a671-aaae9e919114",
+            "guid": "eca0a207-a2a7-4b69-8ed8-e5a2090e678a",
             "holder": {
                 "description": "CAT40 SHELL MILL HOLDER 1\" PILOT DIAMETER X 4\" GAGE LENGTH",
                 "expressions": {
@@ -58923,7 +58923,7 @@
                 "assemblyGaugeLength": 4.426377952755906,
                 "shoulder-length": 1.7322834645669292
             },
-            "guid": "43e5d687-aaae-4fbd-9be1-2185d183526e",
+            "guid": "cb512579-d9af-4d06-a609-bdcb54752b51",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -59180,7 +59180,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.75
             },
-            "guid": "98934088-03a4-4ea0-9405-2c0d0582db3b",
+            "guid": "3d9e068b-7b38-4b62-bef1-7e36b092510a",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -59315,7 +59315,7 @@
                 "assemblyGaugeLength": 3.4164016,
                 "shoulder-length": 0.45
             },
-            "guid": "679db58b-1387-4ce0-8171-7cea7c295d11",
+            "guid": "a674caa7-1841-4da6-bb08-3accfedaea61",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -59443,7 +59443,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.2756
             },
-            "guid": "b948f38b-bbb4-4ee3-afee-3f51ee1b05eb",
+            "guid": "a6cf634c-c359-4de8-a865-35f42ef656be",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -59568,7 +59568,7 @@
                 "shoulder-length": 0.9,
                 "tip-diameter": 0.126
             },
-            "guid": "b161f38b-0999-4e53-acd2-5f44e99861ba",
+            "guid": "1f9fa815-b45c-462b-a7b3-b1e1de65900c",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -59748,7 +59748,7 @@
                 "assemblyGaugeLength": 5.157874015748033,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "fce9268c-043b-4839-be88-b3755700bfce",
+            "guid": "8c4e1f25-4259-454a-b3ea-0a1f90d5ee15",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -60051,7 +60051,7 @@
                 "shoulder-length": 1.125,
                 "tip-diameter": 0.125
             },
-            "guid": "11ca6a8d-3acc-4621-ad55-cb380ed4c4bd",
+            "guid": "6fb6a94d-f804-41e8-a2ab-4a74066fbae0",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -60504,7 +60504,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.625
             },
-            "guid": "0fe0898d-52e7-4fa1-9a05-beab17a10044",
+            "guid": "48c3e604-6b80-49aa-8a11-647bbc6439a6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -60672,7 +60672,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.375
             },
-            "guid": "33df898e-651a-482f-a476-299a93dd808b",
+            "guid": "2551f287-a412-4605-ade1-7f160c540ec6",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -60965,7 +60965,7 @@
                 "shoulder-diameter": 0.75,
                 "shoulder-length": 3.5
             },
-            "guid": "7f2b998e-8a10-4f9d-8037-2ffe9befda1c",
+            "guid": "e3ba54a6-eccd-4bf5-945c-49acb01e5b35",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "gaugeLength": 62.22,
@@ -61212,7 +61212,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 1
             },
-            "guid": "0a1bca8e-c894-4342-9199-2800ace75e78",
+            "guid": "bc4fd02a-5c3c-42f6-af99-f7105b05916d",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -61358,7 +61358,7 @@
                 "shoulder-diameter": 0.15228427124746194,
                 "shoulder-length": 0.14
             },
-            "guid": "99c4498f-c730-4603-8dca-6401006675c7",
+            "guid": "a7564d39-2b21-4b75-8a0a-fee855049470",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -61505,7 +61505,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.125
             },
-            "guid": "f9facf8f-640f-4afa-ad4b-79e237716034",
+            "guid": "4c789a00-bb99-4461-a5c6-d162f0d73a5b",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -61681,7 +61681,7 @@
                 "assemblyGaugeLength": 6.4578740157480325,
                 "shoulder-length": 2.087
             },
-            "guid": "4a860590-08c7-4c64-8fef-8b3a79f93d70",
+            "guid": "5f132565-95c6-4d07-b261-2602ca2feb1e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -61899,7 +61899,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 0.5
             },
-            "guid": "fe541890-5ef8-48dc-b4c1-e705aa6d3d82",
+            "guid": "6ac21c81-e81d-43b4-9eac-92e2f0391ac8",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -62189,7 +62189,7 @@
                 "assemblyGaugeLength": 6.3064016,
                 "shoulder-length": 2.25
             },
-            "guid": "3653c290-bb78-4c44-bee6-28dbbcae214a",
+            "guid": "ff29e033-3c23-4021-9170-df9d7ff266fe",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -62304,7 +62304,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 1.1811
             },
-            "guid": "bf770091-e54d-4f9c-9281-dc5ea6eb7db0",
+            "guid": "3b2cc1dc-f17f-459a-b754-76b08fe54bf9",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -62432,7 +62432,7 @@
                 "shoulder-diameter": 0.75,
                 "shoulder-length": 1.6
             },
-            "guid": "9df30692-b9e0-4ccd-81df-1a16dc2e7446",
+            "guid": "b177b9ef-fcca-4d19-8685-352c092566a1",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -62764,7 +62764,7 @@
                 "assemblyGaugeLength": 4.557874015748032,
                 "shoulder-length": 0.5118110236220473
             },
-            "guid": "d02bec92-4a2d-44fa-a06a-617401c438e8",
+            "guid": "426a6585-12fc-4401-913f-2c3c982b4e0a",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -62967,7 +62967,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.125
             },
-            "guid": "cd913d93-802c-4f11-9387-637237b033b1",
+            "guid": "420982f6-2bc6-4c4e-88ad-014c7ba8d594",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -63251,7 +63251,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1
             },
-            "guid": "ad6dc693-7b57-47e7-b68e-644cf43f2ba4",
+            "guid": "d5e621b5-e616-4529-b433-94498a6ce722",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -63519,7 +63519,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.7086614173228347
             },
-            "guid": "8aa1b894-8489-4e70-94d2-89fd57debc59",
+            "guid": "d04d9401-c511-4a1a-b421-2f397d0e5f76",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -63743,7 +63743,7 @@
                 "shoulder-diameter": 0.0312,
                 "shoulder-length": 0.125
             },
-            "guid": "4dd72995-db07-478c-90dd-645015cce7c4",
+            "guid": "e319cf5d-64e3-4421-bfec-ed85b2dbe180",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -63976,7 +63976,7 @@
                 "shoulder-length": 1,
                 "upper-radius": 0
             },
-            "guid": "f7406695-c9b6-4c08-97c5-17f12aa7dbc7",
+            "guid": "6508008f-d70b-4159-ad5a-12276986b6c1",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -64292,7 +64292,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.2
             },
-            "guid": "655ffa95-0daa-4d85-9ad0-bf6654f38e1b",
+            "guid": "2a48ed0a-af3a-4f72-bfc0-5090c9fc0e21",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 6\" GAGE LENGTH",
                 "expressions": {
@@ -64508,7 +64508,7 @@
                 "assemblyGaugeLength": 5.4164016,
                 "shoulder-length": 3
             },
-            "guid": "982a0596-3d48-4549-af93-12a3ca15397c",
+            "guid": "3b48b434-10ba-4d21-8248-86e32bf7c286",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -64630,7 +64630,7 @@
                 "shoulder-diameter": 0.805657286378202,
                 "shoulder-length": 0.94488188976378
             },
-            "guid": "4479a396-fee1-4352-a15a-b7626a298ce4",
+            "guid": "2abb1ff4-7f13-4b63-94a7-98ba480c9762",
             "last_modified": 1762465695395,
             "post-process": {
                 "break-control": false,
@@ -64707,7 +64707,7 @@
                 "shoulder-diameter": 0.625,
                 "shoulder-length": 2.3
             },
-            "guid": "df70e997-5c50-485f-b300-d8c5ce303ef2",
+            "guid": "3167dfa7-53ba-434d-a285-176e6ca9d134",
             "holder": {
                 "description": "BT40 .625\" END MILL HOLDER X 63MM GAGE LENGTH",
                 "expressions": {
@@ -64974,7 +64974,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "eb387599-7602-4c42-9819-31fc6fbc0f20",
+            "guid": "976c8f6d-4c28-4296-8059-4c06b1aa46fd",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -65152,7 +65152,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.8
             },
-            "guid": "1c8ae099-190c-43d4-952c-cbf2bb589e1b",
+            "guid": "0128a97b-36dc-4470-96a1-94fee8bd32d8",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -65437,7 +65437,7 @@
                 "assemblyGaugeLength": 5.95511811023622,
                 "shoulder-length": 1.811
             },
-            "guid": "e9cc9a9a-029f-4f7f-b104-2deebff315b7",
+            "guid": "1b2e0107-cb43-44f8-a474-5cd3757b5caa",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -65660,7 +65660,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.1875
             },
-            "guid": "cd0c3e9b-b6ca-40f3-813c-0351d3ad8957",
+            "guid": "9a3f66db-f5c6-45fb-88a0-9152a7c14b6d",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -65858,7 +65858,7 @@
                 "assemblyGaugeLength": 4.5564016,
                 "shoulder-length": 1
             },
-            "guid": "31f5a39b-56ed-4632-9f3e-fc8884e1c62f",
+            "guid": "cce22efc-9622-4b44-9d3e-41bc2f7dbcc7",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -66008,7 +66008,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.186
             },
-            "guid": "6204179c-6e11-4924-a36d-5d5a86fb2ba0",
+            "guid": "83e8c36b-c4b5-4390-945b-fcb041a2c6f3",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -66199,7 +66199,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.5
             },
-            "guid": "e33d109d-820d-4cec-a9b5-0b4cc5b59a21",
+            "guid": "c344cb2f-cb48-49ae-bdcc-21ad677b960f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -66469,7 +66469,7 @@
                 "assemblyGaugeLength": 6.0564016,
                 "shoulder-length": 2.13
             },
-            "guid": "3a545d9d-4a7b-4746-bcbf-5200a1ed19a9",
+            "guid": "a285c5cc-8d88-4f38-80cb-7da60a5c0113",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -66625,7 +66625,7 @@
                 "shoulder-length": 0.125,
                 "tip-length": 0
             },
-            "guid": "fa33e09e-9a83-406c-a392-fe2f8eb7354a",
+            "guid": "f020bbde-32be-4541-84df-9380e5d5c747",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -66898,7 +66898,7 @@
                 "assemblyGaugeLength": 6.9864016,
                 "shoulder-length": 3.188
             },
-            "guid": "194e8d9f-62a3-4eae-a183-9bafd14b1cd0",
+            "guid": "63ee40dc-187e-4375-9e93-67593d85afcf",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -67106,7 +67106,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "83c684a0-c229-4ed2-90a9-5ea8ed6792bd",
+            "guid": "25af17d6-40d9-4401-bb88-79adba05dec7",
             "holder": {
                 "description": "CAT50 1\" END MILL HOLDER X 4\" GAGE LENGTH",
                 "expressions": {
@@ -67304,7 +67304,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 0.71
             },
-            "guid": "5348b7a0-e064-4e09-8d78-9e7e5983f8d3",
+            "guid": "64d07d14-c52c-4a3f-a5cf-150c92d8e1ba",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -67428,7 +67428,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "3bb5c5a0-8d3c-4b04-a773-cb8f3a503367",
+            "guid": "21b1868b-f16b-4ff2-9ee4-38817d43b7dd",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -67726,7 +67726,7 @@
                 "tool_unit": "'inches'"
             },
             "gaugeLength": 5.9,
-            "guid": "01d93ea2-5566-4ce8-b5f5-39209178bc9c",
+            "guid": "08e25b8c-a0d1-4b58-9c4e-1a4558d2dd64",
             "product-id": "04-0007",
             "product-link": "https://www.haascnc.com/haas-tooling/mill_toolholding/er_collet_chucks/04-0007.html",
             "segments": [
@@ -67865,7 +67865,7 @@
                 "assemblyGaugeLength": 5.527055118110236,
                 "shoulder-length": 3
             },
-            "guid": "f12291a3-b668-4161-8f00-5cac82603b12",
+            "guid": "493c4665-6ed1-4935-af34-d0bcf7e92ca4",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -68081,7 +68081,7 @@
                 "assemblyGaugeLength": 7.4164016,
                 "shoulder-length": 2.85
             },
-            "guid": "eabad8a3-0806-413b-bd9b-2818c6ae318b",
+            "guid": "0cca4888-71e6-4136-8885-0889f5668bcd",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -68206,7 +68206,7 @@
                 "assemblyGaugeLength": 5.60708661417323,
                 "shoulder-length": 3.031496062992126
             },
-            "guid": "0f7a69a4-5334-41b8-b1b5-aab7d968f5d8",
+            "guid": "bc272147-bace-43d0-9046-0649d42ebea8",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -68391,7 +68391,7 @@
                 "assemblyGaugeLength": 7.8064016,
                 "shoulder-length": 3.75
             },
-            "guid": "53f628a5-015a-4923-8309-661b95b4f683",
+            "guid": "c0c8a792-6a4b-4fc2-9c2a-f780323edaff",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -68522,7 +68522,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.75
             },
-            "guid": "42604fa5-943d-49ac-b1b1-9ddb5558d919",
+            "guid": "d4bb8e1b-4cb1-493c-bc26-9af43b4bba40",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -68797,7 +68797,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.625
             },
-            "guid": "303f6fa5-eb20-4075-ab90-46dc04edddf4",
+            "guid": "4e07670b-1437-4476-9a16-47e12669f367",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -69112,7 +69112,7 @@
                 "shoulder-diameter": 0.025,
                 "shoulder-length": 0.038
             },
-            "guid": "392976a5-3654-4d73-bd6b-9179941ac924",
+            "guid": "2f0edbc6-6cb4-49ec-80e9-fe3fe7cd551c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "gaugeLength": 62.43,
@@ -69406,7 +69406,7 @@
                 "assemblyGaugeLength": 5.5564016,
                 "shoulder-length": 1.375
             },
-            "guid": "bf302aa6-3bfb-4080-9090-e6599273b26a",
+            "guid": "cf3b056e-65f9-46d9-9578-bf7c90e96519",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -69534,7 +69534,7 @@
                 "assemblyGaugeLength": 5.9578740157480325,
                 "shoulder-length": 1.8504
             },
-            "guid": "8d909ca6-3918-42b3-8b88-c0c0be914869",
+            "guid": "1891b662-2ae7-4c42-8575-a831cf8021de",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -69792,7 +69792,7 @@
                 "shoulder-diameter": 0.75,
                 "shoulder-length": 2.25
             },
-            "guid": "425f5fa7-0401-4b76-84f8-fafde1e80b8d",
+            "guid": "ea2eeca2-83d6-439a-8b23-df861786fb6f",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "gaugeLength": 62.22,
@@ -70286,7 +70286,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "4eb47da7-5bd0-457d-b3c9-84e2c965e9da",
+            "guid": "8a94cd73-52e3-485a-b4bc-4eb087fb2bc8",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -70498,7 +70498,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 1
             },
-            "guid": "2160bea7-66bd-44c0-acbc-f8e3ac553bf4",
+            "guid": "40ee19cd-aa82-4ab6-b3cf-9c9b1cb862a6",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -70775,7 +70775,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.8
             },
-            "guid": "fc3831a8-9bcb-4114-b475-ee939596af9c",
+            "guid": "42c46491-23c7-40aa-ab6a-1dfe2dff0e88",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -71226,7 +71226,7 @@
                 "assemblyGaugeLength": 4.8064016,
                 "shoulder-length": 1.25
             },
-            "guid": "f63ebaa8-88fb-4d78-aa84-f58d5063f9fd",
+            "guid": "33e9a642-e308-4794-85f5-87e6e4de7542",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -71374,7 +71374,7 @@
                 "assemblyGaugeLength": 4.5674016,
                 "shoulder-length": 0.3125
             },
-            "guid": "da57d8a8-9d23-452c-a0a5-1892c22cab31",
+            "guid": "2212d714-3684-499a-b2a0-92dee57a1b25",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -71502,7 +71502,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.75
             },
-            "guid": "88c332a9-502f-4406-a76b-fa4ce643799f",
+            "guid": "b9266a9b-0866-4225-b9b7-ab93c3b5c543",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -72150,7 +72150,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.866141732283465
             },
-            "guid": "25ab22aa-ea87-4e8c-9f85-02c470319728",
+            "guid": "b8b2cc6b-2e07-4fb9-ac48-0ce4216e5b36",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -72280,7 +72280,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "a67729ab-a6c1-468f-8e9b-9ae10ba3cf82",
+            "guid": "9a448738-db3b-4832-ab24-359ba01b93d6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -72528,7 +72528,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "8dd14eab-dc2d-427a-873f-e4febd6b210a",
+            "guid": "1d3dfc55-6178-481b-903a-f3119b302283",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -72829,7 +72829,7 @@
                 "assemblyGaugeLength": 4.1814016,
                 "shoulder-length": 0.374015748031496
             },
-            "guid": "30cfd6ab-9d54-4770-9a3f-a3e66b42f9a8",
+            "guid": "4a29b0e3-b2df-472c-b20c-d534ac607f6b",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -72943,7 +72943,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.4
             },
-            "guid": "8ed68fac-577c-4b34-9ac3-3145124b5d52",
+            "guid": "c3679bad-9bda-4d36-b152-cce5a1fbdd74",
             "holder": {
                 "description": "BT30 - Modular M6, 25mm",
                 "gaugeLength": 0.9414016,
@@ -73060,7 +73060,7 @@
                 "shoulder-diameter": 0.13430184569647682,
                 "shoulder-length": 0.25
             },
-            "guid": "ef19eaac-fe32-4b0e-8866-5a7d85b76ac8",
+            "guid": "9f3dba9e-c6da-4c4f-a490-7a7187029b9e",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -73192,7 +73192,7 @@
                 "assemblyGaugeLength": 6.5078740157480315,
                 "shoulder-length": 2.4016
             },
-            "guid": "c02a45ad-1360-4025-97c2-2ea513611af6",
+            "guid": "1b4b23ee-b9bb-49c6-b5bd-c8f3c324f618",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -73449,7 +73449,7 @@
                 "assemblyGaugeLength": 5.80511811023622,
                 "shoulder-length": 3
             },
-            "guid": "496864ad-df5c-42c1-833d-dfec343e22f5",
+            "guid": "5149a45e-2052-475a-9a05-f294d8898a57",
             "holder": {
                 "description": "BT40 ER32 COLLET CHUCK X 70MM GAGE LENGTH",
                 "expressions": {
@@ -73625,7 +73625,7 @@
             },
             "product-id": "03-1577",
             "product-link": "https://www.haastooling.com/p/03-1577",
-            "reference_guid": "496864ad-df5c-42c1-833d-dfec343e22f5",
+            "reference_guid": "5149a45e-2052-475a-9a05-f294d8898a57",
             "start-values": {
                 "presets": [
                     {
@@ -73665,7 +73665,7 @@
                 "assemblyGaugeLength": 6.4578740157480325,
                 "shoulder-length": 1.37795
             },
-            "guid": "d6f368ae-4006-4597-ae90-0788d18b9b2d",
+            "guid": "d72b92e4-4dcb-430a-89e5-24fa9140a11e",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -73874,7 +73874,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 0.6
             },
-            "guid": "8b3811af-fd54-4158-bb86-fb3771b1006a",
+            "guid": "6b8d45c8-c323-44de-b18b-6637f6fa3ccb",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -74159,7 +74159,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.7
             },
-            "guid": "379794b1-d67d-4933-91d7-f5ce265b6fb5",
+            "guid": "7f323d8e-d98c-4385-b455-9a81e926ecfc",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -74308,7 +74308,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 0.655
             },
-            "guid": "a2d970b2-2801-4261-8e5f-426c40de4de8",
+            "guid": "365930c0-3fcb-4779-b9dc-4bc81adb9e93",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -74766,7 +74766,7 @@
                 "assemblyGaugeLength": 6.20511811023622,
                 "shoulder-length": 2.01
             },
-            "guid": "70df73b2-dbc7-46af-87a5-fd6d13ffc979",
+            "guid": "3143e4b4-e6c2-4807-8ad3-aaf442c958ca",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -74992,7 +74992,7 @@
                 "assemblyGaugeLength": 0.4,
                 "shoulder-length": 0.28
             },
-            "guid": "ebffddb2-fe7a-4e4e-aaea-21babdcde46d",
+            "guid": "8a3cca6f-d6dd-4e03-b37f-94417b2c73bb",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -75067,7 +75067,7 @@
                 "assemblyGaugeLength": 5.9578740157480325,
                 "shoulder-length": 1.7322834645669292
             },
-            "guid": "8ba161b3-6552-4258-a007-1f2ef09ec7e2",
+            "guid": "0c020498-6d70-4eb8-aabd-0976dfe4472f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -75335,7 +75335,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.125
             },
-            "guid": "6ca0cfb3-cdd4-45ec-9932-9109479f2a3d",
+            "guid": "27595f92-d590-43bc-bf88-5d3e4408c26c",
             "last_modified": 1779393638669,
             "post-process": {
                 "break-control": false,
@@ -75454,7 +75454,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.6
             },
-            "guid": "fcc9e7b4-9d77-462b-b588-8e05a1bf0ebd",
+            "guid": "95ef7c49-771b-4486-948e-67b999a698f3",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -75784,7 +75784,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.6
             },
-            "guid": "6fc9f7b4-350a-4e2d-960e-a74ac7320a90",
+            "guid": "595b594c-cd21-4bc3-9358-d7b1afa0a5c0",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -75919,7 +75919,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.875
             },
-            "guid": "341735b6-845a-4a5a-b276-e93454e42a43",
+            "guid": "45ed0da9-0f96-457d-a0b9-ba50e7583865",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -76416,7 +76416,7 @@
                 "assemblyGaugeLength": 7.4164016,
                 "shoulder-length": 1.8
             },
-            "guid": "96a848b6-ad8e-4def-9e15-e314847f677d",
+            "guid": "6c3dcbaa-a52c-4a8c-b270-c0cddbc49380",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -76528,7 +76528,7 @@
                 "shoulder-length": 0.125,
                 "tip-diameter": 0.04
             },
-            "guid": "91524fb6-50cb-4d18-81c6-6b823503099e",
+            "guid": "c4a21475-f0bf-4e9b-b94b-82437160b375",
             "holder": {
                 "description": "BT30 - 1/4\" End Mill",
                 "gaugeLength": 1.9664016,
@@ -76678,7 +76678,7 @@
                 "assemblyGaugeLength": 4.3064016,
                 "shoulder-length": 0.563
             },
-            "guid": "026f5db6-2fc4-41af-a2b5-6b38a9a31b11",
+            "guid": "d95be0ab-d723-408d-ade1-38551eedaf05",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -76792,7 +76792,7 @@
                 "assemblyGaugeLength": 5.95511811023622,
                 "shoulder-length": 1.25
             },
-            "guid": "5fda8bb6-b213-4d66-93be-4b349da86caa",
+            "guid": "47773b1c-110e-4fd1-9303-56c54a2d6e96",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -77012,7 +77012,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.125
             },
-            "guid": "492a16b7-2dad-41ab-96a1-1787097aea08",
+            "guid": "f1569049-7ad3-4182-bae8-107a048e8848",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -77150,7 +77150,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.5
             },
-            "guid": "dda051b7-33fa-4dc5-8579-1093b2b337f8",
+            "guid": "60899988-802a-47b0-9d4d-8a4a03a20d75",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -77471,7 +77471,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 0.125
             },
-            "guid": "0381e1b7-d9be-4d7c-abc7-5ad06351482d",
+            "guid": "793b7943-fbbb-45fc-92ba-6f61cdadb6d9",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -77721,7 +77721,7 @@
                 "assemblyGaugeLength": 5.4164016,
                 "shoulder-length": 2.375
             },
-            "guid": "6fcda0b8-0c51-46f3-9400-82a7c0a2443b",
+            "guid": "9575d299-66a0-41ad-8c25-17a816ce1a03",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -77831,7 +77831,7 @@
                 "shoulder-diameter": 12,
                 "shoulder-length": 30
             },
-            "guid": "743f5db9-4146-4240-8e8e-1e548e28791a",
+            "guid": "34b52d82-781d-4c12-9eb5-b22e54a1973a",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -78160,7 +78160,7 @@
                 "assemblyGaugeLength": 5.55511811023622,
                 "shoulder-length": 1.4173228346456694
             },
-            "guid": "c60884ba-ba04-4d6d-af18-65a95b117099",
+            "guid": "15637493-369e-466d-a84e-55e3ae93c3cc",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -78419,7 +78419,7 @@
                 "assemblyGaugeLength": 5.6564016,
                 "shoulder-length": 1.932
             },
-            "guid": "46e6e4ba-705f-4460-96eb-bc5586d72769",
+            "guid": "0a30782d-f70b-4bc6-a52d-c12b12e9c7ef",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -78569,7 +78569,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 0.031
             },
-            "guid": "0ec6ebba-7ec3-445b-ad79-aefc49088f84",
+            "guid": "79b728b8-fe41-42f6-9522-f1f92489ec25",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -78830,7 +78830,7 @@
                 "shoulder-diameter": 0.308,
                 "shoulder-length": 0.403
             },
-            "guid": "17d917bb-2a2c-4fb7-b6f1-35a90ad5d89f",
+            "guid": "6049ee45-71b3-41f3-80e1-eb7cb5c2fe0b",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -79053,7 +79053,7 @@
                 "assemblyGaugeLength": 6.3064016,
                 "shoulder-length": 2
             },
-            "guid": "f3b62abb-ef08-4fa7-8048-28ba7444f7d6",
+            "guid": "b6b96b3f-1f88-4088-b098-caa630630798",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -79173,7 +79173,7 @@
                 "assemblyGaugeLength": 0.5,
                 "shoulder-length": 0.42
             },
-            "guid": "8ce545bb-1fad-4b6a-ae40-0a629853ff52",
+            "guid": "0c35d0fc-22ab-4293-8bea-bf9bed648695",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -79301,7 +79301,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "8ddd57bb-6d3e-476d-87fd-a6ad953efde5",
+            "guid": "4dca0f40-83c4-4317-b7ca-75851edc786f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -79507,7 +79507,7 @@
                 "shoulder-length": 0.125,
                 "tip-length": 0
             },
-            "guid": "5c3285bb-5c2c-4113-aea1-168b166d3f8d",
+            "guid": "3d3f5b3b-d75f-48ac-a2dd-8425275d9940",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -79798,7 +79798,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "c006b3bb-f76d-4edc-9c43-56d6bd9ed8e0",
+            "guid": "c2b0d029-34ae-4b40-9771-1a33ff6efe0b",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -79937,7 +79937,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.093
             },
-            "guid": "e0c3b7bc-33a8-49b6-9299-0edc1e766b36",
+            "guid": "9771f1dd-40ba-4921-94dc-94779d256d9a",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -80328,7 +80328,7 @@
                 "assemblyGaugeLength": 5.207874015748032,
                 "shoulder-length": 0.951
             },
-            "guid": "2d86babc-4959-4a16-b081-faa9b10f4f73",
+            "guid": "6ee62cda-02b7-4a6d-bb02-e1186dc15b62",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -80474,7 +80474,7 @@
             },
             "product-id": "4150195",
             "product-link": "https://www.kennametal.com/en/products/20478624/556249/3924453/50001994/100003658.html?orderNumber=4150195",
-            "reference_guid": "2d86babc-4959-4a16-b081-faa9b10f4f73",
+            "reference_guid": "6ee62cda-02b7-4a6d-bb02-e1186dc15b62",
             "shaft": {
                 "segments": [
                     {
@@ -80570,7 +80570,7 @@
                 "assemblyGaugeLength": 6.8364016,
                 "shoulder-length": 3.0625
             },
-            "guid": "90b670bd-9d29-4d98-aef5-c0203a504bd2",
+            "guid": "8596bf65-517d-40b6-a769-2afdf63ba155",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -80740,7 +80740,7 @@
                 "shoulder-length": 1.875,
                 "tip-diameter": 0.952
             },
-            "guid": "ce58b4be-5cbb-4963-b41d-a3c8e4873c0c",
+            "guid": "f5eb7029-d4d7-4fd3-93cd-fc706f1706f2",
             "holder": {
                 "description": "CAT40 1\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -80963,7 +80963,7 @@
                 "assemblyGaugeLength": 6.82911811023622,
                 "shoulder-length": 2.7953
             },
-            "guid": "1de0d2bf-c072-4fff-8629-9df523b168dd",
+            "guid": "ff1bc7bb-d4c7-48cc-8aae-728ba17e4bfa",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -81219,7 +81219,7 @@
                 "assemblyGaugeLength": 6.85511811023622,
                 "shoulder-length": 2.401
             },
-            "guid": "8399b7c0-fd6f-4024-bb6a-184b6b9682ed",
+            "guid": "ff5053a1-58f0-422a-913f-d34bc7add041",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -81473,7 +81473,7 @@
                 "assemblyGaugeLength": 5.6614016,
                 "shoulder-length": 2
             },
-            "guid": "cb32dfc1-aad4-4004-b06f-05a94b095c04",
+            "guid": "23499e40-aa7e-4eab-92c2-05f20776f7d4",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -81626,7 +81626,7 @@
                 "shoulder-diameter": 0.117,
                 "shoulder-length": 0.16
             },
-            "guid": "54196fc5-4553-4feb-9821-eedd19b7c29c",
+            "guid": "8045a70b-0508-4f84-8471-14a0ee49e374",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -81841,7 +81841,7 @@
                 "shoulder-diameter": 0.02,
                 "shoulder-length": 0.16
             },
-            "guid": "ae56d4c8-1804-4d8a-b7c2-2f453b96b00e",
+            "guid": "2c1faac4-356c-4285-b9be-1f900c3b9422",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -81974,7 +81974,7 @@
                 "shoulder-length": 0.7,
                 "tip-diameter": 0
             },
-            "guid": "57108cc9-77d2-4e2b-879a-987c380b6a73",
+            "guid": "16deae9b-9290-4321-b2b1-3e3bcdf88935",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -82346,7 +82346,7 @@
                 "thread-profile-angle": 60,
                 "thread-tip-type": "point"
             },
-            "guid": "0ee01aca-55e0-4008-9c33-0f5dce7400d5",
+            "guid": "ec380586-5d0a-4ef8-ba3e-7098855532c0",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -82550,7 +82550,7 @@
                 "assemblyGaugeLength": 4.4164016,
                 "shoulder-length": 1.75
             },
-            "guid": "a2fb4fca-80e0-4bbc-9a1f-7867b10a1b64",
+            "guid": "ccf64158-f507-4a95-8002-00376eed6481",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -82738,7 +82738,7 @@
                 "assemblyGaugeLength": 5.457874015748032,
                 "shoulder-length": 1.4
             },
-            "guid": "056c54ca-76af-460a-a057-08b2b07be18e",
+            "guid": "a330e4e3-a3f8-41be-9321-a488543426b5",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -82941,7 +82941,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.325
             },
-            "guid": "fc0f59ca-72a0-4b47-b5ee-88db5e01fa0b",
+            "guid": "d279e69b-d31b-4549-a5be-245258f00b20",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -83193,7 +83193,7 @@
                 "assemblyGaugeLength": 5.557874015748032,
                 "shoulder-length": 1.4173228346456694
             },
-            "guid": "05c775ca-4ff8-4447-9fbd-10f212e60ecf",
+            "guid": "728fd910-7366-4355-8e46-471d165697e8",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -83339,7 +83339,7 @@
             },
             "product-id": "4149199",
             "product-link": "https://www.kennametal.com/us/en/products/p.godrill-5xd-internal-coolant-straight-shank-metric.4149199.html?pdpQuery=:relevance",
-            "reference_guid": "05c775ca-4ff8-4447-9fbd-10f212e60ecf",
+            "reference_guid": "728fd910-7366-4355-8e46-471d165697e8",
             "shaft": {
                 "segments": [
                     {
@@ -83447,7 +83447,7 @@
                 "assemblyGaugeLength": 4.9284016,
                 "shoulder-length": 0.4724
             },
-            "guid": "8d8368cb-a5c5-461a-b1bb-c6a5d90e6b5a",
+            "guid": "70816c26-cd20-4f62-a3b8-3ffdad42b738",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -83622,7 +83622,7 @@
                 "assemblyGaugeLength": 4.4874016,
                 "shoulder-length": 1.02
             },
-            "guid": "da443ecc-7c11-493c-8bd5-71c1b1232852",
+            "guid": "ccd56e72-3004-47ea-bb80-af3a3f26f64a",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -83781,7 +83781,7 @@
                 "assemblyGaugeLength": 5.8064016,
                 "shoulder-length": 1.9
             },
-            "guid": "b23df7cc-3f31-41b2-81eb-b9f90161437f",
+            "guid": "d7fe13fc-f829-4132-b4d3-74db2701fa94",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -83907,7 +83907,7 @@
                 "assemblyGaugeLength": 9.2251968503937,
                 "shoulder-length": 2.7952755905511815
             },
-            "guid": "316328cd-1afd-42a1-95f6-5e81050fb5ee",
+            "guid": "8c391cc1-1fe2-4ff8-b02b-5ad37a55f0e0",
             "holder": {
                 "description": "CAT40 Boring Head Holder w/ 100mm Extension",
                 "expressions": {
@@ -84086,7 +84086,7 @@
                 "assemblyGaugeLength": 5.0564016,
                 "shoulder-length": 1.47
             },
-            "guid": "e02749cd-8bb5-4140-a9ab-ed31c5a90c28",
+            "guid": "cf82dfe4-9051-4a2f-9327-52d940e3c392",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -84235,7 +84235,7 @@
                 "assemblyGaugeLength": 5.35787401574803,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "8cbf9fcd-f6e3-42b8-80fe-b4aecef48c4d",
+            "guid": "7dc33f3d-0f14-4e43-b9fb-47e5d1eaee91",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -84476,7 +84476,7 @@
                 "assemblyGaugeLength": 5.0564016,
                 "shoulder-length": 1.5
             },
-            "guid": "8abb4fce-8fc0-4091-ba7f-a4698d53f425",
+            "guid": "2cec3ca3-5745-490e-ae48-c1f7a66d2eb8",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -84601,7 +84601,7 @@
                 "assemblyGaugeLength": 5.9578740157480325,
                 "shoulder-length": 1.377952755905512
             },
-            "guid": "a5893acf-c842-4b5a-8994-ec8743d34046",
+            "guid": "c3456698-0e78-4a7f-9e77-51d0b2ac5141",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -84826,7 +84826,7 @@
                 "shoulder-length": 0.5,
                 "upper-radius": 0
             },
-            "guid": "196993cf-278a-4afc-9a9a-627598125921",
+            "guid": "ac5a39f9-a1dc-457c-a56b-95a8d71e58e5",
             "last_modified": 1779466578417,
             "post-process": {
                 "break-control": false,
@@ -84888,7 +84888,7 @@
                 "SFDM": 0.1968503937007874,
                 "assemblyGaugeLength": 1.418
             },
-            "guid": "1e14efcf-57ce-4e5a-a139-456e846ac6e6",
+            "guid": "ff87f21d-a6a0-4950-b90e-ca81f55a99c5",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -84990,7 +84990,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "005631d0-e70c-4622-b5da-1969f4b213c0",
+            "guid": "e5f1897c-58c8-46cc-9ee4-7177141b947f",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -85370,7 +85370,7 @@
                 "assemblyGaugeLength": 5.35787401574803,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "e05156d0-c39c-4a2b-8097-2808d988f59e",
+            "guid": "04e63b55-2647-4a4d-ac18-5999f4bef4ad",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -85625,7 +85625,7 @@
                 "assemblyGaugeLength": 6.35787401574803,
                 "shoulder-length": 2.0866
             },
-            "guid": "a03df1d0-6b3d-4f1f-ae9c-a677b5285c83",
+            "guid": "67d3f2af-6ebb-4b37-b0d9-a577c7930ed6",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -85872,7 +85872,7 @@
                 "assemblyGaugeLength": 6.8064016,
                 "shoulder-length": 2.165
             },
-            "guid": "bc3893d2-387b-413b-9f57-9b2430a9cfd0",
+            "guid": "b883ed72-dbf4-4f78-9c32-6a42de231c2e",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -86034,7 +86034,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.5
             },
-            "guid": "d18a89d4-e9d2-4854-9988-657850aa3398",
+            "guid": "d7e8c30d-d186-4e29-98c0-bcdcd181f5b6",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -86215,7 +86215,7 @@
             },
             "product-id": "82437",
             "product-link": "https://www.helicaltool.com/products/tool-details-82437",
-            "reference_guid": "d18a89d4-e9d2-4854-9988-657850aa3398",
+            "reference_guid": "d7e8c30d-d186-4e29-98c0-bcdcd181f5b6",
             "start-values": {
                 "presets": [
                     {
@@ -86356,7 +86356,7 @@
                 "assemblyGaugeLength": 7.45748031496063,
                 "shoulder-length": 4.625
             },
-            "guid": "7cd680d5-f20e-4c33-8a3f-47709ef31871",
+            "guid": "0694b825-fb61-46f8-abe6-fc89daabca03",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -86546,7 +86546,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.5
             },
-            "guid": "23c914d6-ddea-4014-b357-94f641eef118",
+            "guid": "db5f5372-3d57-4cf6-950e-047a8c82ecbe",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -86775,7 +86775,7 @@
                 "assemblyGaugeLength": 7.6524016,
                 "shoulder-length": 5.236
             },
-            "guid": "2d9152d6-38f9-4e97-abff-8e7e95e955c4",
+            "guid": "ba8b0b31-2e9e-4822-8512-63d65e29652c",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -86942,7 +86942,7 @@
                 "assemblyGaugeLength": 5.2177165354330715,
                 "shoulder-length": 1.1023622047244095
             },
-            "guid": "269ba7d6-9f46-4d28-857f-45f9f3f61b42",
+            "guid": "b36ce663-3f20-4c58-9256-cc1693964dab",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -87198,7 +87198,7 @@
                 "assemblyGaugeLength": 2.275,
                 "shoulder-length": 2.15
             },
-            "guid": "564516d7-69a7-40ac-8dd1-90780d5e849d",
+            "guid": "f8e2d97d-a8db-409a-be43-9f4f053de117",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -87258,7 +87258,7 @@
                 "assemblyGaugeLength": 4.7164016,
                 "shoulder-length": 2.165
             },
-            "guid": "916f19d9-2f05-4f21-99e3-e477cea754d7",
+            "guid": "d548327b-4999-4033-badf-fb4b2cce7226",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -87414,7 +87414,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.062
             },
-            "guid": "70ea6cd9-96be-4d95-989b-733a2b5684e5",
+            "guid": "de97f1a2-6203-4489-a8fc-ce1a86956ca3",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -87501,7 +87501,7 @@
                 "shoulder-diameter": 0.07874015748031496,
                 "shoulder-length": 0.75
             },
-            "guid": "9513bfd9-6232-441e-9940-c1b7eaee0d26",
+            "guid": "bff6c9a9-869b-4065-8033-8803f44279c5",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -87735,7 +87735,7 @@
                 "assemblyGaugeLength": 7.89488188976378,
                 "shoulder-length": 3.622047244094488
             },
-            "guid": "c9a4eed9-d2c4-43be-bf8e-14c5c802e9eb",
+            "guid": "08f4c2cb-d89f-48a6-97e2-9e951a0e31e5",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -88033,7 +88033,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "c486b9da-f751-4046-af3b-22e7e7f9a89f",
+            "guid": "040609bd-7bf0-4ed6-95dd-3a9f6aca5183",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -88233,7 +88233,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height"
             },
             "gaugeLength": 0.9414016,
-            "guid": "47ef9edb-23a4-424f-96cb-6386779b7b56",
+            "guid": "abe92244-0445-41fe-8521-e3c142ed4b6b",
             "product-id": "39636",
             "product-link": "https://tormach.com/bt30-tool-holder-modular-m6-25mm.html",
             "segments": [
@@ -88309,7 +88309,7 @@
                 "assemblyGaugeLength": 4.207874015748032,
                 "shoulder-length": 1.25
             },
-            "guid": "91b683dc-e9d1-493f-9953-14f63e2e6a29",
+            "guid": "264941a2-f95b-43f5-aa90-7ebc87e2675f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -88549,7 +88549,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.8
             },
-            "guid": "ac8cb2dd-9ef5-4494-bc76-648a66748c49",
+            "guid": "fa54ef4b-a6c9-4271-b6b4-60ae6adf26ae",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -89339,7 +89339,7 @@
                 "assemblyGaugeLength": 5.926374015748031,
                 "shoulder-length": 1.14173
             },
-            "guid": "c4bfcddd-926d-4259-9750-bd97ab00d2fb",
+            "guid": "d7d990dd-ca63-4053-8ad0-35fe74377a00",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -89541,7 +89541,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.093
             },
-            "guid": "ad504bde-6a6b-4ee1-a316-2f7290a07db6",
+            "guid": "09ec31ab-a44d-49f6-bfa3-043865a64d9c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -89790,7 +89790,7 @@
                 "assemblyGaugeLength": 5.457874015748032,
                 "shoulder-length": 0.9881889763779528
             },
-            "guid": "d4be56de-e2a3-403d-800d-67bcd4c79a12",
+            "guid": "b40952b2-a619-4ada-abf0-2d38c63f345b",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -90030,7 +90030,7 @@
                 "assemblyGaugeLength": 3.9064016,
                 "shoulder-length": 0.3937007874015748
             },
-            "guid": "f8b8ffde-820f-489c-8a88-6bef8aab7840",
+            "guid": "05b34433-76c7-4b07-a70d-dbd6154516fc",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -90176,7 +90176,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.1
             },
-            "guid": "d7fe0cdf-9eb4-4209-99df-9eef5ee5fd1f",
+            "guid": "ecc5f3fa-28f7-448d-aeb9-20d2bb72df01",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -90619,7 +90619,7 @@
                 "assemblyGaugeLength": 8.4164016,
                 "shoulder-length": 2.125
             },
-            "guid": "f6d844df-4a66-4dee-b013-f853850f8bc5",
+            "guid": "d90797a0-fe73-4594-896f-8d17b61aea08",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -90761,7 +90761,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 2.5625
             },
-            "guid": "f2de1ae0-75cd-4bf2-b501-6653e28ea4b4",
+            "guid": "baff59a4-9a92-402b-b395-6cc12d33c231",
             "holder": {
                 "description": "CAT40 ER32 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -91032,7 +91032,7 @@
                 "shoulder-diameter": 0.03125,
                 "shoulder-length": 0.1
             },
-            "guid": "ac299ee1-7422-4b2d-a1e4-b0e61c6c7792",
+            "guid": "cafbaf1f-3ba0-4383-9e1e-23ed31d27bae",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -91208,7 +91208,7 @@
                 "assemblyGaugeLength": 9.45787401574803,
                 "shoulder-length": 1.55
             },
-            "guid": "4677c4e1-e5bd-4e76-a16f-54468d2393c1",
+            "guid": "49907052-3f91-4d33-82cc-8dd9081f5d88",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -91409,7 +91409,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "e7f2dee1-36dd-49a2-9aaf-bb9348dc97d6",
+            "guid": "35b9b1db-9257-4869-93e8-fc2c567e8bf3",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -91485,7 +91485,7 @@
                 "assemblyGaugeLength": 2.70472440944882,
                 "shoulder-length": 2.216535433070866
             },
-            "guid": "4149a7e2-d77b-4ad9-9de4-89d5138e01da",
+            "guid": "e1c4f019-e2f4-4356-bfcc-41f645bb148c",
             "last_modified": 1703778656286,
             "post-process": {
                 "break-control": false,
@@ -91614,7 +91614,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height + segment_10_height"
             },
             "gaugeLength": 1.9664016,
-            "guid": "f5a9e7e2-99bb-4cb2-80a0-19ce83cc5a71",
+            "guid": "72452d64-eded-4695-8d0e-9d527a3e0ea4",
             "product-id": "39670",
             "product-link": "https://tormach.com/bt30-tool-holder-end-mill-1-4-in-50mm.html",
             "segments": [
@@ -91696,7 +91696,7 @@
                 "shoulder-diameter": 0.1875,
                 "shoulder-length": 1.875
             },
-            "guid": "05f4f0e2-f4c7-4c35-9f68-8baaab7626b1",
+            "guid": "f21723cd-36d6-4e82-81f4-8fb83683c05c",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -92024,7 +92024,7 @@
                 "assemblyGaugeLength": 8.008055118110237,
                 "shoulder-length": 5.5
             },
-            "guid": "ca5e0be4-c2f5-4c69-a800-534d534efa2a",
+            "guid": "cb1caad8-3fa0-40d8-9316-c1642816af56",
             "holder": {
                 "description": "CAT40 3/4\" END MILL HOLDER X 1-3/4\" GAGE LENGTH",
                 "expressions": {
@@ -92251,7 +92251,7 @@
                 "assemblyGaugeLength": 6.43541811023622,
                 "shoulder-length": 2.4016
             },
-            "guid": "c2ee12e4-8f96-4410-ba90-b959473fa6f2",
+            "guid": "68642419-b76f-4223-94fc-a50efe50dffc",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -92534,7 +92534,7 @@
                 "shoulder-diameter": 0.062,
                 "shoulder-length": 0.093
             },
-            "guid": "245015e4-5f01-4c20-8c3a-a8470b223548",
+            "guid": "f4834957-5f3e-4223-b55d-dfb3fd3d8897",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -92796,7 +92796,7 @@
                 "assemblyGaugeLength": 6.560433070866143,
                 "shoulder-length": 2.480314960629922
             },
-            "guid": "7f4730e5-83d1-41e4-a0f1-a2bf5f7b370c",
+            "guid": "5a6e204f-231c-495e-a31b-6e08f5aff802",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -93060,7 +93060,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 1.375
             },
-            "guid": "2cd9e7e5-e310-41f3-be1f-5928d4610117",
+            "guid": "d80e7902-fc77-4e65-9c5a-f2440544a716",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -93526,7 +93526,7 @@
                 "assemblyGaugeLength": 9.191338582677163,
                 "shoulder-length": 1.5748031496062993
             },
-            "guid": "a94253e6-60f2-49fb-91cf-9b31b63e5a53",
+            "guid": "925a04ea-b611-46ed-82bb-527edf51e09c",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -93723,7 +93723,7 @@
                 "assemblyGaugeLength": 5.207874015748032,
                 "shoulder-length": 0.906
             },
-            "guid": "693982e6-8ff0-4b15-b2b4-0839dd03ca49",
+            "guid": "7d397645-73c8-42c9-8348-ed9c68650f15",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -93968,7 +93968,7 @@
                 "assemblyGaugeLength": 3.457874015748031,
                 "shoulder-length": 0.826
             },
-            "guid": "593a41e7-486a-4bb2-b3e4-4f54d886b301",
+            "guid": "56b9beb3-a298-49ef-a0c1-61f2022662ed",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -94236,7 +94236,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "422eabe7-7ea6-4b99-887d-fd361097593e",
+            "guid": "35e9831e-9a6c-473d-b27a-eea3d6eece79",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -94371,7 +94371,7 @@
                 "assemblyGaugeLength": 3.707874015748032,
                 "shoulder-length": 0.9448818897637796
             },
-            "guid": "801104e8-f8af-4db8-b1a6-12480cdfdb24",
+            "guid": "f4ba7870-c1e5-4479-ad62-d87944bede41",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -94619,7 +94619,7 @@
                 "assemblyGaugeLength": 5.95511811023622,
                 "shoulder-length": 1.2
             },
-            "guid": "d13616e8-01a0-4534-9ad9-fa49ba483895",
+            "guid": "e0e84ed3-28f5-4aad-b462-95598741d4ed",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -94819,7 +94819,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.05
             },
-            "guid": "1f9191e8-46d7-48f0-88ef-adced0b79607",
+            "guid": "4beae6ea-736f-402c-aeea-4f6c9c7cb1af",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -95046,7 +95046,7 @@
                 ],
                 "tip-offset": 0
             },
-            "guid": "7b1331eb-8c9a-4195-bf4f-5ce0cd94a73e",
+            "guid": "75722b03-27c6-4644-a1df-c17a2696f9dd",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -95174,7 +95174,7 @@
                 "assemblyGaugeLength": 5.5564016,
                 "shoulder-length": 1.375
             },
-            "guid": "ffe6f8eb-81f3-42bb-bfe6-3eccf668ad19",
+            "guid": "330926df-6523-41dd-99d8-fafc8a7e2ee9",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -95336,7 +95336,7 @@
                 "assemblyGaugeLength": 6.157874015748032,
                 "shoulder-length": 2.0866141732283463
             },
-            "guid": "feb016ec-a7d5-4b0c-acc0-bce9b3c803a1",
+            "guid": "5b28d1f7-0cc7-4adf-9bfa-72783f6590ea",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -95582,7 +95582,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 0.0625
             },
-            "guid": "0fb460ec-6a41-429b-b998-178111b30b9b",
+            "guid": "c304e7d3-1557-4659-8352-fb67905632cc",
             "holder": {
                 "description": "BT30 - 0.5\" x 2\" Slitting Saw Holder",
                 "gaugeLength": 2.9614016,
@@ -95766,7 +95766,7 @@
                 "assemblyGaugeLength": 4.93778031496063,
                 "shoulder-length": 2.4016
             },
-            "guid": "e55cbced-35dc-4e28-9126-c37f25be7450",
+            "guid": "ad5ba579-7e7d-4867-90ee-f684d0d4471e",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -96058,7 +96058,7 @@
                 "assemblyGaugeLength": 5.35787401574803,
                 "shoulder-length": 1
             },
-            "guid": "0d73ceee-2523-46b7-890c-27900bb09fa5",
+            "guid": "2792b5db-8ed3-4f96-bad9-5570819d3c44",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -96272,7 +96272,7 @@
                 "shoulder-diameter": 0.2362204724409449,
                 "shoulder-length": 0.8
             },
-            "guid": "b81cb2f0-b2c8-4ffd-b2d3-63c5ffe15e10",
+            "guid": "00e9641d-587f-45a4-89c7-d3e3c75720aa",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -96456,7 +96456,7 @@
                 "assemblyGaugeLength": 4.8564016,
                 "shoulder-length": 1.252
             },
-            "guid": "281012f1-88ce-47f7-b350-bfdcdc36b23d",
+            "guid": "e6e121c2-49a1-4bdc-9bbe-c614a41043b5",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -96618,7 +96618,7 @@
                 "assemblyGaugeLength": 5.207874015748032,
                 "shoulder-length": 0.8661
             },
-            "guid": "81f522f2-c457-43e3-aa63-4b2d3cfd6472",
+            "guid": "574a01c8-26fa-4540-8b50-d2550270d7a8",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -96843,7 +96843,7 @@
                 "assemblyGaugeLength": 5.1714016,
                 "shoulder-length": 1
             },
-            "guid": "29bb81f2-08f0-45b5-bc0e-2dbebc1e6561",
+            "guid": "680fcf2d-853e-433c-9f8f-ca091a8c3479",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -96987,7 +96987,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "7e96a8f3-8fa9-4a8b-ae82-2dcc10d0ca9c",
+            "guid": "e66d56c9-5a2d-4d51-a579-0eaf29dcfd28",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -97057,7 +97057,7 @@
                 "assemblyGaugeLength": 6.8064016,
                 "shoulder-length": 3
             },
-            "guid": "9ba9f0f3-8677-47b1-aaac-33529ddaa5f1",
+            "guid": "d399fa04-8c04-4269-a372-fa9f47effdfa",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -97236,7 +97236,7 @@
                 "assemblyGaugeLength": 7.08011811023622,
                 "shoulder-length": 2.795
             },
-            "guid": "bd829ff4-31ed-43d7-81f8-711ad8db3448",
+            "guid": "bd1967d2-b240-4818-9c00-b4b81d0ded33",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -97504,7 +97504,7 @@
                 "shoulder-diameter": 0.125,
                 "shoulder-length": 0.4
             },
-            "guid": "41befbf4-176e-487f-8107-7e45eca51947",
+            "guid": "b61e8712-59ac-43e2-a02c-d94dce176f18",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -97822,7 +97822,7 @@
                 "shoulder-length": 0.67,
                 "tip-diameter": 0
             },
-            "guid": "d9db67f5-7901-4a3f-ad08-7c41a794d204",
+            "guid": "fc68aeca-af58-4e06-b35e-e3904ab31ea3",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -97978,7 +97978,7 @@
             },
             "product-id": "6464006",
             "product-link": "",
-            "reference_guid": "d9db67f5-7901-4a3f-ad08-7c41a794d204",
+            "reference_guid": "fc68aeca-af58-4e06-b35e-e3904ab31ea3",
             "start-values": {
                 "presets": [
                     {
@@ -98053,7 +98053,7 @@
                 "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height + segment_5_height + segment_6_height + segment_7_height + segment_8_height + segment_9_height + segment_10_height"
             },
             "gaugeLength": 1.9664016,
-            "guid": "49fda3f5-a7f3-4776-b9e7-e10969d12153",
+            "guid": "4e6e6895-ee8a-496b-bc17-f7a8bfdfe918",
             "product-id": "39671",
             "product-link": "https://tormach.com/bt30-tool-holder-end-mill-3-8-in-50mm.html",
             "segments": [
@@ -98127,7 +98127,7 @@
                 "assemblyGaugeLength": 4.9164016,
                 "shoulder-length": 1.8503937007874016
             },
-            "guid": "6ac0edf5-7035-47d9-b29f-1a0c2e464373",
+            "guid": "e085d493-2474-4bd6-a94d-31e96e2bf97a",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -98262,7 +98262,7 @@
                 "assemblyGaugeLength": 6.70511811023622,
                 "shoulder-length": 2.4015748031496065
             },
-            "guid": "6092faf5-acbd-4b4a-8e35-7bbe9670619b",
+            "guid": "bedb90e5-d5ca-4112-9ab6-0bce22e0dd17",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -98527,7 +98527,7 @@
                 "assemblyGaugeLength": 5.3164016,
                 "shoulder-length": 2.795
             },
-            "guid": "317c75f6-c522-44f0-8f90-5589ee79ea9b",
+            "guid": "73aaaed4-6d27-4a43-a9ae-3cdecef4cf9a",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -98685,7 +98685,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.125
             },
-            "guid": "cbcf76f6-67c8-4dd8-a111-1dda91b78287",
+            "guid": "69738703-e5d4-4e4d-bb85-e0ffecebb2d7",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -99201,7 +99201,7 @@
                 "assemblyGaugeLength": 6.157874015748032,
                 "shoulder-length": 2
             },
-            "guid": "fdc59df6-009f-46e7-9d9e-dca7b0acfb83",
+            "guid": "6fbc02ee-6499-48d0-abc1-ecde48a49327",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -99439,7 +99439,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 1.16
             },
-            "guid": "9c22adf6-3b3b-47a1-87b6-f945c4831005",
+            "guid": "0491fb5c-877b-4a0b-b109-d438bb9719fe",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -99679,7 +99679,7 @@
                 "assemblyGaugeLength": 7.957874015748032,
                 "shoulder-length": 1.55
             },
-            "guid": "37c333f7-1ea1-48c0-a565-c8dbe1a8b95e",
+            "guid": "eea9d7ed-bfe1-4ac8-98a5-abca8e4d50ef",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -99876,7 +99876,7 @@
                 "shoulder-diameter": 0.2505743,
                 "shoulder-length": 0.186
             },
-            "guid": "253574f7-bf7a-4b3d-81f8-82c91907cd97",
+            "guid": "d8a4752e-b656-4663-a703-20429a1c084d",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -100147,7 +100147,7 @@
                 "assemblyGaugeLength": 4.9164016,
                 "shoulder-length": 2.3
             },
-            "guid": "b373a0f7-50de-4bda-a2bc-81af2175a1cc",
+            "guid": "b130af47-a503-46fc-b033-e97ce0ae923d",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -100307,7 +100307,7 @@
                 "tip-length": 0,
                 "tip-offset": 0
             },
-            "guid": "6dabdaf7-2ef4-4668-acf1-5fc1b239e7b1",
+            "guid": "3ca5ba73-56d1-45a5-955d-d26f2a5eb18f",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164,
@@ -100486,7 +100486,7 @@
                 "shoulder-length": 0.3,
                 "tip-length": 0.01
             },
-            "guid": "b6ecdef7-ccd9-4928-a1aa-8ec302803b93",
+            "guid": "40f6eb88-3da8-4505-9f91-55f8ca5f1a48",
             "holder": {
                 "description": "BT30 - ER32 Collet, 60mm",
                 "gaugeLength": 2.4214016,
@@ -100624,7 +100624,7 @@
                 "shoulder-length": 0.875,
                 "tip-diameter": 0
             },
-            "guid": "e76930f8-d352-4899-9377-784641f77922",
+            "guid": "01b665aa-a710-4380-9bd6-1e7b70b12def",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -100833,7 +100833,7 @@
                 "assemblyGaugeLength": 6.2078740157480325,
                 "shoulder-length": 2.086
             },
-            "guid": "6b4d3cf8-ef5e-4d2e-93f9-53e50caa71ef",
+            "guid": "12fdda6c-cef9-41a7-b289-6ca22b279dec",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -101077,7 +101077,7 @@
                 "assemblyGaugeLength": 4.9578740157480325,
                 "shoulder-length": 0.6693
             },
-            "guid": "3f3deff8-6f28-4415-8c5a-d8459143f814",
+            "guid": "09e7435e-8962-43ee-bf1e-592ee0efda7f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -101359,7 +101359,7 @@
                 "assemblyGaugeLength": 5.9464016,
                 "shoulder-length": 2
             },
-            "guid": "f3920ff9-9a3c-480f-999a-c0de57a88ba0",
+            "guid": "04eaafe4-cbe2-4be8-8371-cd061b65913b",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -101500,7 +101500,7 @@
                 "assemblyGaugeLength": 5.75511811023622,
                 "shoulder-length": 1.338
             },
-            "guid": "8d0140f9-f3f7-4d11-8270-cdb456ae65b7",
+            "guid": "17923950-0899-4b57-ae29-c46efb40fe6a",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -101757,7 +101757,7 @@
                 "shoulder-diameter": 0.375,
                 "shoulder-length": 2.25
             },
-            "guid": "a7314df9-0e71-476b-bb32-db238a673a7c",
+            "guid": "db8f20ec-2291-4f05-835b-abaef6fea6de",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -102141,7 +102141,7 @@
                 "assemblyGaugeLength": 5.3064016,
                 "shoulder-length": 0.8125
             },
-            "guid": "019c14fa-8665-4e2c-a370-84c421fc9e60",
+            "guid": "568b7aab-cf86-49ca-8928-91fcd626b41b",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -102264,7 +102264,7 @@
                 "assemblyGaugeLength": 3.9064016,
                 "shoulder-length": 0.3543
             },
-            "guid": "bd079dfa-0b6a-4b72-bb46-2d4877ac10aa",
+            "guid": "d591a617-5edf-4e20-a0c0-ea1d1d72f473",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -102434,7 +102434,7 @@
                 "shoulder-diameter": 0.5,
                 "shoulder-length": 1.4
             },
-            "guid": "8428abfa-8177-4fa5-b08a-5891cd33ddfe",
+            "guid": "2cea51d7-3fd5-4a8c-8479-52175836b75c",
             "holder": {
                 "description": "CAT40 ER25 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -102643,7 +102643,7 @@
                 "assemblyGaugeLength": 6.8064016,
                 "shoulder-length": 2.75
             },
-            "guid": "8071fdfa-f78e-48ed-92cd-8b654a66f32e",
+            "guid": "98b57034-1834-407d-b070-890205bf9f0b",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -102787,7 +102787,7 @@
                 "shoulder-diameter": 0.25,
                 "shoulder-length": 0.75
             },
-            "guid": "222d56fb-7e59-467f-88bb-51bc6d506b1d",
+            "guid": "0248e9a2-e3a7-4829-af45-746d3387417f",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 4\" GAGE LENGTH",
                 "expressions": {
@@ -102991,7 +102991,7 @@
                 "assemblyGaugeLength": 5.865456718110237,
                 "shoulder-length": 2.362204724409449
             },
-            "guid": "066a7afb-6703-4c8e-89a5-0a4b59596b01",
+            "guid": "5752b59d-ea5c-4366-8e4f-74885cfbeb05",
             "holder": {
                 "description": "BT30 - Drill Chuck 8mm, 80mm",
                 "gaugeLength": 3.3064016,
@@ -103131,7 +103131,7 @@
                 "shoulder-diameter": 0.047,
                 "shoulder-length": 0.1017
             },
-            "guid": "c69234fc-aa19-4ac4-b3f2-0a882908f582",
+            "guid": "b1b84d86-8d8f-4ae8-9b85-9104af157cda",
             "holder": {
                 "description": "CAT40 ER16 COLLET CHUCK X 2-1/2\" GAGE LENGTH",
                 "expressions": {
@@ -103343,7 +103343,7 @@
                 "assemblyGaugeLength": 4.4164016,
                 "shoulder-length": 1.535433070866142
             },
-            "guid": "de9b9cfc-804b-4456-a386-d340aed3daec",
+            "guid": "4d772f70-8d30-4e0a-9f35-1ac4bba6a57f",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -103460,7 +103460,7 @@
                 "assemblyGaugeLength": 4.4164016,
                 "shoulder-length": 1.9
             },
-            "guid": "6c3e53fd-d11b-4c56-beaf-0441fc57ed54",
+            "guid": "515d10aa-2c87-4c09-9cbd-c0ba79b7cef6",
             "holder": {
                 "description": "BT30 - ER20 Collet, 60mm",
                 "gaugeLength": 2.4164016,
@@ -103580,7 +103580,7 @@
                 "shoulder-length": 0.75,
                 "upper-radius": 0.1
             },
-            "guid": "fcff83fe-8a20-4a3b-af22-6a1ba71fc9b8",
+            "guid": "df8bcc94-9afb-4aa9-86f9-d71b80923319",
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -103633,7 +103633,7 @@
                 "SFDM": 4.5,
                 "assemblyGaugeLength": 138.5346
             },
-            "guid": "e70c84ff-d337-4806-a6a4-340a14834c84",
+            "guid": "170153c1-3674-4432-bbf4-c291759243f9",
             "holder": {
                 "description": "",
                 "gaugeLength": 85.53460000000003,

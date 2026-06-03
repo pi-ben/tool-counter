@@ -518,7 +518,7 @@
                 "presets": [
                     {
                         "description": "",
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00061,
                         "guid": "059101ED-8B3E-43EC-BA5D-6D442492FDC7",
                         "material": {
@@ -545,7 +545,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00049,
                         "guid": "e0a9007c-2170-4aef-92b8-e447aaa5d3d3",
                         "material": {
@@ -572,7 +572,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 9e-04,
+                        "f_n": 0.0009,
                         "f_z": 0.00093,
                         "guid": "9703261c-f4c6-422b-ac91-2d0eb851d3bd",
                         "material": {
@@ -599,7 +599,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00017,
                         "guid": "528f8fc4-4961-455c-91b1-bd62daac6dec",
                         "material": {
@@ -626,7 +626,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00015,
                         "guid": "7f97f958-3232-4ca6-93e9-40ea39785bd8",
                         "material": {
@@ -653,7 +653,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00027,
                         "guid": "eb9408b1-341a-4d64-b56e-06fa767e98f8",
                         "material": {
@@ -680,7 +680,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00017,
                         "guid": "ad5ee20f-0a1a-4521-8eb1-501dc75dfc00",
                         "material": {
@@ -707,7 +707,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00015,
                         "guid": "2bdfcb92-1109-4386-bb86-fcf32c0d0079",
                         "material": {
@@ -734,7 +734,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00027,
                         "guid": "988af64c-1207-4362-9ab9-dad8e74aeebf",
                         "material": {
@@ -1162,7 +1162,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0027,
                         "guid": "e70ca68b-4306-68a8-01a8-538706ea5695",
                         "material": {
@@ -1201,7 +1201,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0037,
                         "guid": "7d875119-6494-4b8f-a4f5-8e9ed9eced45",
                         "material": {
@@ -1240,7 +1240,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.002,
                         "guid": "f3db779f-2ceb-4967-aeb4-9cafb1b7904c",
                         "material": {
@@ -1279,7 +1279,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0027,
                         "guid": "7cd155dc-f859-4706-8bf3-6bf6dd074ce5",
                         "material": {
@@ -1313,7 +1313,7 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": "0.375\" SOLID CARBIDE DRILL",
+            "description": "0.375\" SOLID CARBIDE DRILL - Previously T114",
             "geometry": {
                 "CSP": false,
                 "DC": 0.375,
@@ -1393,11 +1393,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 114,
-                "length-offset": 114,
+                "diameter-offset": 320,
+                "length-offset": 320,
                 "live": true,
                 "manual-tool-change": false,
-                "number": 114,
+                "number": 320,
                 "turret": 0
             },
             "product-id": "4150274",
@@ -1689,7 +1689,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0036,
                         "guid": "e70ca68b-4306-68a8-01a8-538706ea5695",
                         "material": {
@@ -1728,7 +1728,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0045,
                         "guid": "58294936-0837-43bf-b7dc-3a16c165cb68",
                         "material": {
@@ -2623,7 +2623,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.002181661564992912,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "1cbfc994-3cb1-42a9-b89f-baecfdbefe67",
                         "material": {
                             "category": "all",
@@ -2725,7 +2725,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.003878509448876288,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "3db3dff0-5d4f-4a31-81aa-2deb4e818f20",
                         "material": {
                             "category": "all",
@@ -3405,10 +3405,10 @@
         },
         {
             "BMC": "hss",
-            "description": "3mm Drill",
+            "description": "3mm Drill - Previously T134",
             "expressions": {
                 "tool_bodyLength": "32mm",
-                "tool_description": "'3mm Drill'",
+                "tool_description": "'3mm Drill - Previously T134'",
                 "tool_diameter": "3mm",
                 "tool_fluteLength": "\t23 mm",
                 "tool_live": "false",
@@ -3569,11 +3569,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 134,
-                "length-offset": 134,
+                "diameter-offset": 321,
+                "length-offset": 321,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 134,
+                "number": 321,
                 "turret": 0
             },
             "product-id": "4149125",
@@ -4599,7 +4599,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00013,
                         "guid": "b1f88cd6-b904-48cc-b635-44b8eca00e14",
                         "material": {
@@ -4631,7 +4631,7 @@
                             "tool_feedPerTooth": "0.00016 in",
                             "tool_spindleSpeed": "12000 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00016,
                         "guid": "4a788874-30d5-4d00-bd1d-9516053a8df4",
                         "material": {
@@ -6846,7 +6846,7 @@
                             "tool_feedPerTooth": ".00077 in",
                             "tool_spindleSpeed": "10000 rpm"
                         },
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00077,
                         "guid": "84ce8379-9756-44d1-8ffb-29ba7ae0d4ef",
                         "material": {
@@ -6964,7 +6964,7 @@
         },
         {
             "BMC": "hss",
-            "description": "M16 x 2 Left-Hand Tap",
+            "description": "M16 x 2 Left-Hand Tap - Previously T77",
             "expressions": {
                 "tool_shoulderLength": "2.14 in"
             },
@@ -6984,11 +6984,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 77,
-                "length-offset": 77,
+                "diameter-offset": 344,
+                "length-offset": 344,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 77,
+                "number": 344,
                 "turret": 0
             },
             "product-id": "23064661",
@@ -8446,10 +8446,10 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "5xD TSC",
+            "description": "5xD TSC - Previously T117",
             "expressions": {
                 "tool_bodyLength": ".8 in",
-                "tool_description": "'5xD TSC'",
+                "tool_description": "'5xD TSC - Previously T117'",
                 "tool_diameter": "\t1.5 mm",
                 "tool_fluteLength": "\t9 mm",
                 "tool_number": "117",
@@ -8610,11 +8610,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 117,
-                "length-offset": 117,
+                "diameter-offset": 342,
+                "length-offset": 342,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 117,
+                "number": 342,
                 "turret": 0
             },
             "product-id": "4149143",
@@ -9118,10 +9118,10 @@
         },
         {
             "BMC": "carbide",
-            "description": ".2188\" (5.558 mm) 5xD Drill",
+            "description": ".2188\" (5.558 mm) 5xD Drill - Previously T105",
             "expressions": {
                 "tool_bodyLength": "1.9 in",
-                "tool_description": "'.2188\" (5.558 mm) 5xD Drill'",
+                "tool_description": "'.2188\" (5.558 mm) 5xD Drill - Previously T105'",
                 "tool_diameter": ".2188 in",
                 "tool_fluteLength": "35mm",
                 "tool_material": "'carbide'",
@@ -9281,11 +9281,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 105,
-                "length-offset": 105,
+                "diameter-offset": 334,
+                "length-offset": 334,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 105,
+                "number": 334,
                 "turret": 0
             },
             "product-id": "4149219",
@@ -10033,7 +10033,7 @@
         },
         {
             "BMC": "hss",
-            "description": "9MM 5XD Drill",
+            "description": "9MM 5XD Drill - Previously T153",
             "geometry": {
                 "CSP": false,
                 "DC": 0.3543,
@@ -10109,11 +10109,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 153,
-                "length-offset": 153,
+                "diameter-offset": 331,
+                "length-offset": 331,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 153,
+                "number": 331,
                 "turret": 0
             },
             "product-id": "4150724",
@@ -10507,7 +10507,7 @@
         },
         {
             "BMC": "hss",
-            "description": "1/4\" 60DEG Dove Tail",
+            "description": "1/4\" 60DEG Dove Tail - Previously T149",
             "geometry": {
                 "CSP": false,
                 "DC": 0.25,
@@ -10527,11 +10527,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 149,
-                "length-offset": 149,
+                "diameter-offset": 345,
+                "length-offset": 345,
                 "live": true,
                 "manual-tool-change": false,
-                "number": 149,
+                "number": 345,
                 "turret": 0
             },
             "product-id": "03-1090",
@@ -10540,7 +10540,7 @@
                 "presets": [
                     {
                         "f_n": 0.002181661564992912,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "522e3a19-2583-4022-9f19-c6adeb5c7114",
                         "material": {
                             "category": "all",
@@ -10568,7 +10568,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 0.0011111111111111111,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "e94a11dd-1ab8-4f7d-a571-bb79d228d1a5",
                         "material": {
                             "category": "all",
@@ -11638,7 +11638,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00099,
                         "guid": "B04BE71B-D4B8-4089-B4B8-738C4EEA2070",
                         "material": {
@@ -11675,7 +11675,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0012,
                         "guid": "463c6d16-4df5-4eb5-baac-98b680f9b3ee",
                         "material": {
@@ -11712,7 +11712,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00144,
                         "guid": "5625f67e-e97e-4e77-bc2e-53188620db4f",
                         "material": {
@@ -11749,7 +11749,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0012,
                         "guid": "dd90d595-cc86-4f3e-ae5e-9f6c8131d66e",
                         "material": {
@@ -11786,7 +11786,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0005563236990731923,
                         "guid": "2d53da84-921a-4f55-8dbd-670870ad4ccb",
                         "material": {
@@ -12177,7 +12177,7 @@
                 "presets": [
                     {
                         "f_n": 0.00272707695624114,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "522e3a19-2583-4022-9f19-c6adeb5c7114",
                         "material": {
                             "category": "all",
@@ -12205,7 +12205,7 @@
                             "tool_surfaceSpeed": "350 fpm"
                         },
                         "f_n": 0.003116659378561303,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "3fd53233-eb3e-4232-bb83-d62aafc5aad6",
                         "material": {
                             "category": "all",
@@ -12233,7 +12233,7 @@
                             "tool_surfaceSpeed": "800 fpm"
                         },
                         "f_n": 0.00136353847812057,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "b2464774-2cd6-483d-bf3e-8e13d4043bff",
                         "material": {
                             "category": "all",
@@ -14889,8 +14889,8 @@
             "start-values": {
                 "presets": [
                     {
-                        "f_n": 5e-04,
-                        "f_z": 6e-04,
+                        "f_n": 0.0005,
+                        "f_z": 0.0006,
                         "guid": "78f68460-fb6b-4227-9e6f-ce17e8c89dcc",
                         "material": {
                             "category": "all",
@@ -14915,8 +14915,8 @@
                         "v_f_transition": 18
                     },
                     {
-                        "f_n": 5e-04,
-                        "f_z": 6e-04,
+                        "f_n": 0.0005,
+                        "f_z": 0.0006,
                         "guid": "cbf00af1-9122-4fa1-ad49-a6ffda5c779d",
                         "material": {
                             "category": "all",
@@ -14941,7 +14941,7 @@
                         "v_f_transition": 18
                     },
                     {
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00045,
                         "guid": "c00c8020-075c-463d-9d95-b82be3c6b62f",
                         "material": {
@@ -14967,7 +14967,7 @@
                         "v_f_transition": 13.5
                     },
                     {
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00045,
                         "guid": "0a0242c0-00ff-4759-9f15-168dd16d4e96",
                         "material": {
@@ -14994,7 +14994,7 @@
                     },
                     {
                         "f_n": 0.00038,
-                        "f_z": 4e-04,
+                        "f_z": 0.0004,
                         "guid": "f72020f5-a063-4c92-ad84-3fefe2c08dd7",
                         "material": {
                             "category": "all",
@@ -15020,7 +15020,7 @@
                     },
                     {
                         "f_n": 0.00038,
-                        "f_z": 4e-04,
+                        "f_z": 0.0004,
                         "guid": "b1bea4a9-969f-47b2-a15e-7cc511687b23",
                         "material": {
                             "category": "all",
@@ -15273,7 +15273,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "5972A981-3D70-4E77-8433-20E1614396C3",
                         "material": {
                             "category": "all",
@@ -15302,7 +15302,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.00015707963267948963,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "77e1c7b5-9c89-432c-9fe4-b7709d80e62a",
                         "material": {
                             "category": "all",
@@ -16778,7 +16778,7 @@
                             "tool_presetMaterialQuery": "'Al'",
                             "tool_spindleSpeed": "10000 rpm"
                         },
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00102,
                         "guid": "A0F72C75-C1D5-4796-961C-8011A2A19534",
                         "material": {
@@ -16812,7 +16812,7 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "false"
                         },
-                        "f_n": 3e-04,
+                        "f_n": 0.0003,
                         "f_z": 0.00051,
                         "guid": "e93cf0b3-63d3-4881-9173-a0429ca060fe",
                         "material": {
@@ -16843,7 +16843,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.00024543692606170255,
-                        "f_z": 4e-04,
+                        "f_z": 0.0004,
                         "guid": "7cbd4060-003f-47d2-8a6f-68b1fa4a5170",
                         "material": {
                             "category": "all",
@@ -18443,7 +18443,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 0.00041666666666666664,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "e6509e45-4584-01d4-4d3b-6d8cb57c55af",
                         "material": {
                             "category": "metal",
@@ -18477,7 +18477,7 @@
                             "tool_stepover": ".0325 in"
                         },
                         "f_n": 0.00125,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "62fbf50b-ba1b-418e-9a95-22e4b2b3556a",
                         "material": {
                             "category": "metal",
@@ -18512,7 +18512,7 @@
                             "tool_stepover": ".125 in"
                         },
                         "f_n": 0.00125,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "77413adf-0a5d-46dc-ad20-f71dc608206c",
                         "material": {
                             "category": "metal",
@@ -18650,7 +18650,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 0.00125,
-                        "f_z": 4e-04,
+                        "f_z": 0.0004,
                         "guid": "228d5ec6-66bc-472e-8cdd-9edb63b93e09",
                         "material": {
                             "category": "metal",
@@ -18852,7 +18852,7 @@
                             "tool_stepover": ".0625 in"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "5501746e-af01-47ad-ae77-d4460bcb92aa",
                         "material": {
                             "category": "all",
@@ -18883,7 +18883,7 @@
                             "tool_stepdown": "(.125*.8) in"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "f53d681b-c93c-4876-b88d-b72c4019d904",
                         "material": {
                             "category": "all",
@@ -19377,7 +19377,7 @@
                             "tool_surfaceSpeed": "233 fpm"
                         },
                         "f_n": 0.00276476998706479,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "3353dcf1-49ac-41a0-800d-a5e2a7f4d613",
                         "material": {
                             "category": "all",
@@ -19479,7 +19479,7 @@
                             "tool_surfaceSpeed": "394 fpm"
                         },
                         "f_n": 0.0016350035710307005,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "16887f09-36dd-46b4-b9e2-bc6b4feda5af",
                         "material": {
                             "category": "all",
@@ -19513,7 +19513,7 @@
                             "tool_surfaceSpeed": "341 fpm"
                         },
                         "f_n": 0.001889124360663038,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "f47b226a-11b7-4655-847f-f7c464d17b67",
                         "material": {
                             "category": "all",
@@ -19547,7 +19547,7 @@
                             "tool_stepover": ".015 in"
                         },
                         "f_n": 0.0010936132983377078,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "3771def6-6d40-4c60-9742-52c01951d971",
                         "material": {
                             "category": "all",
@@ -19762,10 +19762,10 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": "[N] [M] [P] [S][TSC]",
+            "description": "[N] [M] [P] [S][TSC] - Previously T12",
             "expressions": {
                 "tool_bodyLength": "(3.5827-1.4173) in",
-                "tool_description": "'[N] [M] [P] [S][TSC]'",
+                "tool_description": "'[N] [M] [P] [S][TSC] - Previously T12'",
                 "tool_fluteLength": "1.6929 in",
                 "tool_live": "false",
                 "tool_overallLength": "3.5827 in",
@@ -19924,11 +19924,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 12,
-                "length-offset": 12,
+                "diameter-offset": 317,
+                "length-offset": 317,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 12,
+                "number": 317,
                 "turret": 0
             },
             "product-id": "4149230",
@@ -20717,7 +20717,7 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0013,
                         "guid": "6b1bc5cb-9057-404c-8633-fda063c876bc",
                         "material": {
@@ -20752,7 +20752,7 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0023,
                         "guid": "ba7d9e4b-618d-4579-a4e6-bacb5091b876",
                         "material": {
@@ -20788,8 +20788,8 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
-                        "f_z": 9e-04,
+                        "f_n": 0.0005,
+                        "f_z": 0.0009,
                         "guid": "e384af89-fb53-4482-a7cc-dcafa545e45d",
                         "material": {
                             "category": "all",
@@ -21683,7 +21683,7 @@
                             "tool_surfaceSpeed": "400 fpm"
                         },
                         "f_n": 0.002181661564992912,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "1b453d2e-a34e-4585-8e71-4d6e00ab0836",
                         "material": {
                             "category": "all",
@@ -21711,7 +21711,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.004363323129985824,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "ed23520d-9aa5-4ec4-9b4e-7458c8b4192c",
                         "material": {
                             "category": "all",
@@ -21739,7 +21739,7 @@
                             "tool_surfaceSpeed": "600 fpm"
                         },
                         "f_n": 0.001454441043328608,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "aef4314c-e5be-4c5d-902f-f9a0c62d04cd",
                         "material": {
                             "category": "all",
@@ -22648,8 +22648,8 @@
                             "tool_feedPerTooth": ".0007 in",
                             "tool_surfaceSpeed": "200 fpm"
                         },
-                        "f_n": 7e-04,
-                        "f_z": 7e-04,
+                        "f_n": 0.0007,
+                        "f_z": 0.0007,
                         "guid": "020ff95e-d72c-47c4-9225-256d544eb33e",
                         "material": {
                             "category": "all",
@@ -24006,10 +24006,10 @@
         },
         {
             "BMC": "hss",
-            "description": ".1496",
+            "description": ".1496 - Previously T131",
             "expressions": {
                 "tool_bodyLength": "1.4 in",
-                "tool_description": "'.1496'",
+                "tool_description": "'.1496 - Previously T131'",
                 "tool_diameter": "\t3.8 mm",
                 "tool_fluteLength": "\t17 mm",
                 "tool_live": "false",
@@ -24171,11 +24171,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 131,
-                "length-offset": 131,
+                "diameter-offset": 336,
+                "length-offset": 336,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 131,
+                "number": 336,
                 "turret": 0
             },
             "product-id": "4151115",
@@ -24261,10 +24261,10 @@
         },
         {
             "BMC": "hss",
-            "description": ".627 Reemer",
+            "description": ".627 Reemer - Previously T115",
             "expressions": {
                 "tool_bodyLength": "6 in",
-                "tool_description": "'.627 Reemer'",
+                "tool_description": "'.627 Reemer - Previously T115'",
                 "tool_diameter": ".627 in",
                 "tool_fluteLength": "2.25 in",
                 "tool_live": "false",
@@ -24455,11 +24455,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 115,
-                "length-offset": 115,
+                "diameter-offset": 339,
+                "length-offset": 339,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 115,
+                "number": 339,
                 "turret": 0
             },
             "product-id": "TR94884",
@@ -26177,7 +26177,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.001246663751424521,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "861b0818-ad43-4e3c-b0be-05603ec7fda1",
                         "material": {
                             "category": "all",
@@ -26245,7 +26245,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0011111111111111111,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "ebfb99ba-4d44-4a6e-922a-7cd8674e3bd7",
                         "material": {
                             "category": "all",
@@ -26315,7 +26315,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0011111111111111111,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "a220203a-fbfa-4ea8-91c9-c2c4c969bd33",
                         "material": {
                             "category": "all",
@@ -26385,7 +26385,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0011111111111111111,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "b132b792-d201-4b55-b4d6-265f33b80456",
                         "material": {
                             "category": "all",
@@ -26453,7 +26453,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0011188008025604676,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "f6b3a0e9-18aa-4d67-ad0c-42884d354642",
                         "material": {
                             "category": "all",
@@ -26614,7 +26614,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.00727220521664304,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "7e0173dc-c358-4dac-b2a4-5691121b44dc",
                         "material": {
                             "category": "all",
@@ -27864,7 +27864,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 3e-04,
+                        "f_z": 0.0003,
                         "guid": "f6c4c13e-32f4-479f-a50e-4d35a4aa5dcc",
                         "material": {
                             "category": "all",
@@ -29324,8 +29324,8 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 3e-04,
-                        "f_z": 3e-04,
+                        "f_n": 0.0003,
+                        "f_z": 0.0003,
                         "guid": "36d68634-13b1-4b47-96e4-ad9195a64a9e",
                         "material": {
                             "category": "metal",
@@ -29364,7 +29364,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 3e-04,
+                        "f_n": 0.0003,
                         "f_z": 0.0016,
                         "guid": "a027e273-d8fa-437f-bbee-34c049d627a9",
                         "material": {
@@ -29404,7 +29404,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 3e-04,
+                        "f_n": 0.0003,
                         "f_z": 0.0013,
                         "guid": "2c84d24b-1fee-4964-996a-db11a8016057",
                         "material": {
@@ -29444,7 +29444,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 3e-04,
+                        "f_n": 0.0003,
                         "f_z": 0.001,
                         "guid": "c4c33057-6c69-40a8-9693-884457b0ceb8",
                         "material": {
@@ -30107,7 +30107,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.003333333333333333,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "8ebf2614-8c6f-454a-84ea-2f6cdae0692a",
                         "material": {
                             "category": "all",
@@ -30142,7 +30142,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.003333333333333333,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "f72e235c-157d-464e-893e-92eb4991eabb",
                         "material": {
                             "category": "all",
@@ -31503,7 +31503,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0003333333333333333,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "78f68460-fb6b-4227-9e6f-ce17e8c89dcc",
                         "material": {
                             "category": "all",
@@ -31536,8 +31536,8 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 4e-04,
-                        "f_z": 3e-04,
+                        "f_n": 0.0004,
+                        "f_z": 0.0003,
                         "guid": "9da2120d-92e1-42f9-9ee6-d27bd2bcb9f8",
                         "material": {
                             "category": "all",
@@ -31569,10 +31569,10 @@
         },
         {
             "BMC": "hss",
-            "description": ".3819 Drill Bit",
+            "description": ".3819 Drill Bit - Previously T113",
             "expressions": {
                 "tool_bodyLength": "2.9 in",
-                "tool_description": "'.3819 Drill Bit'",
+                "tool_description": "'.3819 Drill Bit - Previously T113'",
                 "tool_diameter": ".3819 in",
                 "tool_fluteLength": "\t49 mm",
                 "tool_live": "false",
@@ -31744,11 +31744,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 113,
-                "length-offset": 113,
+                "diameter-offset": 333,
+                "length-offset": 333,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 113,
+                "number": 333,
                 "turret": 0
             },
             "product-id": "4149276",
@@ -32926,7 +32926,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0013333333333333333,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "3aad3f44-6825-4f55-a93b-6d425e37e270",
                         "material": {
                             "category": "all",
@@ -33028,7 +33028,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0013089969389957468,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "f5acc04a-21b2-477d-833a-21f5293576b9",
                         "material": {
                             "category": "all",
@@ -34202,8 +34202,8 @@
                             "tool_feedRamp": "3 inpm",
                             "tool_surfaceSpeed": "150 fpm"
                         },
-                        "f_n": 2e-04,
-                        "f_z": 2e-04,
+                        "f_n": 0.0002,
+                        "f_z": 0.0002,
                         "guid": "f9906842-750d-4954-98d5-849ad16ea9a2",
                         "material": {
                             "category": "all",
@@ -34237,7 +34237,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 2e-04,
+                        "f_n": 0.0002,
                         "f_z": 0.00028,
                         "guid": "706c782e-7242-4dc2-aaa4-847e220a45a8",
                         "material": {
@@ -34270,7 +34270,7 @@
                             "tool_feedRamp": "3 inpm",
                             "tool_spindleSpeed": "12000 rpm"
                         },
-                        "f_n": 2e-04,
+                        "f_n": 0.0002,
                         "f_z": 0.00043,
                         "guid": "c157ec0b-4f07-4ab8-8a8e-b766390efcb1",
                         "material": {
@@ -35195,10 +35195,10 @@
         {
             "BMC": "ti coated",
             "GRADE": "generic",
-            "description": "0.2813\" Drill 7.145mm",
+            "description": "0.2813\" Drill 7.145mm - Previously T116",
             "expressions": {
                 "tool_bodyLength": "2.3 in",
-                "tool_description": "'0.2813\" Drill 7.145mm'",
+                "tool_description": "'0.2813\" Drill 7.145mm - Previously T116'",
                 "tool_diameter": ".2813 in",
                 "tool_fluteLength": "1.692 in",
                 "tool_material": "'ti coated'",
@@ -35359,11 +35359,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 116,
-                "length-offset": 116,
+                "diameter-offset": 341,
+                "length-offset": 341,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 116,
+                "number": 341,
                 "turret": 0
             },
             "product-id": "4150700",
@@ -35577,7 +35577,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 9e-04,
+                        "f_n": 0.0009,
                         "f_z": 0.00096,
                         "guid": "92aeadbf-fbf5-4660-9e29-59083201405d",
                         "material": {
@@ -35603,7 +35603,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 8e-04,
+                        "f_n": 0.0008,
                         "f_z": 0.00084,
                         "guid": "f8eeb2fe-d172-4f08-b6a2-b55d6127cb00",
                         "material": {
@@ -35629,8 +35629,8 @@
                     },
                     {
                         "description": "",
-                        "f_n": 2e-04,
-                        "f_z": 3e-04,
+                        "f_n": 0.0002,
+                        "f_z": 0.0003,
                         "guid": "12e09b34-af70-4871-9ec8-a02a58cae0a6",
                         "material": {
                             "category": "all",
@@ -35655,7 +35655,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 2e-04,
+                        "f_n": 0.0002,
                         "f_z": 0.00024,
                         "guid": "2ca4a58f-29d3-4f8d-93a5-25c7741cb2c9",
                         "material": {
@@ -36665,7 +36665,7 @@
                             "tool_feedPerTooth": ".0007 in"
                         },
                         "f_n": 0.004256900614620316,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "d872bde4-2282-49be-8950-cb78c5590b7a",
                         "material": {
                             "category": "all",
@@ -36688,7 +36688,7 @@
                         "v_f_transition": 8.7700739841358
                     },
                     {
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.0003999999999999999,
                         "guid": "7deaadbe-ee78-416b-9690-96ad42a9743e",
                         "material": {
@@ -37887,7 +37887,7 @@
                             "tool_spindleSpeed": "12000 rpm",
                             "use_tool_stepdown": "false"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.001,
                         "guid": "7a06fbb6-94d1-4897-a065-d3cf0fd1f2d8",
                         "material": {
@@ -38011,8 +38011,8 @@
                             "tool_feedRamp": "5 inpm",
                             "tool_surfaceSpeed": "250 fpm"
                         },
-                        "f_n": 4e-04,
-                        "f_z": 7e-04,
+                        "f_n": 0.0004,
+                        "f_z": 0.0007,
                         "guid": "e92a3b70-2e92-4091-85d4-15e3beb1f920",
                         "material": {
                             "category": "all",
@@ -38073,8 +38073,8 @@
                             "tool_feedRamp": "5 inpm",
                             "tool_surfaceSpeed": "260 fpm"
                         },
-                        "f_n": 4e-04,
-                        "f_z": 7e-04,
+                        "f_n": 0.0004,
+                        "f_z": 0.0007,
                         "guid": "599f52f6-4345-4ec0-9084-981331ad449c",
                         "material": {
                             "category": "all",
@@ -38197,7 +38197,7 @@
         },
         {
             "BMC": "hss",
-            "description": ".3978 Drill 10.1 mm",
+            "description": ".3978 Drill 10.1 mm - Previously T106",
             "geometry": {
                 "CSP": false,
                 "DC": 0.397637795275591,
@@ -38357,11 +38357,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 106,
-                "length-offset": 106,
+                "diameter-offset": 332,
+                "length-offset": 332,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 106,
+                "number": 332,
                 "turret": 0
             },
             "product-id": "B041A10100CPG",
@@ -39707,7 +39707,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 8e-04,
+                        "f_n": 0.0008,
                         "f_z": 0.0017,
                         "guid": "024f351c-45f2-908d-640d-4a9ae96673e0",
                         "material": {
@@ -41237,7 +41237,7 @@
         },
         {
             "BMC": "hss",
-            "description": "9MM 5XD Drill",
+            "description": "9MM 5XD Drill - Previously T153",
             "geometry": {
                 "CSP": false,
                 "DC": 0.3543,
@@ -41312,11 +41312,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 153,
-                "length-offset": 153,
+                "diameter-offset": 331,
+                "length-offset": 331,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 153,
+                "number": 331,
                 "turret": 0
             },
             "product-id": "4150724",
@@ -42430,7 +42430,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 8e-04,
+                        "f_n": 0.0008,
                         "f_z": 0.00135,
                         "guid": "a2d842e3-3a6b-4f89-9972-dd125d6199b9",
                         "material": {
@@ -42467,7 +42467,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 8e-04,
+                        "f_n": 0.0008,
                         "f_z": 0.00144,
                         "guid": "c6797044-a4dc-42c4-8042-a6ccfe8bc24f",
                         "material": {
@@ -43463,7 +43463,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.0031415926535897924,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "e7a48a32-9d89-4c61-ac15-10b1ba1170cc",
                         "material": {
                             "category": "all",
@@ -44334,7 +44334,7 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "2-56 FORM TAP RH",
+            "description": "2-56 FORM TAP RH - Previously T77",
             "geometry": {
                 "CSP": false,
                 "DC": 0.08795,
@@ -44413,11 +44413,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 77,
-                "length-offset": 77,
+                "diameter-offset": 344,
+                "length-offset": 344,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 77,
+                "number": 344,
                 "turret": 0
             },
             "product-id": "2864400",
@@ -44653,7 +44653,7 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "1\" x 82° 3FL COUNTERSINK",
+            "description": "1\" x 82° 3FL COUNTERSINK - Previously T111",
             "geometry": {
                 "CSP": false,
                 "DC": 1,
@@ -44734,11 +44734,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 111,
-                "length-offset": 111,
+                "diameter-offset": 325,
+                "length-offset": 325,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 111,
+                "number": 325,
                 "turret": 0
             },
             "product-id": "919-000-279",
@@ -51738,10 +51738,10 @@
         },
         {
             "BMC": "carbide",
-            "description": "15mmØ Carbide Drill 5XD",
+            "description": "15mmØ Carbide Drill 5XD - Previously T102",
             "expressions": {
                 "tool_bodyLength": "tool_shoulderLength + 0.125in",
-                "tool_description": "'15mmØ Carbide Drill 5XD'",
+                "tool_description": "'15mmØ Carbide Drill 5XD - Previously T102'",
                 "tool_diameter": "15mm",
                 "tool_fluteLength": "63mm",
                 "tool_live": "false",
@@ -51933,11 +51933,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 102,
-                "length-offset": 102,
+                "diameter-offset": 324,
+                "length-offset": 324,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 102,
+                "number": 324,
                 "turret": 0
             },
             "product-id": "03-1444",
@@ -52160,7 +52160,7 @@
                             "tool_feedPerTooth": ".0008 in"
                         },
                         "f_n": 0.00272707695624114,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "522e3a19-2583-4022-9f19-c6adeb5c7114",
                         "material": {
                             "category": "all",
@@ -52188,7 +52188,7 @@
                             "tool_surfaceSpeed": "350 fpm"
                         },
                         "f_n": 0.0037399912542735634,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "3fd53233-eb3e-4232-bb83-d62aafc5aad6",
                         "material": {
                             "category": "all",
@@ -52688,7 +52688,7 @@
                             "tool_stepdown": "0.0625 in*1.5"
                         },
                         "f_n": 0.0003333333333333333,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "4814ef17-f926-4ef5-ac66-4972420a0a19",
                         "material": {
                             "category": "all",
@@ -52783,7 +52783,7 @@
                             "tool_surfaceSpeed": "180 fpm"
                         },
                         "f_n": 0.000363610260832152,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "7f924a2e-c89b-4989-936b-48d2fafe8758",
                         "material": {
                             "category": "all",
@@ -52815,7 +52815,7 @@
                             "tool_surfaceSpeed": "180 fpm"
                         },
                         "f_n": 0.000363610260832152,
-                        "f_z": 4e-04,
+                        "f_z": 0.0004,
                         "guid": "e294d380-439c-47bc-943c-ca77e8d9572e",
                         "material": {
                             "category": "all",
@@ -52847,7 +52847,7 @@
                             "tool_surfaceSpeed": "180 fpm"
                         },
                         "f_n": 0.000363610260832152,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "a5e5f010-a52f-4146-91ed-cf51c7427f6d",
                         "material": {
                             "category": "all",
@@ -52996,7 +52996,7 @@
                             "tool_spindleSpeed": "10000 rpm"
                         },
                         "f_n": 0.0013333333333333333,
-                        "f_z": 4e-04,
+                        "f_z": 0.0004,
                         "guid": "c3f8a5f8-5a74-4bda-8cc6-b5cb77b9c782",
                         "material": {
                             "category": "all",
@@ -57425,7 +57425,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00028,
                         "guid": "197e23d0-5981-4938-bae0-b9201954d519",
                         "material": {
@@ -57461,7 +57461,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00024,
                         "guid": "672d084d-c367-48d4-9220-804b0c8dc5ca",
                         "material": {
@@ -57497,7 +57497,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00035,
                         "guid": "247c2017-1d6a-42cb-a4d6-3f15909af8d7",
                         "material": {
@@ -57533,8 +57533,8 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 1e-04,
-                        "f_z": 1e-04,
+                        "f_n": 0.0001,
+                        "f_z": 0.0001,
                         "guid": "9dbc5aa0-9594-4420-b3eb-567ec29e565b",
                         "material": {
                             "category": "all",
@@ -57569,8 +57569,8 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 1e-04,
-                        "f_z": 1e-04,
+                        "f_n": 0.0001,
+                        "f_z": 0.0001,
                         "guid": "331f5da3-9724-4704-b7cb-0745bdf24e87",
                         "material": {
                             "category": "all",
@@ -57605,8 +57605,8 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 1e-04,
-                        "f_z": 1e-04,
+                        "f_n": 0.0001,
+                        "f_z": 0.0001,
                         "guid": "39c534f2-1dd9-41d8-bd7b-d9ecaab6cd95",
                         "material": {
                             "category": "all",
@@ -57727,8 +57727,8 @@
             "start-values": {
                 "presets": [
                     {
-                        "f_n": 4e-04,
-                        "f_z": 4e-04,
+                        "f_n": 0.0004,
+                        "f_z": 0.0004,
                         "guid": "62688703-f499-43fb-be4d-a1fab728ebcf",
                         "material": {
                             "category": "all",
@@ -57752,7 +57752,7 @@
                     },
                     {
                         "f_n": 0.0007068583470577034,
-                        "f_z": 3e-04,
+                        "f_z": 0.0003,
                         "guid": "5fd265d9-85c2-41f0-a5e0-decd1b5f2ebe",
                         "material": {
                             "category": "all",
@@ -58896,10 +58896,10 @@
         },
         {
             "BMC": "hss",
-            "description": "5mm Drill",
+            "description": "5mm Drill - Previously T192",
             "expressions": {
                 "tool_bodyLength": "50mm",
-                "tool_description": "'5mm Drill'",
+                "tool_description": "'5mm Drill - Previously T192'",
                 "tool_diameter": "5mm",
                 "tool_fluteLength": "35mm",
                 "tool_overallLength": "82mm",
@@ -59059,11 +59059,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 192,
-                "length-offset": 192,
+                "diameter-offset": 318,
+                "length-offset": 318,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 192,
+                "number": 318,
                 "turret": 0
             },
             "product-id": "4149210",
@@ -59301,7 +59301,7 @@
         },
         {
             "BMC": "hss",
-            "description": "#43 Drill .089",
+            "description": "#43 Drill .089 - Previously T186",
             "geometry": {
                 "CSP": false,
                 "DC": 0.089,
@@ -59376,11 +59376,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 186,
-                "length-offset": 186,
+                "diameter-offset": 340,
+                "length-offset": 340,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 186,
+                "number": 340,
                 "turret": 0
             },
             "product-id": "63310239",
@@ -60654,7 +60654,7 @@
         {
             "BMC": "carbide",
             "GRADE": "Mill Generic",
-            "description": "HARVEY - 846916 - SQUARE END MILL - 0.2500 (1/4) DIA X 0.3750 (3/8) LOC X 2.2500 (2-1/4) REACH , 3 FLUTES",
+            "description": "HARVEY - 846916 - SQUARE END MILL - 0.2500 (1/4) DIA X 0.3750 (3/8) LOC X 2.2500 (2-1/4) REACH , 3 FLUTES - Previously T121",
             "expressions": {
                 "tool_bodyLength": "2.375 in",
                 "tool_live": "false"
@@ -60808,11 +60808,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 121,
-                "length-offset": 121,
+                "diameter-offset": 327,
+                "length-offset": 327,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 121,
+                "number": 327,
                 "turret": 0
             },
             "product-id": "846916",
@@ -61432,7 +61432,7 @@
                 "presets": [
                     {
                         "f_n": 0.002181661564993,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "522e3a19-2583-4022-9f19-c6adeb5c7114",
                         "material": {
                             "category": "all",
@@ -61456,7 +61456,7 @@
                     },
                     {
                         "f_n": 0.004363323129986,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "3fd53233-eb3e-4232-bb83-d62aafc5aad6",
                         "material": {
                             "category": "all",
@@ -61667,7 +61667,7 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": " 5/16\" DIA, 5XD, 8MM SHANK Drill",
+            "description": " 5/16\" DIA, 5XD, 8MM SHANK Drill - Previously T38",
             "geometry": {
                 "CSP": false,
                 "DC": 0.3125,
@@ -61817,11 +61817,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 38,
-                "length-offset": 38,
+                "diameter-offset": 338,
+                "length-offset": 338,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 38,
+                "number": 338,
                 "turret": 0
             },
             "product-id": "03-0018",
@@ -61882,7 +61882,7 @@
         {
             "BMC": "carbide",
             "GRADE": "Mill Generic",
-            "description": "0.375\" x 3.125\" END MILL, 3FL",
+            "description": "0.375\" x 3.125\" END MILL, 3FL - Previously T89",
             "expressions": {
                 "tool_manualToolChange": "false"
             },
@@ -62045,11 +62045,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "0",
-                "diameter-offset": 89,
-                "length-offset": 89,
+                "diameter-offset": 329,
+                "length-offset": 329,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 89,
+                "number": 329,
                 "turret": 0
             },
             "product-id": "04235",
@@ -63726,7 +63726,7 @@
         {
             "BMC": "carbide",
             "GRADE": "Mill Generic",
-            "description": "1/32\" x 5/64\" x 1-1/2\" 3FL END MILL",
+            "description": "1/32\" x 5/64\" x 1-1/2\" 3FL END MILL - Previously T92",
             "expressions": {
                 "tool_shoulderLength": "0.125 in"
             },
@@ -63804,11 +63804,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 92,
-                "length-offset": 92,
+                "diameter-offset": 319,
+                "length-offset": 319,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 92,
+                "number": 319,
                 "turret": 0
             },
             "product-id": "6143903",
@@ -63831,7 +63831,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 0.00016666666666666666,
-                        "f_z": 3e-04,
+                        "f_z": 0.0003,
                         "guid": "78f68460-fb6b-4227-9e6f-ce17e8c89dcc",
                         "material": {
                             "category": "all",
@@ -63891,7 +63891,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "c00c8020-075c-463d-9d95-b82be3c6b62f",
                         "material": {
                             "category": "all",
@@ -65048,7 +65048,7 @@
                 "presets": [
                     {
                         "f_n": 0.002853233907608121,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "2833260d-632b-4140-9331-4cc48b4f8569",
                         "material": {
                             "category": "all",
@@ -65072,7 +65072,7 @@
                     },
                     {
                         "f_n": 0.002853233907608121,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "40c60dc0-9069-4870-b794-146439e6aaad",
                         "material": {
                             "category": "all",
@@ -65096,7 +65096,7 @@
                     },
                     {
                         "f_n": 0.002853233907608121,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "941820c3-e931-415c-9524-a53ebb3a76bb",
                         "material": {
                             "category": "all",
@@ -65632,10 +65632,10 @@
         },
         {
             "BMC": "hss",
-            "description": "3/4\" Ø Carbide Straight Tooth Keyseat Cutter, 1/2\" Shank x 3/16\" Cut Width (Previously 209)",
+            "description": "3/4\" Ø Carbide Straight Tooth Keyseat Cutter, 1/2\" Shank x 3/16\" Cut Width (Previously 209) - Previously T107",
             "expressions": {
                 "tool_bodyLength": "1 in",
-                "tool_description": "'3/4\" Ø Carbide Straight Tooth Keyseat Cutter, 1/2\" Shank x 3/16\" Cut Width (Previously 209)'",
+                "tool_description": "'3/4\" Ø Carbide Straight Tooth Keyseat Cutter, 1/2\" Shank x 3/16\" Cut Width (Previously 209) - Previously T107'",
                 "tool_fluteLength": "(3/16) in",
                 "tool_live": "false",
                 "tool_number": "107",
@@ -65721,11 +65721,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 107,
-                "length-offset": 107,
+                "diameter-offset": 316,
+                "length-offset": 316,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 107,
+                "number": 316,
                 "turret": 0
             },
             "product-id": "03-2255",
@@ -65753,7 +65753,7 @@
                             "tool_surfaceSpeed": "100 fpm"
                         },
                         "f_n": 0.026179938779914935,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "487dab1e-a13f-4727-9a8d-6badc3f6df45",
                         "material": {
                             "category": "all",
@@ -66097,7 +66097,7 @@
                 "presets": [
                     {
                         "description": "",
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00046,
                         "guid": "AAE496EC-E5FC-4AC3-9A4E-A4FE6FD4EFF1",
                         "material": {
@@ -66151,7 +66151,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 8e-04,
+                        "f_n": 0.0008,
                         "f_z": 0.00087,
                         "guid": "2a99ceaa-fd5d-440a-b6a3-f26fe8f956a5",
                         "material": {
@@ -66848,7 +66848,7 @@
                             "tool_feedRamp": "4 inpm",
                             "tool_spindleSpeed": "4174 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00071,
                         "guid": "8fc607bd-fed9-46eb-bdce-9cfa59e4597f",
                         "material": {
@@ -67837,10 +67837,10 @@
         },
         {
             "BMC": "hss",
-            "description": ".5512\" TSC Drill with Replaceable Tip",
+            "description": ".5512\" TSC Drill with Replaceable Tip - Previously T191",
             "expressions": {
                 "tool_bodyLength": "\t3.818 in",
-                "tool_description": "'.5512\" TSC Drill with Replaceable Tip'",
+                "tool_description": "'.5512\" TSC Drill with Replaceable Tip - Previously T191'",
                 "tool_diameter": ".5512 in",
                 "tool_fluteLength": "\t2.874 in",
                 "tool_live": "false",
@@ -67981,11 +67981,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 191,
-                "length-offset": 191,
+                "diameter-offset": 315,
+                "length-offset": 315,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 191,
+                "number": 315,
                 "turret": 0
             },
             "product-id": "7005311",
@@ -68377,7 +68377,7 @@
         },
         {
             "BMC": "hss",
-            "description": "0.391 Drill 25/64",
+            "description": "0.391 Drill 25/64 - Previously T120",
             "geometry": {
                 "CSP": false,
                 "DC": 0.391,
@@ -68457,11 +68457,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 120,
-                "length-offset": 120,
+                "diameter-offset": 328,
+                "length-offset": 328,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 120,
+                "number": 328,
                 "turret": 0
             },
             "product-id": "03-0361",
@@ -70726,7 +70726,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.00125,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "e6509e45-4584-01d4-4d3b-6d8cb57c55af",
                         "material": {
                             "category": "all",
@@ -70976,7 +70976,7 @@
                             "tool_surfaceSpeed": "500 fpm"
                         },
                         "f_n": 0.0017178437519629226,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "0d10ae8e-f2d1-4eab-bfc2-d4c0ea1c4bff",
                         "material": {
                             "category": "all",
@@ -71096,7 +71096,7 @@
                             "tool_surfaceSpeed": "350 fpm"
                         },
                         "f_n": 0.002454062502804176,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "ea66e158-cd22-4f0d-b0f5-b26dd88d3535",
                         "material": {
                             "category": "all",
@@ -71761,7 +71761,7 @@
                             "tool_surfaceSpeed": "233 fpm"
                         },
                         "f_n": 0.00276476998706479,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "3353dcf1-49ac-41a0-800d-a5e2a7f4d613",
                         "material": {
                             "category": "all",
@@ -71863,7 +71863,7 @@
                             "tool_surfaceSpeed": "394 fpm"
                         },
                         "f_n": 0.0016350035710307005,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "16887f09-36dd-46b4-b9e2-bc6b4feda5af",
                         "material": {
                             "category": "all",
@@ -71897,7 +71897,7 @@
                             "tool_surfaceSpeed": "341 fpm"
                         },
                         "f_n": 0.001889124360663038,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "f47b226a-11b7-4655-847f-f7c464d17b67",
                         "material": {
                             "category": "all",
@@ -71931,7 +71931,7 @@
                             "tool_stepover": ".015 in"
                         },
                         "f_n": 0.0010936132983377078,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "3771def6-6d40-4c60-9742-52c01951d971",
                         "material": {
                             "category": "all",
@@ -71999,7 +71999,7 @@
                             "tool_surfaceSpeed": "290 fpm"
                         },
                         "f_n": 0.0022213496792624,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "703ebd76-df2f-4559-bf6b-2e5fe359c9f0",
                         "material": {
                             "category": "all",
@@ -72101,7 +72101,7 @@
                             "tool_surfaceSpeed": "300 fpm"
                         },
                         "f_n": 0.0021473046899536533,
-                        "f_z": 6e-04,
+                        "f_z": 0.0006,
                         "guid": "a7b154ca-4ee1-4dd6-ae94-3d4a1639c938",
                         "material": {
                             "category": "all",
@@ -72353,8 +72353,8 @@
             "start-values": {
                 "presets": [
                     {
-                        "f_n": 4e-04,
-                        "f_z": 4e-04,
+                        "f_n": 0.0004,
+                        "f_z": 0.0004,
                         "guid": "62688703-f499-43fb-be4d-a1fab728ebcf",
                         "material": {
                             "category": "all",
@@ -72378,7 +72378,7 @@
                     },
                     {
                         "f_n": 0.0007068583470577034,
-                        "f_z": 3e-04,
+                        "f_z": 0.0003,
                         "guid": "5fd265d9-85c2-41f0-a5e0-decd1b5f2ebe",
                         "material": {
                             "category": "all",
@@ -72780,7 +72780,7 @@
                             "tool_feedRamp": "6 inpm",
                             "tool_surfaceSpeed": "200 fpm"
                         },
-                        "f_n": 9e-04,
+                        "f_n": 0.0009,
                         "f_z": 0.00102,
                         "guid": "16169657-03af-4368-a152-a5517a4686be",
                         "material": {
@@ -73135,7 +73135,7 @@
             "start-values": {
                 "presets": [
                     {
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00015,
                         "guid": "7b38eba1-4058-4fb2-ae9b-bc17e4814ce2",
                         "material": {
@@ -74685,7 +74685,7 @@
                             "use_tool_stepover": "true"
                         },
                         "f_n": 0.0024698055452749943,
-                        "f_z": 9e-04,
+                        "f_z": 0.0009,
                         "guid": "e552c3dd-b56c-42ff-93de-af98799b0c45",
                         "material": {
                             "category": "all",
@@ -75040,10 +75040,10 @@
         },
         {
             "BMC": "hss",
-            "description": "5.6mm Drill",
+            "description": "5.6mm Drill - Previously T65",
             "expressions": {
                 "tool_bodyLength": "2 in",
-                "tool_description": "'5.6mm Drill'",
+                "tool_description": "'5.6mm Drill - Previously T65'",
                 "tool_diameter": "5.6mm",
                 "tool_fluteLength": "35mm",
                 "tool_overallLength": "82mm",
@@ -75204,11 +75204,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 65,
-                "length-offset": 65,
+                "diameter-offset": 330,
+                "length-offset": 330,
                 "live": true,
                 "manual-tool-change": false,
-                "number": 65,
+                "number": 330,
                 "turret": 0
             },
             "product-id": "4150677",
@@ -76272,7 +76272,7 @@
                             "tool_stepover": ".0125 in",
                             "tool_surfaceSpeed": "430 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0042,
                         "guid": "bf350d8f-10ce-4de7-8f55-09d358aa743e",
                         "material": {
@@ -76607,8 +76607,8 @@
                 "presets": [
                     {
                         "description": "",
-                        "f_n": 8e-04,
-                        "f_z": 6e-04,
+                        "f_n": 0.0008,
+                        "f_z": 0.0006,
                         "guid": "4b023def-6cd7-4ce4-aafb-e8d707c77605",
                         "material": {
                             "category": "all",
@@ -76632,7 +76632,7 @@
                     },
                     {
                         "description": "",
-                        "f_n": 8e-04,
+                        "f_n": 0.0008,
                         "f_z": 0.0012,
                         "guid": "ce3cba45-d662-46e1-a8ab-0e51116ee1de",
                         "material": {
@@ -77452,7 +77452,7 @@
         {
             "BMC": "carbide",
             "GRADE": "Mill Generic",
-            "description": "HARVEY - 43362 - FULL RADIUS STANDARD KEYSEAT CUTTER - 0.3750 (3/8) DIA X 0.0625 (1/16) RADIUS X 0.5630 NECK LENGTH , 6 FLUTES",
+            "description": "HARVEY - 43362 - FULL RADIUS STANDARD KEYSEAT CUTTER - 0.3750 (3/8) DIA X 0.0625 (1/16) RADIUS X 0.5630 NECK LENGTH , 6 FLUTES - Previously T51",
             "expressions": {
                 "tool_live": "false",
                 "tool_number": "51"
@@ -77602,11 +77602,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 51,
-                "length-offset": 51,
+                "diameter-offset": 326,
+                "length-offset": 326,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 51,
+                "number": 326,
                 "turret": 0
             },
             "product-id": "43362",
@@ -79730,7 +79730,7 @@
                             "tool_feedRamp": "4 inpm",
                             "tool_spindleSpeed": "4174 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00079,
                         "guid": "8fc607bd-fed9-46eb-bdce-9cfa59e4597f",
                         "material": {
@@ -80104,8 +80104,8 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "false"
                         },
-                        "f_n": 4e-04,
-                        "f_z": 7e-04,
+                        "f_n": 0.0004,
+                        "f_z": 0.0007,
                         "guid": "a9f16b5c-1a47-45e9-9f18-f8174b4486bc",
                         "material": {
                             "category": "all",
@@ -80139,7 +80139,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00024,
                         "guid": "965630b5-5ab9-4131-bae0-23ed927fb0b3",
                         "material": {
@@ -80176,7 +80176,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00031,
                         "guid": "4b70bb00-e76d-492e-84ab-8f69ed1e7a25",
                         "material": {
@@ -80211,7 +80211,7 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "false"
                         },
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00086,
                         "guid": "62ba0c87-1316-48c2-be15-71c625a3fe74",
                         "material": {
@@ -80244,7 +80244,7 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "false"
                         },
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 0.00015,
                         "guid": "f21ca9e2-f09d-4717-9bd2-8f63f86f736a",
                         "material": {
@@ -80277,7 +80277,7 @@
                             "use_tool_stepdown": "false",
                             "use_tool_stepover": "false"
                         },
-                        "f_n": 4e-04,
+                        "f_n": 0.0004,
                         "f_z": 6e-05,
                         "guid": "4317413d-0aba-4eb1-9494-26092ee754ca",
                         "material": {
@@ -80934,10 +80934,10 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": "0.4688 5xD Drill (Go Drill)",
+            "description": "0.4688 5xD Drill (Go Drill) - Previously T140",
             "expressions": {
                 "tool_bodyLength": "2.874 in",
-                "tool_description": "'0.4688 5xD Drill (Go Drill)'",
+                "tool_description": "'0.4688 5xD Drill (Go Drill) - Previously T140'",
                 "tool_diameter": ".4688 in",
                 "tool_fluteLength": "2.2047 in",
                 "tool_material": "'carbide'",
@@ -81109,11 +81109,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 140,
-                "length-offset": 140,
+                "diameter-offset": 322,
+                "length-offset": 322,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 140,
+                "number": 322,
                 "turret": 0
             },
             "product-id": "4149314",
@@ -81924,7 +81924,7 @@
             "start-values": {
                 "presets": [
                     {
-                        "f_n": 1e-04,
+                        "f_n": 0.0001,
                         "f_z": 0.00016,
                         "guid": "78f68460-fb6b-4227-9e6f-ce17e8c89dcc",
                         "material": {
@@ -82218,7 +82218,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 0.00016666666666666666,
-                        "f_z": 3e-04,
+                        "f_z": 0.0003,
                         "guid": "12e09b34-af70-4871-9ec8-a02a58cae0a6",
                         "material": {
                             "category": "all",
@@ -83164,10 +83164,10 @@
         },
         {
             "BMC": "hss",
-            "description": "[N] [M] [P] [S][TSC]",
+            "description": "[N] [M] [P] [S][TSC] - Previously T21",
             "expressions": {
                 "tool_bodyLength": "1.6 in",
-                "tool_description": "'[N] [M] [P] [S][TSC]'",
+                "tool_description": "'[N] [M] [P] [S][TSC] - Previously T21'",
                 "tool_diameter": "\t4.3 mm",
                 "tool_fluteLength": "\t29 mm",
                 "tool_live": "false",
@@ -83330,11 +83330,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 21,
-                "length-offset": 21,
+                "diameter-offset": 314,
+                "length-offset": 314,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 21,
+                "number": 314,
                 "turret": 0
             },
             "product-id": "4149199",
@@ -85249,7 +85249,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.00032724923474893676,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "9f1c2861-3a38-4613-bd56-c8bf1651624a",
                         "material": {
                             "category": "all",
@@ -85853,9 +85853,9 @@
         },
         {
             "BMC": "hss",
-            "description": ".3978 Drill 10.1 mm - Through Coolant",
+            "description": ".3978 Drill 10.1 mm - Through Coolant - Previously T106",
             "expressions": {
-                "tool_description": "'.3978 Drill 10.1 mm - Through Coolant'",
+                "tool_description": "'.3978 Drill 10.1 mm - Through Coolant - Previously T106'",
                 "tool_productId": "'4151203'",
                 "tool_productLink": "'https://www.kennametalnovo.com/app/en/search/kennametal/productdetail/4151203/full'"
             },
@@ -85938,11 +85938,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 106,
-                "length-offset": 106,
+                "diameter-offset": 332,
+                "length-offset": 332,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 106,
+                "number": 332,
                 "turret": 0
             },
             "product-id": "4151203",
@@ -87244,7 +87244,7 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": "0.4055 Solid Carbide Drill",
+            "description": "0.4055 Solid Carbide Drill - Previously T183",
             "geometry": {
                 "CSP": false,
                 "DC": 0.4055,
@@ -87319,11 +87319,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 183,
-                "length-offset": 183,
+                "diameter-offset": 323,
+                "length-offset": 323,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 183,
+                "number": 323,
                 "turret": 0
             },
             "product-id": "VDS401A10300",
@@ -87483,7 +87483,7 @@
         },
         {
             "BMC": "hss",
-            "description": "2mm Ball Mill",
+            "description": "2mm Ball Mill - Previously T146",
             "expressions": {
                 "tool_bodyLength": ".75 in",
                 "tool_number": "146"
@@ -87637,11 +87637,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 146,
-                "length-offset": 146,
+                "diameter-offset": 343,
+                "length-offset": 343,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 146,
+                "number": 343,
                 "turret": 0
             },
             "product-id": "",
@@ -87678,7 +87678,7 @@
                             "tool_spindleSpeed": "12000 rpm"
                         },
                         "f_n": 0.0004042535554534142,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "ac1efbe4-31fd-41af-a4e3-eb4915de8f05",
                         "material": {
                             "category": "all",
@@ -88198,7 +88198,7 @@
                             "tool_feedRamp": "50 inpm",
                             "tool_spindleSpeed": "12000 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0017,
                         "guid": "EAA16E45-9692-4372-BFFA-5C131CD3DAF1",
                         "material": {
@@ -88706,7 +88706,7 @@
                             "tool_stepover": ".0225 in",
                             "tool_surfaceSpeed": "785 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0032,
                         "guid": "36e1abf0-92b6-422f-b188-6dbdd930f07b",
                         "material": {
@@ -88741,7 +88741,7 @@
                             "tool_stepover": ".125 in",
                             "tool_surfaceSpeed": "500 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0016,
                         "guid": "5501746e-af01-47ad-ae77-d4460bcb92aa",
                         "material": {
@@ -88776,7 +88776,7 @@
                             "tool_stepover": ".015 in",
                             "tool_surfaceSpeed": "457 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0018,
                         "guid": "a23c9aad-e45c-4794-8f4e-b1c33dcb8670",
                         "material": {
@@ -88811,7 +88811,7 @@
                             "tool_stepover": ".025 in",
                             "tool_surfaceSpeed": "785 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0019,
                         "guid": "cc1557e9-78aa-4fe6-9d8f-06fc2f7f8619",
                         "material": {
@@ -88846,7 +88846,7 @@
                             "tool_stepover": ".125 in",
                             "tool_surfaceSpeed": "425 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0013,
                         "guid": "9a212a6a-d10d-4ac3-acdc-0dcfd1f0e559",
                         "material": {
@@ -88881,7 +88881,7 @@
                             "tool_stepover": ".005 in",
                             "tool_surfaceSpeed": "425 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0013,
                         "guid": "dcbe51d4-bea9-442a-8d92-45551b4a4a20",
                         "material": {
@@ -88916,7 +88916,7 @@
                             "tool_stepover": ".125 in",
                             "tool_surfaceSpeed": "250 fpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.001,
                         "guid": "ac228aa1-db6b-47e7-938f-4f82de2ebeaa",
                         "material": {
@@ -88951,7 +88951,7 @@
                             "tool_stepover": " 0.0375 in",
                             "tool_surfaceSpeed": "268 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0019,
                         "guid": "fb0d5069-2cae-46ca-b800-770171b0eddd",
                         "material": {
@@ -89020,7 +89020,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.00061,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "113b87ea-e453-4b20-94ea-15c8e9f87d04",
                         "material": {
                             "category": "all",
@@ -89054,7 +89054,7 @@
                             "tool_stepover": ".0125 in",
                             "tool_surfaceSpeed": "430 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0042,
                         "guid": "7da89a71-a3f8-45ff-9f6f-b37e1a0be4e2",
                         "material": {
@@ -89089,7 +89089,7 @@
                             "tool_stepover": ".0175 in",
                             "tool_surfaceSpeed": "620 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0024,
                         "guid": "dfe1294f-9b52-415e-8e85-0272102319f2",
                         "material": {
@@ -89158,7 +89158,7 @@
                             "tool_stepover": ".015 in",
                             "tool_surfaceSpeed": "448 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.002,
                         "guid": "1328987b-bf2e-4f33-8a13-c685d37e8d95",
                         "material": {
@@ -89259,7 +89259,7 @@
                             "tool_stepover": ".25 in",
                             "tool_surfaceSpeed": "184 fpm"
                         },
-                        "f_n": 6e-04,
+                        "f_n": 0.0006,
                         "f_z": 0.0012,
                         "guid": "f3f436a6-2c8a-425c-8117-b40032a40959",
                         "material": {
@@ -91121,7 +91121,7 @@
                             "tool_feedPerTooth": "0.00025 in",
                             "tool_spindleSpeed": "12000 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00025,
                         "guid": "c6ffd3f0-8a48-41fa-a54e-d0711cbc0677",
                         "material": {
@@ -91151,7 +91151,7 @@
                             "tool_feedPerTooth": ".00016 in",
                             "tool_spindleSpeed": "12000 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.00016,
                         "guid": "2ca9a841-1252-4667-9700-9f3f0e756f66",
                         "material": {
@@ -91866,7 +91866,7 @@
                             "tool_feedRamp": "30 inpm",
                             "tool_spindleSpeed": "12000 rpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0014,
                         "guid": "DEECF951-C0D5-47CE-84AD-56877CE43765",
                         "material": {
@@ -91897,7 +91897,7 @@
                             "tool_feedRamp": "30 inpm",
                             "tool_surfaceSpeed": "300 fpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0014,
                         "guid": "00e7015b-9993-4a63-aa50-a8bfa48c6c41",
                         "material": {
@@ -91928,7 +91928,7 @@
                             "tool_feedRamp": "30 inpm",
                             "tool_surfaceSpeed": "400 fpm"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0018,
                         "guid": "c81ae682-ba93-48f9-98af-9173de9f01ba",
                         "material": {
@@ -91963,7 +91963,7 @@
                             "use_tool_stepdown": "true",
                             "use_tool_stepover": "true"
                         },
-                        "f_n": 5e-04,
+                        "f_n": 0.0005,
                         "f_z": 0.0016,
                         "guid": "a781b04e-0aeb-41b1-ae32-c9a31b008234",
                         "material": {
@@ -92705,7 +92705,7 @@
                             "use_tool_stepdown": "true"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 5e-04,
+                        "f_z": 0.0005,
                         "guid": "038354FB-7057-4130-8125-8D43AE3442F1",
                         "material": {
                             "category": "all",
@@ -92737,7 +92737,7 @@
                             "use_tool_stepdown": "true"
                         },
                         "f_n": 8.333333333333333e-05,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "bbe2d864-63be-47d3-bcc5-aba583fd524d",
                         "material": {
                             "category": "all",
@@ -93304,7 +93304,7 @@
                         "v_f_transition": 74.8664852304276
                     },
                     {
-                        "f_n": 9e-04,
+                        "f_n": 0.0009,
                         "f_z": 0.0012,
                         "guid": "8ade46a2-dc07-424f-b217-3059600daf70",
                         "material": {
@@ -94345,10 +94345,10 @@
         },
         {
             "BMC": "hss",
-            "description": "4.039 mm",
+            "description": "4.039 mm - Previously T42",
             "expressions": {
                 "tool_bodyLength": "1.25 in",
-                "tool_description": "'4.039 mm'",
+                "tool_description": "'4.039 mm - Previously T42'",
                 "tool_diameter": "\t4.039 mm",
                 "tool_fluteLength": "\t17 mm",
                 "tool_overallLength": "\t66 mm",
@@ -94508,11 +94508,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 42,
-                "length-offset": 42,
+                "diameter-offset": 313,
+                "length-offset": 313,
                 "live": true,
                 "manual-tool-change": false,
-                "number": 42,
+                "number": 313,
                 "turret": 0
             },
             "product-id": "4151118",
@@ -95125,7 +95125,7 @@
                             "tool_surfaceSpeed": "200 fpm"
                         },
                         "f_n": 0.00016362461737446838,
-                        "f_z": 2e-04,
+                        "f_z": 0.0002,
                         "guid": "949452C4-3DD0-40D8-82D9-73A30250BA6C",
                         "material": {
                             "category": "all",
@@ -95656,7 +95656,7 @@
                 "presets": [
                     {
                         "f_n": 0.012217304763960305,
-                        "f_z": 7e-04,
+                        "f_z": 0.0007,
                         "guid": "bcf6e9aa-d600-4029-bf6a-b7b93591a7ef",
                         "material": {
                             "category": "all",
@@ -97714,7 +97714,7 @@
                     },
                     {
                         "f_n": 0.0015337890642526096,
-                        "f_z": 8e-04,
+                        "f_z": 0.0008,
                         "guid": "5501746e-af01-47ad-ae77-d4460bcb92aa",
                         "material": {
                             "category": "all",
@@ -100133,7 +100133,7 @@
         },
         {
             "BMC": "hss",
-            "description": "9.55mm Through Coolant Drill (.3759\")",
+            "description": "9.55mm Through Coolant Drill (.3759\") - Previously T198",
             "geometry": {
                 "CSP": false,
                 "DC": 0.375984251968504,
@@ -100208,11 +100208,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 198,
-                "length-offset": 198,
+                "diameter-offset": 337,
+                "length-offset": 337,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 198,
+                "number": 337,
                 "turret": 0
             },
             "product-id": "A3399XPL-9.55",
@@ -102240,7 +102240,7 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "0.067 Drill (1.7mm)",
+            "description": "0.067 Drill (1.7mm) - Previously T74",
             "expressions": {
                 "tool_bodyLength": ".6 in",
                 "tool_diameter": "1.7mm",
@@ -102330,11 +102330,11 @@
             "post-process": {
                 "break-control": false,
                 "comment": "",
-                "diameter-offset": 74,
-                "length-offset": 74,
+                "diameter-offset": 335,
+                "length-offset": 335,
                 "live": false,
                 "manual-tool-change": false,
-                "number": 74,
+                "number": 335,
                 "turret": 0
             },
             "product-id": "B041A01700CPG",

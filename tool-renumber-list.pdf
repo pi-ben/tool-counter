@@ -1,0 +1,664 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 5537 >>
+stream
+BT
+0 g
+/F2 17 Tf
+1 0 0 1 54 752 Tm
+(Tool Renumbering Map - Verified) Tj
+0.35 g
+/F1 9.5 Tf
+1 0 0 1 54 728 Tm
+(Generated 2026-06-15. newest_library.json cross-checked against old_library.json by physical product \(product-id / geometry / holder\).) Tj
+0.35 g
+/F1 9.5 Tf
+1 0 0 1 54 715 Tm
+(38 tools renumbered \(' - Previously T..'\). 22 stale paren notes removed; 2 paren notes on renumbered tools converted to dash.) Tj
+0 g
+/F2 12.5 Tf
+1 0 0 1 54 697 Tm
+(Verified renumber map  -  38 tools  \(previous -> current\)) Tj
+0 g
+/F2 9.5 Tf
+1 0 0 1 54 677 Tm
+(Previous -> Current) Tj
+0 g
+/F2 9.5 Tf
+1 0 0 1 215 677 Tm
+(Tool \(from prior library\)) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 662 Tm
+(T10 -> T38) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 662 Tm
+(KENNAMETAL 4150202) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 646.6 Tm
+(T11 -> T42) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 646.6 Tm
+(KENNAMETAL 4150195) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 631.2 Tm
+(T12 -> T317) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 631.2 Tm
+(KENNAMETAL 4149230) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 615.8 Tm
+(T21 -> T314) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 615.8 Tm
+(Kennametal 4149199) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 600.4 Tm
+(T38 -> T338) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 600.4 Tm
+(5/16" DIA, 5XD, 8MM SHANK Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 585 Tm
+(T42 -> T313) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 585 Tm
+(4.039 mm) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 569.6 Tm
+(T51 -> T326) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 569.6 Tm
+(HARVEY - 43362 - FULL RADIUS STANDARD KEYSEAT CUTTER - 0....) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 554.2 Tm
+(T65 -> T330) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 554.2 Tm
+(5.6mm Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 538.8 Tm
+(T74 -> T335) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 538.8 Tm
+(0.067 Drill \(1.7mm\)) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 523.4 Tm
+(T77 -> T344) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 523.4 Tm
+(2-56 FORM TAP RH) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 508 Tm
+(T77 -> T344) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 508 Tm
+(M16 x 2 Left-Hand Tap) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 492.6 Tm
+(T89 -> T329) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 492.6 Tm
+(0.375" x 3.125" END MILL, 3FL) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 477.2 Tm
+(T92 -> T319) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 477.2 Tm
+(1/32" x 5/64" x 1-1/2" 3FL END MILL) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 461.8 Tm
+(T102 -> T324) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 461.8 Tm
+(15mmÿ Carbide Drill 5XD) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 446.4 Tm
+(T105 -> T334) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 446.4 Tm
+(.2188" \(5.558 mm\) 5xD Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 431 Tm
+(T106 -> T332) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 431 Tm
+(.3978 Drill 10.1 mm - Through Coolant) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 415.6 Tm
+(T106 -> T332) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 415.6 Tm
+(.3978 Drill 10.1 mm) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 400.2 Tm
+(T107 -> T316) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 400.2 Tm
+(3/4" ÿ Carbide Straight Tooth Keyseat Cutter, 1/2" Shank...) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 384.8 Tm
+(T111 -> T325) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 384.8 Tm
+(1" x 82∞ 3FL COUNTERSINK) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 369.4 Tm
+(T113 -> T333) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 369.4 Tm
+(.3819 Drill Bit) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 354 Tm
+(T114 -> T320) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 354 Tm
+(0.375" SOLID CARBIDE DRILL) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 338.6 Tm
+(T115 -> T339) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 338.6 Tm
+(.627 Reemer) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 323.2 Tm
+(T116 -> T341) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 323.2 Tm
+(0.2813" Drill 7.145mm) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 307.8 Tm
+(T117 -> T342) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 307.8 Tm
+(5xD TSC) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 292.4 Tm
+(T120 -> T328) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 292.4 Tm
+(0.391 Drill 25/64) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 277 Tm
+(T121 -> T327) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 277 Tm
+(HARVEY - 846916 - SQUARE END MILL - 0.2500 \(1/4\) DIA X 0....) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 261.6 Tm
+(T131 -> T336) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 261.6 Tm
+(.1496) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 246.2 Tm
+(T134 -> T321) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 246.2 Tm
+(3mm Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 230.8 Tm
+(T140 -> T322) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 230.8 Tm
+(0.4688 5xD Drill \(Go Drill\)) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 215.4 Tm
+(T146 -> T343) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 215.4 Tm
+(2mm Ball Mill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 200 Tm
+(T149 -> T345) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 200 Tm
+(1/4" 60DEG Dove Tail) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 184.6 Tm
+(T153 -> T331) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 184.6 Tm
+(9MM 5XD Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 169.2 Tm
+(T153 -> T331) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 169.2 Tm
+(9MM 5XD Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 153.8 Tm
+(T183 -> T323) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 153.8 Tm
+(0.4055 Solid Carbide Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 138.4 Tm
+(T186 -> T340) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 138.4 Tm
+(#43 Drill .089) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 123 Tm
+(T191 -> T315) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 123 Tm
+(.5512" TSC Drill with Replaceable Tip) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 107.6 Tm
+(T192 -> T318) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 107.6 Tm
+(5mm Drill) Tj
+0 g
+/F2 11 Tf
+1 0 0 1 54 92.2 Tm
+(T198 -> T337) Tj
+0.32 g
+/F1 9.5 Tf
+1 0 0 1 215 92.2 Tm
+(9.55mm Through Coolant Drill \(.3759"\)) Tj
+1 g
+/F1 6 Tf
+1 0 0 1 54 76.8 Tm
+( ) Tj
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4461 >>
+stream
+BT
+0 g
+/F2 12.5 Tf
+1 0 0 1 54 752 Tm
+(Removed stale "\(Previously ..\)" notes  -  22 tools  \(number unchanged\)) Tj
+0 g
+/F2 9.5 Tf
+1 0 0 1 54 732 Tm
+(Tool #) Tj
+0 g
+/F2 9.5 Tf
+1 0 0 1 110 732 Tm
+(Tool) Tj
+0 g
+/F2 9.5 Tf
+1 0 0 1 320 732 Tm
+(Removed note) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 717 Tm
+(T43) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 717 Tm
+(5/8-11 Spiral Point Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 717 Tm
+(removed: \(Previously 236\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 701.6 Tm
+(T1027) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 701.6 Tm
+(M8x1.25 Form Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 701.6 Tm
+(removed: \(Previously 84\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 686.2 Tm
+(T1029) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 686.2 Tm
+(#8-32 UNC H2 SPIRAL FLUTE STAINLE...) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 686.2 Tm
+(removed: \(Previously 42\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 670.8 Tm
+(T1033) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 670.8 Tm
+(5/16-18 STI Cut Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 670.8 Tm
+(removed: \(Previously 78\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 655.4 Tm
+(T1037) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 655.4 Tm
+(1-72 FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 655.4 Tm
+(removed: \(Previously 75\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 640 Tm
+(T1038) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 640 Tm
+(M8-1.25 Cut Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 640 Tm
+(removed: \(Previously 71\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 624.6 Tm
+(T1040) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 624.6 Tm
+(#8-32 Helicoil Cut Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 624.6 Tm
+(removed: \(Previously 62\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 609.2 Tm
+(T1045) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 609.2 Tm
+(#8-32 FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 609.2 Tm
+(removed: \(Previously 51\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 593.8 Tm
+(T1047) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 593.8 Tm
+(M8x1.0 FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 593.8 Tm
+(removed: \(Previously 49\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 578.4 Tm
+(T1052) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 578.4 Tm
+(#10-32 UNC FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 578.4 Tm
+(removed: \(Previously 13\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 563 Tm
+(T1053) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 563 Tm
+(1/4"-20 UNC FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 563 Tm
+(removed: \(Previously 12\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 547.6 Tm
+(T1054) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 547.6 Tm
+(#0-80 UNC CUT TAP) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 547.6 Tm
+(removed: \(Previously 26\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 532.2 Tm
+(T1055) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 532.2 Tm
+(#3-48 UNC CUT TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 532.2 Tm
+(removed: \(Previously 28\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 516.8 Tm
+(T1059) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 516.8 Tm
+(#2-56 FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 516.8 Tm
+(removed: \(Previously 60\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 501.4 Tm
+(T1060) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 501.4 Tm
+(4-40 FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 501.4 Tm
+(removed: \(Previously 73\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 486 Tm
+(T1063) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 486 Tm
+(Tormach Passive Probe) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 486 Tm
+(removed: \(Previously 99\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 470.6 Tm
+(T1066) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 470.6 Tm
+(#0-80 Spiral Point Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 470.6 Tm
+(removed: \(Previously 189\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 455.2 Tm
+(T1081) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 455.2 Tm
+(Chip Fan; 6.3in Diameter) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 455.2 Tm
+(removed: \(Previously T93\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 439.8 Tm
+(T1083) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 439.8 Tm
+(6-40 H2 Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 439.8 Tm
+(removed: \(Previously T112\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 424.4 Tm
+(T1084) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 424.4 Tm
+(M2x0.4mm Spiral Flute Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 424.4 Tm
+(removed: \(Previously T116\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 409 Tm
+(T1086) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 409 Tm
+(T1086 M5x0.8 H6 Form Tap) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 409 Tm
+(removed: \(Previously T134\)) Tj
+0 g
+/F2 10.5 Tf
+1 0 0 1 54 393.6 Tm
+(T1093) Tj
+0.2 g
+/F1 9.5 Tf
+1 0 0 1 110 393.6 Tm
+(M3x0.5 FORM TAP RH) Tj
+0.5 g
+/F1 9 Tf
+1 0 0 1 320 393.6 Tm
+(removed: \(Previously T54\)) Tj
+ET
+
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000006051 00000 n 
+0000006187 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+10700
+%%EOF

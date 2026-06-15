@@ -3745,9 +3745,9 @@
         },
         {
             "BMC": "carbide",
-            "description": "5/8-11 Spiral Point Tap (Previously 236)",
+            "description": "5/8-11 Spiral Point Tap",
             "expressions": {
-                "tool_description": "'5/8-11 Spiral Point Tap (Previously 236)'",
+                "tool_description": "'5/8-11 Spiral Point Tap'",
                 "tool_diameter": "(5/8) in",
                 "tool_fluteLength": "1.083 in",
                 "tool_live": "false",
@@ -10368,9 +10368,9 @@
         },
         {
             "BMC": "hss",
-            "description": "6-40 H2 Tap (Previously T112)",
+            "description": "6-40 H2 Tap",
             "expressions": {
-                "tool_description": "'6-40 H2 Tap (Previously T112)'",
+                "tool_description": "'6-40 H2 Tap'",
                 "tool_number": "1083"
             },
             "geometry": {
@@ -10483,9 +10483,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#0-80 UNC CUT TAP (Previously 26)",
+            "description": "#0-80 UNC CUT TAP",
             "expressions": {
-                "tool_description": "'#0-80 UNC CUT TAP (Previously 26)'",
+                "tool_description": "'#0-80 UNC CUT TAP'",
                 "tool_number": "1054"
             },
             "geometry": {
@@ -10958,9 +10958,9 @@
         },
         {
             "BMC": "hss",
-            "description": "#0-80 Spiral Point Tap (Previously 189)",
+            "description": "#0-80 Spiral Point Tap",
             "expressions": {
-                "tool_description": "'#0-80 Spiral Point Tap (Previously 189)'",
+                "tool_description": "'#0-80 Spiral Point Tap'",
                 "tool_number": "1066"
             },
             "geometry": {
@@ -13287,9 +13287,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#2-56 FORM TAP RH (Previously 60)",
+            "description": "#2-56 FORM TAP RH",
             "expressions": {
-                "tool_description": "'#2-56 FORM TAP RH (Previously 60)'",
+                "tool_description": "'#2-56 FORM TAP RH'",
                 "tool_number": "1059"
             },
             "geometry": {
@@ -13424,9 +13424,9 @@
             "vendor": "MSC Direct"
         },
         {
-            "description": "Tormach Passive Probe (Previously 99)",
+            "description": "Tormach Passive Probe",
             "expressions": {
-                "tool_description": "'Tormach Passive Probe (Previously 99)'",
+                "tool_description": "'Tormach Passive Probe'",
                 "tool_diameter": "6mm",
                 "tool_manualToolChange": "false",
                 "tool_number": "1063",
@@ -13649,9 +13649,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "1/4\"-20 UNC FORM TAP RH (Previously 12)",
+            "description": "1/4\"-20 UNC FORM TAP RH",
             "expressions": {
-                "tool_description": "'1/4\"-20 UNC FORM TAP RH (Previously 12)'",
+                "tool_description": "'1/4\"-20 UNC FORM TAP RH'",
                 "tool_number": "1053"
             },
             "geometry": {
@@ -16211,9 +16211,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "M8-1.25 Cut Tap (Previously 71)",
+            "description": "M8-1.25 Cut Tap",
             "expressions": {
-                "tool_description": "'M8-1.25 Cut Tap (Previously 71)'",
+                "tool_description": "'M8-1.25 Cut Tap'",
                 "tool_number": "1038"
             },
             "geometry": {
@@ -17381,9 +17381,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#8-32 Helicoil Cut Tap (Previously 62)",
+            "description": "#8-32 Helicoil Cut Tap",
             "expressions": {
-                "tool_description": "'#8-32 Helicoil Cut Tap (Previously 62)'",
+                "tool_description": "'#8-32 Helicoil Cut Tap'",
                 "tool_number": "1040"
             },
             "geometry": {
@@ -19350,9 +19350,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#8-32 FORM TAP RH (Previously 51)",
+            "description": "#8-32 FORM TAP RH",
             "expressions": {
-                "tool_description": "'#8-32 FORM TAP RH (Previously 51)'",
+                "tool_description": "'#8-32 FORM TAP RH'",
                 "tool_number": "1045"
             },
             "geometry": {
@@ -21223,10 +21223,10 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "M3x0.5 FORM TAP RH (Previously T54)",
+            "description": "M3x0.5 FORM TAP RH",
             "expressions": {
                 "tool_bodyLength": "1.4 in",
-                "tool_description": "'M3x0.5 FORM TAP RH (Previously T54)'"
+                "tool_description": "'M3x0.5 FORM TAP RH'"
             },
             "geometry": {
                 "CSP": false,
@@ -21659,10 +21659,10 @@
         },
         {
             "BMC": "hss",
-            "description": "M2x0.4mm Spiral Flute Tap (Previously T116)",
+            "description": "M2x0.4mm Spiral Flute Tap",
             "expressions": {
                 "tool_bodyLength": ".6 in",
-                "tool_description": "'M2x0.4mm Spiral Flute Tap (Previously T116)'",
+                "tool_description": "'M2x0.4mm Spiral Flute Tap'",
                 "tool_fluteLength": "3mm",
                 "tool_number": "1084",
                 "tool_overallLength": "45mm",
@@ -22504,9 +22504,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#3-48 UNC CUT TAP RH (Previously 28)",
+            "description": "#3-48 UNC CUT TAP RH",
             "expressions": {
-                "tool_description": "'#3-48 UNC CUT TAP RH (Previously 28)'",
+                "tool_description": "'#3-48 UNC CUT TAP RH'",
                 "tool_number": "1055"
             },
             "geometry": {
@@ -24327,10 +24327,10 @@
         },
         {
             "BMC": "unspecified",
-            "description": "Chip Fan; 6.3in Diameter (Previously T93)",
+            "description": "Chip Fan; 6.3in Diameter",
             "expressions": {
                 "tool_bodyLength": "3.5 in",
-                "tool_description": "'Chip Fan; 6.3in Diameter (Previously T93)'",
+                "tool_description": "'Chip Fan; 6.3in Diameter'",
                 "tool_diameter": "6.3 in",
                 "tool_number": "1081",
                 "tool_productId": "'08-0187'",
@@ -24591,9 +24591,9 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": "[N] [P] [M]  (Previously T10)",
+            "description": "[N] [P] [M] - Previously T10",
             "expressions": {
-                "tool_description": "'[N] [P] [M]  (Previously T10)'",
+                "tool_description": "'[N] [P] [M] - Previously T10'",
                 "tool_number": "38"
             },
             "geometry": {
@@ -28833,10 +28833,10 @@
         },
         {
             "BMC": "carbide",
-            "description": "T1086 M5x0.8 H6 Form Tap (Previously T134)",
+            "description": "T1086 M5x0.8 H6 Form Tap",
             "expressions": {
                 "tool_bodyLength": "1.45 in",
-                "tool_description": "'T1086 M5x0.8 H6 Form Tap (Previously T134)'",
+                "tool_description": "'T1086 M5x0.8 H6 Form Tap'",
                 "tool_number": "1086"
             },
             "geometry": {
@@ -30704,9 +30704,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "1-72 FORM TAP RH (Previously 75)",
+            "description": "1-72 FORM TAP RH",
             "expressions": {
-                "tool_description": "'1-72 FORM TAP RH (Previously 75)'",
+                "tool_description": "'1-72 FORM TAP RH'",
                 "tool_number": "1037"
             },
             "geometry": {
@@ -44753,9 +44753,9 @@
         {
             "BMC": "ti coated",
             "GRADE": "generic",
-            "description": "M8x1.25 Form Tap (Previously 84)",
+            "description": "M8x1.25 Form Tap",
             "expressions": {
-                "tool_description": "'M8x1.25 Form Tap (Previously 84)'",
+                "tool_description": "'M8x1.25 Form Tap'",
                 "tool_number": "1027"
             },
             "geometry": {
@@ -56405,9 +56405,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "4-40 FORM TAP RH (Previously 73)",
+            "description": "4-40 FORM TAP RH",
             "expressions": {
-                "tool_description": "'4-40 FORM TAP RH (Previously 73)'",
+                "tool_description": "'4-40 FORM TAP RH'",
                 "tool_number": "1060"
             },
             "geometry": {
@@ -91334,9 +91334,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#10-32 UNC FORM TAP RH (Previously 13)",
+            "description": "#10-32 UNC FORM TAP RH",
             "expressions": {
-                "tool_description": "'#10-32 UNC FORM TAP RH (Previously 13)'",
+                "tool_description": "'#10-32 UNC FORM TAP RH'",
                 "tool_live": "false",
                 "tool_number": "1052"
             },
@@ -91775,10 +91775,10 @@
         {
             "BMC": "carbide",
             "GRADE": "generic",
-            "description": "[N] [P] [M] (Previously T11)",
+            "description": "[N] [P] [M] - Previously T11",
             "expressions": {
                 "tool_bodyLength": "1.25 in",
-                "tool_description": "'[N] [P] [M] (Previously T11)'",
+                "tool_description": "'[N] [P] [M] - Previously T11'",
                 "tool_diameter": "0.161 in",
                 "tool_number": "42"
             },
@@ -96672,9 +96672,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "M8x1.0 FORM TAP RH (Previously 49)",
+            "description": "M8x1.0 FORM TAP RH",
             "expressions": {
-                "tool_description": "'M8x1.0 FORM TAP RH (Previously 49)'",
+                "tool_description": "'M8x1.0 FORM TAP RH'",
                 "tool_number": "1047"
             },
             "geometry": {
@@ -96811,9 +96811,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "5/16-18 STI Cut Tap (Previously 78)",
+            "description": "5/16-18 STI Cut Tap",
             "expressions": {
-                "tool_description": "'5/16-18 STI Cut Tap (Previously 78)'",
+                "tool_description": "'5/16-18 STI Cut Tap'",
                 "tool_number": "1033"
             },
             "geometry": {
@@ -102384,9 +102384,9 @@
         {
             "BMC": "hss",
             "GRADE": "generic",
-            "description": "#8-32 UNC H2 SPIRAL FLUTE STAINLESS TAP (Previously 42)",
+            "description": "#8-32 UNC H2 SPIRAL FLUTE STAINLESS TAP",
             "expressions": {
-                "tool_description": "'#8-32 UNC H2 SPIRAL FLUTE STAINLESS TAP (Previously 42)'",
+                "tool_description": "'#8-32 UNC H2 SPIRAL FLUTE STAINLESS TAP'",
                 "tool_number": "1029"
             },
             "geometry": {
